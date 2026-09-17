@@ -1,0 +1,121 @@
+{
+    "meta":  {
+                 "count":  4,
+                 "page":  1,
+                 "per_page":  12,
+                 "last_page":  1
+             },
+    "data":  [
+                 {
+                     "slug":  "giza-pyramids-sphinx-egyptian-museum",
+                     "name":  "Giza Pyramids, Sphinx \u0026 Egyptian Museum",
+                     "destination":  "cairo",
+                     "description":  "Explore the wonders of ancient Egypt with a full-day tour to the Giza Pyramids, the legendary Great Sphinx, and the world-famous Egyptian Museum.",
+                     "image":  "/tours/giza-pyramids.jpg",
+                     "rating":  4.8,
+                     "review_count":  1248,
+                     "category":  {
+                                      "slug":  "cultural",
+                                      "name":  "Cultural Tours"
+                                  },
+                     "tour_type":  "cultural",
+                     "duration":  "8 Hours",
+                     "duration_hours":  8,
+                     "duration_key":  "fullDay",
+                     "run":  "Every Day",
+                     "group_size":  "2 - 20 People",
+                     "best_seller":  true,
+                     "price":  {
+                                   "amount":  65,
+                                   "currency":  "USD",
+                                   "child_amount":  45,
+                                   "infant_amount":  0
+                               }
+                 },
+                 {
+                     "slug":  "luxor-west-bank-tour",
+                     "name":  "Luxor West Bank Tour",
+                     "destination":  "luxor",
+                     "description":  "Discover the Valley of the Kings, Hatshepsut Temple, and the Colossi of Memnon on Luxor\u0027s West Bank.",
+                     "image":  "/tours/giza-pyramids.jpg",
+                     "rating":  4.8,
+                     "review_count":  1105,
+                     "category":  {
+                                      "slug":  "cultural",
+                                      "name":  "Cultural Tours"
+                                  },
+                     "tour_type":  "cultural",
+                     "duration":  "7 Hours",
+                     "duration_hours":  7,
+                     "duration_key":  "fullDay",
+                     "run":  "Every Day",
+                     "group_size":  "2 - 20 People",
+                     "best_seller":  false,
+                     "price":  {
+                                   "amount":  55,
+                                   "currency":  "USD",
+                                   "child_amount":  35,
+                                   "infant_amount":  0
+                               }
+                 },
+                 {
+                     "slug":  "abu-simbel-day-tour-by-flight",
+                     "name":  "Abu Simbel Day Tour by Flight",
+                     "destination":  "aswan",
+                     "description":  "Fly from Aswan to Abu Simbel and discover the magnificent temples of Ramses II and Nefertari.",
+                     "image":  "/tours/abu-simbel.jpg",
+                     "rating":  4.7,
+                     "review_count":  656,
+                     "category":  {
+                                      "slug":  "cultural",
+                                      "name":  "Cultural Tours"
+                                  },
+                     "tour_type":  "cultural",
+                     "duration":  "10 Hours",
+                     "duration_hours":  10,
+                     "duration_key":  "fullDay",
+                     "run":  "Every Day",
+                     "group_size":  "2 - 15 People",
+                     "best_seller":  false,
+                     "price":  {
+                                   "amount":  180,
+                                   "currency":  "USD",
+                                   "child_amount":  140,
+                                   "infant_amount":  0
+                               }
+                 },
+                 {
+                     "slug":  "dendera-abydos-temples-day-tour",
+                     "name":  "Dendera \u0026 Abydos Temples Day Tour",
+                     "destination":  "luxor",
+                     "description":  "Visit two of Egypt\u0027s best-preserved temple complexes at Dendera and Abydos on a guided day trip from Luxor.",
+                     "image":  "/tours/abu-simbel.jpg",
+                     "rating":  4.7,
+                     "review_count":  438,
+                     "category":  {
+                                      "slug":  "cultural",
+                                      "name":  "Cultural Tours"
+                                  },
+                     "tour_type":  "cultural",
+                     "duration":  "8 Hours",
+                     "duration_hours":  8,
+                     "duration_key":  "fullDay",
+                     "run":  "Every Day",
+                     "group_size":  "2 - 15 People",
+                     "best_seller":  false,
+                     "price":  {
+                                   "amount":  60,
+                                   "currency":  "USD",
+                                   "child_amount":  40,
+                                   "infant_amount":  0
+                               }
+                 }
+             ],
+    "category":  {
+                     "slug":  "cultural",
+                     "name":  "Cultural Tours",
+                     "description":  "Explore history, ancient sites and local heritage.",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuBiOq8FBPa-Zq_3bGq5fwjCk6LJ8-tG4H2ACCwS1l6ZJZYYycvJgglTacQsDwyI2UsG77Z3MaW3I2QiUO1xVlx9cHPx3PcylV4BxjWV7gYbTK-EuRGMCfivCiPb9ThlQb9y3NfFAD1fXwzYfRJN0cvlGGxzlLQ7gbi5uUbf9pBArEzrUbXHaEA2uF-m-wbLRYIvcCJSgT6VEh6_doSgbmHTwiWql2J2QyIKTJ7lEdYnaNu05a0GGhxz",
+                     "tours_count":  4
+                 }
+}

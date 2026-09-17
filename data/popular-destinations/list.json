@@ -1,0 +1,92 @@
+{
+    "meta":  {
+                 "count":  5,
+                 "page":  1,
+                 "per_page":  12,
+                 "last_page":  1
+             },
+    "data":  [
+                 {
+                     "slug":  "cairo",
+                     "name":  "Cairo",
+                     "country":  "Egypt",
+                     "categories":  [
+                                        "city",
+                                        "culture"
+                                    ],
+                     "featured":  true,
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg",
+                     "price":  {
+                                   "amount":  320,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "slug":  "sharm-el-sheikh",
+                     "name":  "Sharm El Sheikh",
+                     "country":  "Egypt",
+                     "categories":  [
+                                        "beach",
+                                        "adventure"
+                                    ],
+                     "featured":  true,
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuD7vNS88lISMaOfi9joqVi-MDBR1LMRf7c4yTxOM9bEwfOEZuEjvYdEl_0oQaulJATcvXiPdSlQvb1Cie83MouT-KueX8zt25w4ccmoodV6CJFv2AwWSVejHqWf13gyKOrnvJG-frGAIIXCQeE2aE-zF-Vw_y2H5mgWV8jVTqw1oaKJm7o_zL4BI9u9EhRr2yxSboBcv3XvHbWuioVrlwrnQeNR3oBW026qGSAIUSlrFsLgo37h2-fLaQ",
+                     "price":  {
+                                   "amount":  410,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "slug":  "hurghada",
+                     "name":  "Hurghada",
+                     "country":  "Egypt",
+                     "categories":  [
+                                        "beach",
+                                        "adventure"
+                                    ],
+                     "featured":  true,
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuBmhrnMjskwN-KpuPJ_2g2ElknrSP9hSSmV39PbjugD_X995SDKPmT2wgi-dFcDoZprv-KzCazSgHi7aUGUPK9KySbCflfJS-bDr1FoaFp7PtQn-SmvYW6cW27290HznKVSj2KTeg0OGZzM1PYTDuFAXtTQpVXpMimtjP_aQQg2M3VoNE-P7RHUnrygwVPPsdzX80yFahs8U41ju-r6JumYh3mZDXeaazZws_qtbbFhKs5BEtiVAIybbA",
+                     "price":  {
+                                   "amount":  390,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "slug":  "luxor-aswan",
+                     "name":  "Luxor \u0026 Aswan",
+                     "country":  "Egypt",
+                     "categories":  [
+                                        "culture",
+                                        "adventure"
+                                    ],
+                     "featured":  false,
+                     "image":  "http://127.0.0.1:8000/storage/destinations/1788037112_abu-simbel.jpg",
+                     "price":  {
+                                   "amount":  350,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "slug":  "north-coast",
+                     "name":  "North Coast",
+                     "country":  "Egypt",
+                     "categories":  [
+                                        "beach",
+                                        "nature"
+                                    ],
+                     "featured":  false,
+                     "image":  "http://127.0.0.1:8000/storage/destinations/1788036745_abu-simbel.jpg",
+                     "price":  {
+                                   "amount":  280,
+                                   "currency":  "USD"
+                               }
+                 }
+             ],
+    "category":  {
+                     "slug":  "egypt",
+                     "name":  "Egypt",
+                     "description":  "Pyramids, the Nile, and the Red Sea.",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg",
+                     "destinations_count":  5
+                 }
+}

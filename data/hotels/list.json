@@ -1,0 +1,123 @@
+{
+    "meta":  {
+                 "count":  4,
+                 "page":  1,
+                 "per_page":  12,
+                 "last_page":  1
+             },
+    "data":  [
+                 {
+                     "slug":  "marriott-mena-house-cairo",
+                     "name":  "Marriott Mena House, Cairo.",
+                     "location":  "Giza, Cairo",
+                     "destination":  "cairo",
+                     "description":  "Experience timeless elegance with breathtaking views of the Pyramids and exceptional service.\r\n\r\nExperience timeless luxury with stunning pyramid views and world-class amenities. Marriott Mena House offers an unforgettable stay with exceptional service, beautiful gardens, and exquisite dining options.\r\n\r\nSet beside the Great Pyramids of Giza, this historic property blends royal heritage with modern comfort. Guests enjoy landscaped gardens, multiple dining venues, a spa, and rooms with garden or pyramid views.\r\n\r\nIdeal for couples, families, and travelers seeking an iconic Cairo stay with easy access to Egypt\u0027s most famous landmarks.",
+                     "main_image":  "http://127.0.0.1:8000/storage/hotels/6a81cd464fd3a_marriott-mena-house.png",
+                     "stars":  5,
+                     "rating":  4.8,
+                     "review_label_key":  "excellent",
+                     "review_count":  1250,
+                     "property_type":  "hotels",
+                     "best_seller":  true,
+                     "amenities":  [
+                                       "wifi",
+                                       "pool",
+                                       "spa",
+                                       "restaurant",
+                                       "airportShuttle",
+                                       "allInclusive",
+                                       "parking",
+                                       "gym",
+                                       "breakfast"
+                                   ],
+                     "price":  {
+                                   "amount":  199,
+                                   "currency":  "USD",
+                                   "formatted":  "$199"
+                               }
+                 },
+                 {
+                     "slug":  "steigenberger-el-tahrir-cairo",
+                     "name":  "Steigenberger Hotel El Tahrir Cairo",
+                     "location":  "Downtown, Cairo",
+                     "destination":  "cairo",
+                     "description":  "Luxury accommodation in the heart of Cairo with premium facilities and great city views.\n\nStay in the heart of downtown Cairo at Steigenberger Hotel El Tahrir, steps from the Egyptian Museum and Tahrir Square.\n\nEnjoy modern rooms, a rooftop pool, fitness facilities, and refined dining with panoramic city views.\n\nA strong base for culture seekers exploring Cairo\u0027s museums, markets, and Nile-side attractions.",
+                     "main_image":  "/hotels/pool-sunset.jpg",
+                     "stars":  5,
+                     "rating":  4.5,
+                     "review_label_key":  "excellent",
+                     "review_count":  987,
+                     "property_type":  "hotels",
+                     "best_seller":  false,
+                     "amenities":  [
+                                       "wifi",
+                                       "pool",
+                                       "breakfast",
+                                       "gym",
+                                       "parking",
+                                       "restaurant"
+                                   ],
+                     "price":  {
+                                   "amount":  95,
+                                   "currency":  "USD",
+                                   "formatted":  "$95"
+                               }
+                 },
+                 {
+                     "slug":  "kempinski-nile-hotel-cairo",
+                     "name":  "Kempinski Nile Hotel Cairo",
+                     "location":  "Garden City, Cairo",
+                     "destination":  "cairo",
+                     "description":  "Overlooking the Nile, enjoy world-class hospitality, elegant rooms, and refined dining.\n\nKempinski Nile Hotel Cairo sits on the east bank of the Nile in Garden City, offering elegant rooms and suites with river or city views.\n\nGuests enjoy a spa, fitness center, outdoor pool, and several restaurants serving international and Egyptian cuisine.\n\nA refined choice for leisure and business travelers seeking Nile-front luxury in central Cairo.",
+                     "main_image":  "/hotels/marriott-mena-house.png",
+                     "stars":  5,
+                     "rating":  4.4,
+                     "review_label_key":  "veryGood",
+                     "review_count":  812,
+                     "property_type":  "hotels",
+                     "best_seller":  false,
+                     "amenities":  [
+                                       "wifi",
+                                       "pool",
+                                       "breakfast",
+                                       "spa",
+                                       "parking",
+                                       "restaurant",
+                                       "gym"
+                                   ],
+                     "price":  {
+                                   "amount":  110,
+                                   "currency":  "USD",
+                                   "formatted":  "$110"
+                               }
+                 },
+                 {
+                     "slug":  "hilton-hurghada-resort",
+                     "name":  "Hilton Hurghada Resort",
+                     "location":  "Hurghada",
+                     "destination":  "hurghada",
+                     "description":  "Beachfront resort on the Red Sea with pools, water sports, and family-friendly facilities.\n\nHilton Hurghada Resort offers a classic Red Sea holiday with private beach access, multiple pools, and lively entertainment.\n\nRooms and suites overlook gardens or the sea, with dining options ranging from casual buffets to specialty restaurants.\n\nPerfect for families and couples looking for a full-service Hurghada resort stay.",
+                     "main_image":  "/hotels/pool-sunset.jpg",
+                     "stars":  5,
+                     "rating":  4.3,
+                     "review_label_key":  "veryGood",
+                     "review_count":  1540,
+                     "property_type":  "resorts",
+                     "best_seller":  false,
+                     "amenities":  [
+                                       "wifi",
+                                       "pool",
+                                       "breakfast",
+                                       "restaurant",
+                                       "gym",
+                                       "parking",
+                                       "allInclusive"
+                                   ],
+                     "price":  {
+                                   "amount":  130,
+                                   "currency":  "USD",
+                                   "formatted":  "$130"
+                               }
+                 }
+             ]
+}

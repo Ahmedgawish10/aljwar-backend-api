@@ -1,0 +1,1306 @@
+{
+  "info": {
+    "name": "Al-Giwar API v1",
+    "description": "Import into Postman. Set baseUrl if needed.\n\n1) Run Auth → Login first (saves {{token}}).\n2) Admin Create/Update/Delete and booking List/Update/Delete use Bearer {{token}}.\n3) Public GETs and public form POSTs need no token.\n\nSeeded logins:\n- admin@gmail.com / admin123@\n- manager@gmail.com / manager123@\n- viewer@gmail.com / viewer123@\n\nBodies use snake_case to match Laravel validation.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://127.0.0.1:8000" },
+    { "key": "token", "value": "" },
+    { "key": "bookingId", "value": "1" }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "item": [
+        { "name": "Root", "request": { "method": "GET", "header": [], "url": "{{baseUrl}}/" } },
+        { "name": "Up", "request": { "method": "GET", "header": [], "url": "{{baseUrl}}/up" } },
+        { "name": "API", "request": { "method": "GET", "header": [], "url": "{{baseUrl}}/api" } },
+        { "name": "API v1", "request": { "method": "GET", "header": [], "url": "{{baseUrl}}/api/v1" } }
+      ]
+    },
+    {
+      "name": "Auth",
+      "item": [
+        {
+          "name": "Login",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 200) {",
+                  "  const json = pm.response.json();",
+                  "  pm.collectionVariables.set('token', json.data.token);",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"admin@gmail.com\",\n  \"password\": \"admin123@\",\n  \"device\": \"postman\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/auth/login"
+          }
+        },
+        {
+          "name": "Me",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/auth/me"
+          }
+        },
+        {
+          "name": "Logout",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/auth/logout"
+          }
+        }
+      ]
+    },
+    {
+      "name": "About Us",
+      "item": [
+        {
+          "name": "Show",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/about-us"
+          }
+        },
+        {
+          "name": "Create / Save",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"overline\": \"Discover Our Story\",\n  \"title\": \"Your Trusted Travel Partner in Egypt\",\n  \"info\": \"AL-GEWAR Travel & Tourism provides flights, hotels, tours, transfers, and visa services.\",\n  \"stats\": [\n    { \"value\": \"10+\", \"label\": \"Years of Experience\" },\n    { \"value\": \"25K+\", \"label\": \"Happy Travelers\" }\n  ],\n  \"values\": {\n    \"title\": \"Our Values\",\n    \"items\": [\n      { \"title\": \"Integrity\", \"text\": \"Honesty and transparency.\" }\n    ]\n  }\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/about-us"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Your Trusted Travel Partner in Egypt (updated)\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/about-us"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Airport Transfers",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/airport-transfers?destination=hurghada&sort=priceLow&per_page=12",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "airport-transfers"],
+              "query": [
+                { "key": "q", "value": "", "disabled": true },
+                { "key": "destination", "value": "hurghada" },
+                { "key": "experience", "value": "fastTrack", "disabled": true },
+                { "key": "min_price", "value": "20", "disabled": true },
+                { "key": "max_price", "value": "80", "disabled": true },
+                { "key": "sort", "value": "priceLow" },
+                { "key": "per_page", "value": "12" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Detail by slug",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/airport-transfers?slug=fast-track-clearance-hurghada-airport"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"cairo-private-sedan\",\n  \"name\": \"Cairo Airport Private Sedan\",\n  \"destination\": \"cairo\",\n  \"duration_minutes\": 45,\n  \"experience\": \"privateTransfer\",\n  \"run\": \"Everyday\",\n  \"group_size\": \"Private Service\",\n  \"price\": { \"amount\": 40, \"currency\": \"USD\" }\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/airport-transfers"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Fast track clearance Hurghada (updated)\",\n  \"price\": { \"amount\": 65, \"currency\": \"USD\" }\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/airport-transfers?slug=fast-track-clearance-hurghada-airport"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/airport-transfers?slug=cairo-private-sedan"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Airport Transfer Bookings",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/airport-transfers/book"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/airport-transfers/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"fast-track-clearance-hurghada-airport\",\n  \"travel_date\": \"2026-09-01\",\n  \"adults\": 2,\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"nationality\": \"egypt\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/airport-transfers/book"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"confirmed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/airport-transfers/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/airport-transfers/book?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hotels",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/hotels?destination=cairo&sort=recommended"
+          }
+        },
+        {
+          "name": "Detail by slug",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/hotels?slug=marriott-mena-house-cairo"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"test-hotel-cairo\",\n  \"name\": \"Test Hotel Cairo\",\n  \"location\": \"Cairo\",\n  \"destination\": \"cairo\",\n  \"stars\": 4,\n  \"rating\": 4.5,\n  \"property_type\": \"hotels\",\n  \"price\": { \"amount\": 120, \"currency\": \"USD\" }\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/hotels"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"name\": \"Marriott Mena House (updated)\"\n}" },
+            "url": "{{baseUrl}}/api/v1/hotels?slug=marriott-mena-house-cairo"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/hotels?slug=test-hotel-cairo"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hotel Bookings",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/hotels/book"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/hotels/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"marriott-mena-house-cairo\",\n  \"check_in\": \"2026-09-10\",\n  \"check_out\": \"2026-09-14\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"nationality\": \"egypt\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/hotels/book"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"confirmed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/hotels/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/hotels/book?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flights",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/flights?airline=emirates&sort=priceLow"
+          }
+        },
+        {
+          "name": "Detail by id",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/flights?id=emirates-1"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"test-flight-1\",\n  \"airline\": \"egyptair\",\n  \"airline_name\": \"EgyptAir\",\n  \"depart_time\": \"08:00\",\n  \"arrive_time\": \"12:00\",\n  \"duration\": \"4h\",\n  \"stops\": \"direct\",\n  \"departure\": \"CAI\",\n  \"arrival\": \"DXB\",\n  \"departure_slot\": \"morning\",\n  \"price\": { \"amount\": 350, \"currency\": \"USD\" }\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/flights"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"price\": { \"amount\": 399, \"currency\": \"USD\" }\n}" },
+            "url": "{{baseUrl}}/api/v1/flights?id=emirates-1"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/flights?id=test-flight-1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flight Bookings",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/flights/book"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/flights/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"emirates-1\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"adults\": 2,\n  \"children\": 0,\n  \"nationality\": \"egypt\",\n  \"addons\": [\"baggage\"]\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/flights/book"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"confirmed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/flights/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/flights/book?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daily Tours",
+      "item": [
+        {
+          "name": "List categories (landing)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours"
+          }
+        },
+        {
+          "name": "List categories endpoint",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours/categories?per_page=50&page=1"
+          }
+        },
+        {
+          "name": "List categories with tours",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours?with_tours=1&per_page=50"
+          }
+        },
+        {
+          "name": "List tours in category",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours?category=cultural"
+          }
+        },
+        {
+          "name": "Detail by slug",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours?slug=giza-pyramids-sphinx-egyptian-museum"
+          }
+        },
+        {
+          "name": "Create category",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"test-category\",\n  \"name\": \"Test Category\",\n  \"description\": \"Temporary category for Postman.\",\n  \"icon\": \"fa-solid fa-star\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/daily-tours/categories"
+          }
+        },
+        {
+          "name": "Update category",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"name\": \"Cultural Tours (updated)\"\n}" },
+            "url": "{{baseUrl}}/api/v1/daily-tours/categories?slug=cultural"
+          }
+        },
+        {
+          "name": "Delete category",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours/categories?slug=test-category"
+          }
+        },
+        {
+          "name": "Create tour",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"test-cairo-tour\",\n  \"name\": \"Test Cairo Tour\",\n  \"destination\": \"cairo\",\n  \"destination_label\": \"Cairo\",\n  \"category\": \"cultural\",\n  \"duration\": \"8 hours\",\n  \"duration_hours\": 8,\n  \"duration_key\": \"fullDay\",\n  \"price\": { \"amount\": 80, \"currency\": \"USD\" }\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/daily-tours"
+          }
+        },
+        {
+          "name": "Update tour",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"name\": \"Giza Pyramids (updated)\"\n}" },
+            "url": "{{baseUrl}}/api/v1/daily-tours?slug=giza-pyramids-sphinx-egyptian-museum"
+          }
+        },
+        {
+          "name": "Delete tour",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours?slug=test-cairo-tour"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daily Tour Bookings",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours/book"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"giza-pyramids-sphinx-egyptian-museum\",\n  \"tour_date\": \"2026-09-05\",\n  \"adults\": 2,\n  \"children\": 1,\n  \"infants\": 0,\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"nationality\": \"egypt\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/daily-tours/book"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"confirmed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/daily-tours/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/daily-tours/book?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Visa Services",
+      "item": [
+        {
+          "name": "List destinations",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/visa-services"
+          }
+        },
+        {
+          "name": "Detail by country",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/visa-services?country_name=Turkey"
+          }
+        },
+        {
+          "name": "Create destination",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "formdata",
+              "formdata": [
+                { "key": "country_name", "value": "Egypt", "type": "text" },
+                { "key": "price", "value": "50", "type": "text" },
+                { "key": "country_image", "type": "file", "src": [] },
+                { "key": "country_flag", "type": "file", "src": [] }
+              ]
+            },
+            "url": "{{baseUrl}}/api/v1/visa-services"
+          }
+        },
+        {
+          "name": "Update destination",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"price\": 70\n}" },
+            "url": "{{baseUrl}}/api/v1/visa-services?country_name=Turkey"
+          }
+        },
+        {
+          "name": "Delete destination",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/visa-services?country_name=Egypt"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Visa Applications",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/visa-services/apply"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/visa-services/apply?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"country\": \"Turkey\",\n  \"visa_type\": \"tourist\",\n  \"purpose\": \"vacation\",\n  \"nationality\": \"egyptian\",\n  \"arrival_date\": \"2026-10-01\",\n  \"applicants\": 1,\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"passport_number\": \"A12345678\",\n  \"date_of_birth\": \"1990-01-01\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/visa-services/apply"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"processing\"\n}" },
+            "url": "{{baseUrl}}/api/v1/visa-services/apply?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/visa-services/apply?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Popular Destinations",
+      "item": [
+        {
+          "name": "List categories (landing)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations"
+          }
+        },
+        {
+          "name": "List categories endpoint",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations/categories?per_page=50&page=1"
+          }
+        },
+        {
+          "name": "List destinations in category",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations?category=egypt"
+          }
+        },
+        {
+          "name": "Detail by slug",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations?slug=cairo"
+          }
+        },
+        {
+          "name": "Create category",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"test-country\",\n  \"name\": \"Test Country\",\n  \"description\": \"Temporary destination category.\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/popular-destinations/categories"
+          }
+        },
+        {
+          "name": "Update category",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"name\": \"Egypt (updated)\"\n}" },
+            "url": "{{baseUrl}}/api/v1/popular-destinations/categories?slug=egypt"
+          }
+        },
+        {
+          "name": "Delete category",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations/categories?slug=test-country"
+          }
+        },
+        {
+          "name": "Create destination",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"test-dest\",\n  \"name\": \"Test Dest\",\n  \"country\": \"Egypt\",\n  \"categories\": [\"city\"],\n  \"price_from\": 200,\n  \"currency\": \"USD\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/popular-destinations"
+          }
+        },
+        {
+          "name": "Update destination",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"featured\": true\n}" },
+            "url": "{{baseUrl}}/api/v1/popular-destinations?slug=cairo"
+          }
+        },
+        {
+          "name": "Delete destination",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations?slug=test-dest"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Popular Destination Bookings",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations/book"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"cairo\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"travel_date\": \"2026-09-01\",\n  \"return_date\": \"2026-09-08\",\n  \"travelers\": \"2\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/popular-destinations/book"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"confirmed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/popular-destinations/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/popular-destinations/book?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holiday Packages",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/holiday-packages?sort=recommended"
+          }
+        },
+        {
+          "name": "Detail by slug",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/holiday-packages?slug=dubai-escape"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"test-package\",\n  \"name\": \"Test Package\",\n  \"location\": \"Cairo, Egypt\",\n  \"destination\": \"cairo\",\n  \"duration\": \"5 Days / 4 Nights\",\n  \"days\": 5,\n  \"nights\": 4,\n  \"price\": { \"amount\": 799, \"currency\": \"USD\" },\n  \"categories\": [\"city\"]\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/holiday-packages"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"name\": \"Dubai Escape (updated)\"\n}" },
+            "url": "{{baseUrl}}/api/v1/holiday-packages?slug=dubai-escape"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/holiday-packages?slug=test-package"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holiday Package Bookings",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/holiday-packages/book"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/holiday-packages/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"slug\": \"dubai-escape\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"travelers\": \"2\",\n  \"departure\": \"2026-09-10\",\n  \"return_date\": \"2026-09-16\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/holiday-packages/book"
+          }
+        },
+        {
+          "name": "Update status",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"confirmed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/holiday-packages/book?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/holiday-packages/book?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book Now",
+      "item": [
+        {
+          "name": "Form options",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now"
+          }
+        },
+        {
+          "name": "Flights list",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/flights"
+          }
+        },
+        {
+          "name": "Flights create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"from\": \"Cairo\",\n  \"to\": \"Dubai\",\n  \"trip_type\": \"roundTrip\",\n  \"departure_date\": \"2026-09-10\",\n  \"return_date\": \"2026-09-20\",\n  \"passengers\": \"2\",\n  \"class\": \"economy\",\n  \"airline\": \"emirates\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"special_requests\": \"Window seat\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/book-now/flights"
+          }
+        },
+        {
+          "name": "Flights update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"contacted\"\n}" },
+            "url": "{{baseUrl}}/api/v1/book-now/flights?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Flights delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/flights?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Hotels list",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/hotels"
+          }
+        },
+        {
+          "name": "Hotels create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"destination\": \"Cairo\",\n  \"check_in\": \"2026-09-10\",\n  \"check_out\": \"2026-09-14\",\n  \"guests\": \"2\",\n  \"rooms\": \"1\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/book-now/hotels"
+          }
+        },
+        {
+          "name": "Hotels update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"contacted\"\n}" },
+            "url": "{{baseUrl}}/api/v1/book-now/hotels?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Hotels delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/hotels?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Tours list",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/tours"
+          }
+        },
+        {
+          "name": "Tours create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"destination\": \"Luxor\",\n  \"travel_date\": \"2026-09-12\",\n  \"passengers\": \"2\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/book-now/tours"
+          }
+        },
+        {
+          "name": "Tours update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"contacted\"\n}" },
+            "url": "{{baseUrl}}/api/v1/book-now/tours?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Tours delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/tours?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Transfers list",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/transfers"
+          }
+        },
+        {
+          "name": "Transfers create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"from\": \"Hurghada Airport\",\n  \"to\": \"Hotel\",\n  \"travel_date\": \"2026-09-01\",\n  \"passengers\": \"2\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/book-now/transfers"
+          }
+        },
+        {
+          "name": "Transfers update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"contacted\"\n}" },
+            "url": "{{baseUrl}}/api/v1/book-now/transfers?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Transfers delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/transfers?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Visa list",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/visa"
+          }
+        },
+        {
+          "name": "Visa create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nationality\": \"egypt\",\n  \"visa_country\": \"Turkey\",\n  \"travel_date\": \"2026-10-01\",\n  \"full_name\": \"Ahmed Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/book-now/visa"
+          }
+        },
+        {
+          "name": "Visa update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"contacted\"\n}" },
+            "url": "{{baseUrl}}/api/v1/book-now/visa?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Visa delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/book-now/visa?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contact Messages",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/contact-messages"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/contact-messages?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"first_name\": \"Ahmed\",\n  \"last_name\": \"Test\",\n  \"email\": \"ahmed@example.com\",\n  \"phone\": \"+201000000000\",\n  \"country\": \"egypt\",\n  \"subject\": \"Trip inquiry\",\n  \"service\": \"tours\",\n  \"message\": \"I would like a 7-day Egypt itinerary.\",\n  \"privacy\": true\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/contact-messages"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"read\"\n}" },
+            "url": "{{baseUrl}}/api/v1/contact-messages?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/contact-messages?id={{bookingId}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newsletter",
+      "item": [
+        {
+          "name": "List",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/newsletter"
+          }
+        },
+        {
+          "name": "Get by id",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/newsletter?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Subscribe",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"subscriber@example.com\"\n}"
+            },
+            "url": "{{baseUrl}}/api/v1/newsletter"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"status\": \"unsubscribed\"\n}" },
+            "url": "{{baseUrl}}/api/v1/newsletter?id={{bookingId}}"
+          }
+        },
+        {
+          "name": "Delete",
+          "request": {
+            "auth": { "type": "bearer", "bearer": [{ "key": "token", "value": "{{token}}" }] },
+            "method": "DELETE",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": "{{baseUrl}}/api/v1/newsletter?id={{bookingId}}"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+    "slug":  "marriott-mena-house-cairo",
+    "name":  "Marriott Mena House, Cairo.",
+    "location":  "Giza, Cairo",
+    "destination":  "cairo",
+    "description":  "Experience timeless elegance with breathtaking views of the Pyramids and exceptional service.\r\n\r\nExperience timeless luxury with stunning pyramid views and world-class amenities. Marriott Mena House offers an unforgettable stay with exceptional service, beautiful gardens, and exquisite dining options.\r\n\r\nSet beside the Great Pyramids of Giza, this historic property blends royal heritage with modern comfort. Guests enjoy landscaped gardens, multiple dining venues, a spa, and rooms with garden or pyramid views.\r\n\r\nIdeal for couples, families, and travelers seeking an iconic Cairo stay with easy access to Egypt\u0027s most famous landmarks.",
+    "main_image":  "http://127.0.0.1:8000/storage/hotels/6a81cd464fd3a_marriott-mena-house.png",
+    "gallery":  [
+                    "/hotels/marriott-mena-house.png",
+                    "/hotels/pool-sunset.jpg",
+                    "/hotels/hotel-img.jpg",
+                    "/hotels/hotel-img2.jpg"
+                ],
+    "stars":  5,
+    "rating":  4.8,
+    "review_label_key":  "excellent",
+    "review_count":  1250,
+    "review_breakdown":  [
+                             {
+                                 "stars":  5,
+                                 "percent":  85
+                             },
+                             {
+                                 "stars":  4,
+                                 "percent":  10
+                             },
+                             {
+                                 "stars":  3,
+                                 "percent":  3
+                             },
+                             {
+                                 "stars":  2,
+                                 "percent":  1
+                             },
+                             {
+                                 "stars":  1,
+                                 "percent":  1
+                             }
+                         ],
+    "property_type":  "hotels",
+    "best_seller":  true,
+    "amenities":  [
+                      "wifi",
+                      "pool",
+                      "spa",
+                      "restaurant",
+                      "airportShuttle",
+                      "allInclusive",
+                      "parking",
+                      "gym",
+                      "breakfast"
+                  ],
+    "price":  {
+                  "amount":  199,
+                  "currency":  "USD",
+                  "formatted":  "$199"
+              },
+    "check_in":  "3:00 PM",
+    "check_out":  "12:00 PM",
+    "pets":  "Not allowed",
+    "things_to_remember":  [
+                               "Valid passport required for all guests at check-in.",
+                               "Pyramid-view rooms are subject to availability and may carry a surcharge.",
+                               "Early check-in and late check-out are subject to availability.",
+                               "Please advise of any special requests when booking."
+                           ]
+}

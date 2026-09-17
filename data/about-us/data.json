@@ -1,0 +1,44 @@
+{
+    "data": {
+        "title": "Your Trusted Travel Partner in Egypt",
+        "overline": "Discover Our Story",
+        "info": "AL-GEWAR Travel & Tourism was founded with a simple mission: to provide exceptional travel services with honesty, reliability, and a personal touch. We believe that every journey should be more than just a trip—it should be a soul-stirring experience. With years of experience in the travel industry, we specialize in flights, hotels, tours, transfers, and visa services, ensuring every journey is smooth, enjoyable, and memorable. Our deep roots in Egyptian heritage allow us to offer unique insights that others simply can't.",
+        "stats": [
+            {
+                "value": "10+",
+                "label": "Years of Experience"
+            },
+            {
+                "value": "25K+",
+                "label": "Happy Travelers"
+            },
+            {
+                "value": "50+",
+                "label": "Destinations Worldwide"
+            },
+            {
+                "value": "4.9/5",
+                "label": "Customer Satisfaction"
+            }
+        ],
+        "values": {
+            "title": "Our Values",
+            "items": [
+                {
+                    "title": "Integrity",
+                    "text": "We believe in honesty, transparency, and building long-term relationships with our clients and partners through ethical business practices."
+                },
+                {
+                    "title": "Excellence",
+                    "text": "We are dedicated to delivering outstanding service every time. We constantly strive to exceed expectations in every aspect of travel."
+                },
+                {
+                    "title": "Passion",
+                    "text": "We love what we do and are passionate about making your trips special. Our enthusiasm is the heartbeat of our company's success."
+                }
+            ]
+        },
+        "main_image": "about-us/6a8472ecd10e3_hero.jpg",
+        "is_active": true
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "slug":  "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab",
+    "name":  "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbab",
+    "destination":  "hurghada",
+    "duration_minutes":  44,
+    "run":  "Everyday",
+    "group_size":  "Private Service",
+    "experience":  "privateTransfer",
+    "main_image":  "http://127.0.0.1:8000/storage/transfers/book2.png",
+    "gallery":  [
+
+                ],
+    "description":  null,
+    "inclusions":  [
+
+                   ],
+    "exclusions":  [
+
+                   ],
+    "meeting_point":  null,
+    "things_to_remember":  [
+                               "ret"
+                           ],
+    "price":  {
+                  "amount":  20,
+                  "currency":  "USD",
+                  "formatted":  "$ 20"
+              }
+}

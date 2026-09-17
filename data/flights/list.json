@@ -1,0 +1,118 @@
+{
+    "meta":  {
+                 "count":  6,
+                 "page":  1,
+                 "per_page":  12,
+                 "last_page":  1
+             },
+    "data":  [
+                 {
+                     "id":  "emirates-1",
+                     "airline":  "emirates",
+                     "airline_name":  "Emirates",
+                     "airline_logo":  "http://127.0.0.1:8000/storage/flights/pool-sunset.jpg",
+                     "depart_time":  "02:30",
+                     "arrive_time":  "06:30",
+                     "duration":  "3h 00m",
+                     "stops":  "direct",
+                     "departure":  "cairo",
+                     "arrival":  "dubai",
+                     "departure_slot":  "night",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuBx7o0YnZa5GooDww7Bjf_w8XcM6N4hJajFJdd_lKEreX_ZyUf47Vf7d6jKQlBJ_Ff9QG29FpeEJFmJVyCEJ1Bl23xX2TF5_InDEGhcWaUN6YoiF21nA5q7nd0K2yYZyDs9VTjSbRLVsW7lRfKQXXvi3vfx5z04WhvzNiS00ZsmdPTtA9kvQ_uKu9Aa20-sQJGSPH3WDwZ8u-CJz7GXgJbhP8_ZMbHkJYAuqwGA4G_8v29Ld7Vmgy55_g",
+                     "price":  {
+                                   "amount":  380,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "egyptair-1",
+                     "airline":  "egyptair",
+                     "airline_name":  "EgyptAir",
+                     "airline_logo":  "https://lh3.googleusercontent.com/aida-public/AB6AXuAt-Jzjhim5j5T9dWjarlIhgRpYJuHmwYA6ZwjExkOcXYoc3r_QA6Q47-0_ezvXmyTmtzE1HTjk5X0y1pbSjI39FUvyfct2DuIZJLoRgvNysDgowzmWfysMCd6xO28ZDZ7ggGgee0GztqWECGQRxHBzHuq7FudKjOFtFrmB1edvJRwJdbH7NokIVPZGSWfgz8ctQ8QNJQJSP7hTroRTbAANyTKno9Y8hRkUnH4PDGeEkdN3JZcERjgOsg",
+                     "depart_time":  "08:15",
+                     "arrive_time":  "12:25",
+                     "duration":  "3h 10m",
+                     "stops":  "direct",
+                     "departure":  "cairo",
+                     "arrival":  "dubai",
+                     "departure_slot":  "morning",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuCWF_KecFAKgAqHIDPfEuImAbfs4PBQVPIhkj0o_XF7yGrLWBjWxUh_xVfw8qnNwzCi7Mta3ThXkQvA1-0AmCVREdIir0IvAM_iprxIJbTZ67RNBP-8RGLQZ9uYByBwGTYf-pp9DrBjg-xo6IlN98apSz9pqx_TeMx30eCrNM2Akmuk_5_Z4ZRu6MHjGnX1PLmnAB6FUzoi73mWMetHbuhDrCy1ihe97Y4LTeZchqq7A3BxyBFDMANSUA",
+                     "price":  {
+                                   "amount":  290,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "qatar-1",
+                     "airline":  "qatar",
+                     "airline_name":  "Qatar Airways",
+                     "airline_logo":  "https://lh3.googleusercontent.com/aida-public/AB6AXuCEJCCT8HMn934r0YmVlh6ck8tH2AeDT7A7QWQyFs7lyceSCP9nveH5WTHg9iLsfzFR0_-egGc3g8K5pDcOJMHG0s7o1jsiB9oAIA5nFs0oEY-xFoaESxozVIuias-VDPoAIDssHvlw8mmBG0XvrTGTn7_d5bAtqEhm3WZDddD1IzmXGDkVPf5Za6f79S7WsbDXP5HhNVe8MUV2HUC-NIa4luyrjVr3Wde7uMgTE7iyZAnZNys0ezr5Sw",
+                     "depart_time":  "20:45",
+                     "arrive_time":  "00:55",
+                     "duration":  "3h 10m",
+                     "stops":  "direct",
+                     "departure":  "cairo",
+                     "arrival":  "dubai",
+                     "departure_slot":  "evening",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuBZrCNj4IGFLlqHZk9Ae9oeQToJa2DWPH9Cb-lmF9qomV8by72jmXt4BCTRTuGkWBL7qKwbNThLyJ9x6heQCdv8ppsDaPWD4iQIGwsCqnO6OjqewmuhQ7dq7Lr2vkz2Kb-r2A_37pcYbFUpxz6Rrtl1x1zPP3ORG__Z2MZnkPyU5J5Fb0pXGvNTd8QRATiMtvDbNnHCNn6uwLyO_WY3X2cSx1Tb5BRQ0gCUbXJMxC-_ncfMrrj4bEU08A",
+                     "price":  {
+                                   "amount":  420,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "turkish-1",
+                     "airline":  "turkish",
+                     "airline_name":  "Turkish Airlines",
+                     "airline_logo":  "https://lh3.googleusercontent.com/aida-public/AB6AXuAs7TL-TDTYOBzVzALvzSQtoPDoPJyUdbvmDdhqEoMtY6W7P_ZhmMcQxdejMWW0aPEOQjgz2KSoqXutGyggWoBlP66dYW5iZySi1fAP7uPElMIFD8KVcDchudxYrFGH4CsieY28XBlPZdsq8NXmbfP4RA6IgbNbKQOCcbP1JNYD7aFX6elq9YHuWC-VNN9uUH8ovL2U7rD_GuseYVjs8wJazA8Am6RTKRYQXBsYyTfuWUcrHZfWZ0CIXQ",
+                     "depart_time":  "09:40",
+                     "arrive_time":  "16:15",
+                     "duration":  "6h 35m",
+                     "stops":  "oneStop",
+                     "departure":  "cairo",
+                     "arrival":  "dubai",
+                     "departure_slot":  "morning",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuDB1jknFPBm83ra4Je62b6eg2jgh0pWPBarVui9nwcJhOD3qB1RmuvfbrwpCbJ8OqmpMqHyKQMB3HDojR-sAdplLuaEA-cMMDMmNKUOb_QnoZ16ZDueGSvBR-4CU--ZtaXJaWanQx-CJukbVHXDoJvMYqObZITsKnGqkv2wZbtbr0MEATe8VNj5TZqcj0hwC4CZKGX2dozh4mUuPL1vaIXbtj8APdjD24DNKtSktkzht21Q7asLKefHXw",
+                     "price":  {
+                                   "amount":  265,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "flydubai-1",
+                     "airline":  "flydubai",
+                     "airline_name":  "flydubai",
+                     "airline_logo":  "https://lh3.googleusercontent.com/aida-public/AB6AXuBYuiFdcnm8AafvtHPnZ1MEY664vRjRqAPrCvdxGquRelqELnAWtlNqkr3QV70hPU3kCokFX6lfWmhM8jQ16B6-kx_-tgBdBBHWdbEX0Gbvl1dQI7DvWC0B7yJXNnw3nNeQ8-6cH0iqQt97093W1unqIRhYI_vUC5uUb6tt4BFoeEs-0dQo3oXqGIUvbeHhVsQFISynNJn7JFR2TZwSH4d-k895DePEfNusGgw_hl2fhNXDOotakQUhkA",
+                     "depart_time":  "14:20",
+                     "arrive_time":  "18:00",
+                     "duration":  "3h 40m",
+                     "stops":  "direct",
+                     "departure":  "cairo",
+                     "arrival":  "dubai",
+                     "departure_slot":  "afternoon",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuDk5kZLRYVtEWr9o5rX13_sqVboL3r63dmX24nCLjDzsSM831ntzLtqZv9wDZpXhODOuHKZECJ-uqwm968RsCgq58kDCvlvqjqmxcd0r-R1h8w4r2_WS8Uddcap8dJPDrcRXgoDDmjjImOOlZCuqvxn73l2ziYrxdCRF1D1FbQuL-5JZZZhVtegG5LlRwAEKUdyoNlElaJkYHWmawqaANFVtYVTzkQMNCAgxqoZqFo5epMBNw5TpDxfgA",
+                     "price":  {
+                                   "amount":  240,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "airarabia-1",
+                     "airline":  "airarabia",
+                     "airline_name":  "Air Arabia",
+                     "airline_logo":  "https://lh3.googleusercontent.com/aida-public/AB6AXuDaUpRA_Iir9FCGH0VBASLUwulrculhywrGFbvSAYKPd1r5Yj1I20zv7SkvK4OtOJ_6LQeZkoVxqO5Aaz7aUED2jozO3Dp3B1A8Vnwt3li_xdASMGiiUkkZPOhzfVZusfajOSQ-wKiP_rRvPcepeG3oJW8rBCa4jJdTxyC5y0Jx37yfqw9zHHcexJaF_Zh2lOwDypcerL2mO8UtxXKJ-FmI65MRxqErBoNKNgAvH6XyFv9my1b6QG4SOQ",
+                     "depart_time":  "03:15",
+                     "arrive_time":  "07:05",
+                     "duration":  "3h 50m",
+                     "stops":  "direct",
+                     "departure":  "cairo",
+                     "arrival":  "dubai",
+                     "departure_slot":  "night",
+                     "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuB8z0En-3tjBsLdYkgtSndWKwDVJJwIMl9YazhWqMsajmg3lRUbBLDc63t4dncDGhJJDLEy8XaH7uO9UnD72F5Ay1zdcaKTMvGy97lZlBdLHYUjihdVxWxKf33XQrfoLnjx-IoaoZyUTvrpdDAQJsRBjrElwWHDhU2e7EMPS79halImGuYtbSW4VFypkpx1J9sF_Fw1m5TJMzftlBkg_HoOe3p8o3aFfkuspg4PkQUpFcOEqZEhFW1B2w",
+                     "price":  {
+                                   "amount":  210,
+                                   "currency":  "USD"
+                               }
+                 }
+             ]
+}

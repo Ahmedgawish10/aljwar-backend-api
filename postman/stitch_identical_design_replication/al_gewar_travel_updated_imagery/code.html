@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Al-Gewar Travel &amp; Tourism</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&amp;family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Poppins', 'sans-serif'],
+            script: ['Playfair Display', 'serif'],
+          },
+          colors: {
+            brand: {
+              orange: '#F97316',
+              dark: '#0F172A',
+              light: '#F8F9FA'
+            }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="font-sans bg-gray-50 text-gray-800">
+<!-- BEGIN: Header -->
+<header class="bg-[#111827] text-white">
+<div class="container mx-auto px-6 py-4 flex justify-between items-center">
+<!-- Logo -->
+<div class="flex items-center gap-2">
+<span class="text-3xl font-bold text-brand-orange">AG</span>
+<div class="leading-tight">
+<h1 class="text-xl font-bold uppercase tracking-wider">AL-GEWAR</h1>
+<p class="text-xs text-brand-orange">TRAVEL &amp; TOURISM</p>
+</div>
+</div>
+<!-- Navigation -->
+<nav class="hidden md:flex items-center gap-8 text-sm font-medium">
+<a class="hover:text-brand-orange transition-colors" href="#">HOME</a>
+<a class="text-brand-orange border-b-2 border-brand-orange pb-1" href="#">TOURS</a>
+<a class="hover:text-brand-orange transition-colors" href="#">HOTELS</a>
+<a class="hover:text-brand-orange transition-colors" href="#">FLIGHTS</a>
+<a class="hover:text-brand-orange transition-colors" href="#">VISA SERVICES</a>
+<a class="hover:text-brand-orange transition-colors" href="#">TRANSFERS</a>
+<a class="hover:text-brand-orange transition-colors" href="#">CONTACT US</a>
+</nav>
+<!-- Contact & CTA -->
+<div class="flex items-center gap-6">
+<div class="flex items-center gap-2 text-sm font-semibold">
+<i class="fa-solid fa-phone text-brand-orange"></i>
+<span>+20 100 123 4567</span>
+</div>
+<button class="bg-brand-orange hover:bg-orange-600 text-white px-6 py-2 rounded-md font-semibold transition-colors flex items-center gap-2">
+          BOOK NOW <i class="fa-solid fa-plane"></i>
+</button>
+</div>
+</div>
+</header>
+<!-- END: Header -->
+<!-- BEGIN: Hero Section -->
+<section class="relative bg-cover bg-center h-[600px]" style="background-image: linear-gradient(rgba(17, 24, 39, 0.7), rgba(17, 24, 39, 0.4)), url('https://lh3.googleusercontent.com/aida-public/AB6AXuAd3yeEiptIbCBDfX4YNvjmXd0-R7JYXGDrBXOzyEO317L3i0lPW8eIIzCfwyuFYY6h-L768OD50Vhau4rZbW8u4T0utxMTJx-nE4LACfWFpUpDJXwa0cvuPLjNtH3hCspnpvYTblQyB75E3VNEx0jTEinB3rkwlwSAI8Oaf2tkGy5nCv-CdxrWqs5CnGYTyan_ksQuKn7GLkvR92neap7vqfquyOE2SlZ7toHlZEinHVQBeDdLNRzM');">
+<!-- Breadcrumb -->
+<div class="absolute top-6 left-6 text-sm text-gray-300 z-10">
+<a class="hover:text-white" href="#">Home</a> &gt; <span class="text-white">Tours</span>
+</div>
+<div class="container mx-auto h-full flex flex-col justify-center items-center text-center relative z-10 pt-10">
+<h2 class="font-script text-4xl text-brand-orange mb-4 italic">Explore the World</h2>
+<h1 class="text-5xl md:text-6xl font-bold text-white mb-6">Our Tour Categories</h1>
+<p class="text-lg text-gray-200 max-w-2xl mx-auto mb-8">Choose a category that inspires you and discover unforgettable experiences.</p>
+<div class="w-24 h-1 bg-brand-orange rounded-full"></div>
+</div>
+</section>
+<!-- END: Hero Section -->
+<!-- BEGIN: Search Bar -->
+<div class="container mx-auto px-4 -mt-16 relative z-20">
+<div class="bg-white rounded-xl shadow-xl p-6 flex flex-wrap lg:flex-nowrap items-center gap-4 border border-gray-100">
+<!-- Destination -->
+<div class="flex-1 min-w-[200px] flex items-center gap-3 p-3 hover:bg-gray-50 rounded-lg cursor-pointer">
+<div class="text-gray-400 text-xl"><i class="fa-solid fa-location-dot"></i></div>
+<div>
+<label class="block text-xs font-semibold text-gray-500 uppercase">Destination</label>
+<input class="w-full bg-transparent border-none p-0 focus:ring-0 text-sm font-medium text-gray-900 placeholder-gray-400" placeholder="Where are you going?" type="text"/>
+</div>
+</div>
+<!-- Divider -->
+<div class="hidden lg:block w-px h-10 bg-gray-200"></div>
+<!-- Date -->
+<div class="flex-1 min-w-[200px] flex items-center gap-3 p-3 hover:bg-gray-50 rounded-lg cursor-pointer">
+<div class="text-gray-400 text-xl"><i class="fa-regular fa-calendar"></i></div>
+<div>
+<label class="block text-xs font-semibold text-gray-500 uppercase">Date</label>
+<input class="w-full bg-transparent border-none p-0 focus:ring-0 text-sm font-medium text-gray-900 placeholder-gray-400" placeholder="Any Date" type="text"/>
+</div>
+</div>
+<!-- Divider -->
+<div class="hidden lg:block w-px h-10 bg-gray-200"></div>
+<!-- Travelers -->
+<div class="flex-1 min-w-[200px] flex items-center gap-3 p-3 hover:bg-gray-50 rounded-lg cursor-pointer">
+<div class="text-gray-400 text-xl"><i class="fa-solid fa-user"></i></div>
+<div>
+<label class="block text-xs font-semibold text-gray-500 uppercase">Travelers</label>
+<input class="w-full bg-transparent border-none p-0 focus:ring-0 text-sm font-medium text-gray-900 placeholder-gray-400" placeholder="2 Adults, 0 Children" type="text"/>
+</div>
+</div>
+<!-- Divider -->
+<div class="hidden lg:block w-px h-10 bg-gray-200"></div>
+<!-- Tour Type -->
+<div class="flex-1 min-w-[200px] flex items-center gap-3 p-3 hover:bg-gray-50 rounded-lg cursor-pointer">
+<div class="text-gray-400 text-xl"><i class="fa-solid fa-border-all"></i></div>
+<div>
+<label class="block text-xs font-semibold text-gray-500 uppercase">Tour Type</label>
+<select class="w-full bg-transparent border-none p-0 focus:ring-0 text-sm font-medium text-gray-900 cursor-pointer">
+<option>All Types</option>
+</select>
+</div>
+</div>
+<!-- Search Button -->
+<button class="bg-brand-orange hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-lg flex items-center justify-center gap-2 w-full lg:w-auto transition-colors shadow-md">
+<i class="fa-solid fa-magnifying-glass"></i> SEARCH TOURS
+      </button>
+</div>
+</div>
+<!-- END: Search Bar -->
+<!-- BEGIN: Main Content - Tour Categories -->
+<main class="container mx-auto px-4 py-20">
+<!-- Section Header -->
+<div class="text-center mb-12">
+<span class="text-brand-orange font-semibold uppercase tracking-wider text-sm mb-2 block">BROWSE CATEGORIES</span>
+<h2 class="text-4xl font-bold text-gray-900 mb-4">Find Your Perfect Experience</h2>
+<div class="w-16 h-1 bg-brand-orange rounded-full mx-auto"></div>
+</div>
+<!-- Grid -->
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+<!-- Card 1: Cultural Tours -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Cultural Tours" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBiOq8FBPa-Zq_3bGq5fwjCk6LJ8-tG4H2ACCwS1l6ZJZYYycvJgglTacQsDwyI2UsG77Z3MaW3I2QiUO1xVlx9cHPx3PcylV4BxjWV7gYbTK-EuRGMCfivCiPb9ThlQb9y3NfFAD1fXwzYfRJN0cvlGGxzlLQ7gbi5uUbf9pBArEzrUbXHaEA2uF-m-wbLRYIvcCJSgT6VEh6_doSgbmHTwiWql2J2QyIKTJ7lEdYnaNu05a0GGhxz"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-building-columns"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Cultural Tours</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Explore history, ancient sites and local heritage.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            32 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 2: Adventure Tours -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Adventure Tours" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrtsOkSH_5U9qEWVlUwyFDbrvRRDTzYOQxojvSOPZy-Qcb05r2gDPUlK-pQUjwOqmE-IDhQ12FzJv-sBCuZUBzjuRfwKg_NwefOBgkTsE6B2UkN__2lVPZ924_wkmOv8Rzbqhay_MRs8NAHgMTQMImEp8T-v4pHy5UiPMi7eqdyK4P794YYnHbpJk2nMFuBwbKVbjhSbAyrwuK1yP9DsUOwNgJwAQsVW_Pz6vsAZVCWcHHnZtCsyaF"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-mountain-sun"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Adventure Tours</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Thrilling adventures and outdoor experiences.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            22 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 3: Cruise & Sailing -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Cruise &amp; Sailing" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCGHugeHVU-nJNE812UuXnN7GVM_ECYx9L54FB3Zex5OXyukFf7MM0ieqAfeu-3MDA_pNtDRmsN0nIaDWDmXvJx_OEqGTZGUOF4DHoXFoaVOU5dA6Cq32TZuPSoZlh_9aGcofEGed24bzrynIQ9SceiqxRUuZ6Y71Bv0FEV-DhgZ_oHIO9SmevMMRwYqsFDBk3mM7MI2-Daip_o8W_N6jAJjjylb0j8ei7MBRA6E-Hi2tuOrrVuyG18"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-sailboat"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Cruise &amp; Sailing</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Enjoy relaxing cruises and sailing trips.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            16 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 4: Family Friendly -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Family Friendly" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCqmxHRTdH10MtZiDehxc4nlXQvk9dEYgm-H0oSSIaEj_YvHS_-tSWTjYXNvmgYzlWRc03kbFzNne-Kk0rRaiVp0-6XsdJ2HuqcXkbUysUVdZ4ni77g24ZihiEKDlLcUV4HZrNiqpe11V5Ehol2qUCdNn7kCddrFM1OJUXXmtNlwx6AVXjOrA83oiTO6yWIDkzerQ-DOyMjCv-_LRkBv3njv5E2GwkH439hcSRb_2BJXQCim87mgpDG"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-people-group"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Family Friendly</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Fun and safe tours for the whole family.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            28 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 5: Religious Tours -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Religious Tours" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCZJq5NdI4QjBaCvJyzhtqdJ818qA_yEOKjpKooAM-SCTNVU-2v3Lt6p1u12qdZXNktgCxPaujkV9oBZuuAosAwHejSK2ndMONhEsS0pwfRnCgnivdGWs6oSpbaAcZUx6fqoNirExMqUiqbFjExs209A-Elch8ag9XUvo4UFQzCQTtwtV0JXYv_-E3sfcQ6DdERgCXSwAceC_ZgK3B249NcN1_pVf9yixJ9m1_dHlsOI28FQEa6LA8j"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-moon"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Religious Tours</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Spiritual journeys and religious landmarks.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            14 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 6: Desert Safaris -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Desert Safaris" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDmQQPJuF2vLYzXhIvTSq6IFgfUwfh66MljOhDogL40I4m6C7rSAVglj9UK9hcIg6nV8DSZsMiE980M8ASRqbvgkDk2IbkjXtWlxynRq88YSlEv8k_p-c3_wCl9Ca9bi0K_1lrpojUAT9tOEGSk0N8Z25clRC2P1zu0MyZ-Qbow8eOF7Z-FJtViTUQQH5Vjdqd0mR-ZFNxW2aXXFTJRNHUIY0b1eA0KxyQekl7FO_Cswcxlc-1KCpoX"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-brands fa-pagelines"></i> <!-- Using leaf as placeholder for cactus/desert icon -->
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Desert Safaris</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Discover the magic of the desert and Bedouin life.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            18 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 7: Water Activities -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Water Activities" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCQSLF64kacy0K0qlyvGdiraENgkWWY257HKabJblJUXSz8S7osHA5rBedG5AvKrYMu4JSDugFACtF0VpPnSWbFmKOhAGKk2QoX3a0-cRTCWHDG8c3NnrhXQqJAkbcGVsyz9d--FcfysUYSRjusV1vb6qXZOYZnrQrRmEUPBq_j3jGPVweLr8byBtvwy8sKH8IcC2Tsi-0BP9TZHnsJE2kIyLAeB31WdEe0_EPERvstOpd96Gb0X3Bh"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-water"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Water Activities</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Snorkeling, diving and other water adventures.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            20 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 8: City Breaks -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="City Breaks" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBAC7Ywvgt3_CF2HLAV-D-2PAepxYlfJW4slqhoTrFRX8ZqT3BrxuV-SL6BiRnDZFttY-I-n3zuzaLxYOd0XmZJWTbQGxryjJ082KepmQFoyT-fU6kYfZH9EKx5hVTW31mmxl-XQS3lnweTyDgf1LCxq4AbZ6sNi_I-_KnuAe6ci3wMB80A9wW1NmmqYbezvuTvkxsvUeYmbg5t6rfzSB6Xp6KaVkPXIAXmLEs3VxL4uPBoNzv5HapU"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-city"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">City Breaks</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Short trips to the best cities and attractions.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            26 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 9: Luxury Experiences -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Luxury Experiences" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBeBcOabrqfbfr3mj2thSSkHYuS44kHiK-sxKBqpwbuTGXkErgabHhaPMQ6i_AEehXpqkZ3m5woxo9RgUKmdAA4CQ0tv39ZWSS7VAjhbHJX1vj4HOgaXiXgpze_bTk_V4itqBaheBQ8nH6LQaIyGjzKoufK0zdtt4gjTnuYmNY2lpjQRUvWXV8M-hGcs7f1cVH7QP75eGgjK4Yy5pi4FEPocLcXWjOcsoNquJZs4vNjZt3aMTQnCd6w"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-regular fa-gem"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Luxury Experiences</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Premium experiences and luxury services.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            12 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+<!-- Card 10: Eco & Nature -->
+<div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow border border-gray-100 flex flex-col group">
+<div class="h-48 overflow-hidden relative">
+<img alt="Eco &amp; Nature" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCNvGnAAT4oOvjSk7fQq2Re9IA5mfpA6bvfhdKhIkmWNiMbavD0ije7OA7u0jkmrN7eJZix9VHNRqnuewlanLDnLYx7vvBQb4-Jn8g7SXfTcvPbBzCZS68O_TXpAsB7JbJbHLYUK6B_VGa8MTmvcNCpR-xsXjSBzEmyDPKoM3q5gPsGEC_tCl9byRJlD90Qpk4wZ4HIA_5EgpkX6L3tRZVBKErlrfIZMQKzz71eU_lrvurIHZW-lq13"/>
+<div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-md text-gray-600 text-xl">
+<i class="fa-solid fa-leaf"></i>
+</div>
+</div>
+<div class="pt-10 pb-6 px-4 text-center flex-1 flex flex-col">
+<h3 class="text-lg font-bold text-gray-900 mb-2">Eco &amp; Nature</h3>
+<p class="text-xs text-gray-500 mb-4 flex-1">Connect with nature and explore the outdoors.</p>
+<a class="text-brand-orange font-semibold text-sm inline-flex items-center justify-center gap-1 hover:text-orange-700 transition-colors" href="#">
+            15 Tours <i class="fa-solid fa-arrow-right text-xs"></i>
+</a>
+</div>
+</div>
+</div>
+</main>
+<!-- END: Main Content -->
+<!-- BEGIN: Features Banner -->
+<section class="container mx-auto px-4 pb-20">
+<div class="bg-[#FDFBF7] rounded-2xl p-8 flex flex-wrap justify-between items-center gap-8 border border-gray-100">
+<!-- Feature 1 -->
+<div class="flex items-center gap-4 flex-1 min-w-[200px]">
+<div class="text-brand-orange text-3xl">
+<i class="fa-solid fa-certificate"></i>
+</div>
+<div>
+<h4 class="font-bold text-gray-900 text-sm">Best Price Guarantee</h4>
+<p class="text-xs text-gray-500 mt-1">We offer the best prices<br/>for all our tours.</p>
+</div>
+</div>
+<!-- Feature 2 -->
+<div class="flex items-center gap-4 flex-1 min-w-[200px]">
+<div class="text-brand-orange text-3xl">
+<i class="fa-regular fa-calendar-check"></i>
+</div>
+<div>
+<h4 class="font-bold text-gray-900 text-sm">Free Cancellation</h4>
+<p class="text-xs text-gray-500 mt-1">Cancel up to 24 hours<br/>in advance.</p>
+</div>
+</div>
+<!-- Feature 3 -->
+<div class="flex items-center gap-4 flex-1 min-w-[200px]">
+<div class="text-brand-orange text-3xl">
+<i class="fa-solid fa-lock"></i>
+</div>
+<div>
+<h4 class="font-bold text-gray-900 text-sm">Secure Booking</h4>
+<p class="text-xs text-gray-500 mt-1">Your payment information<br/>is protected.</p>
+</div>
+</div>
+<!-- Feature 4 -->
+<div class="flex items-center gap-4 flex-1 min-w-[200px]">
+<div class="text-brand-orange text-3xl">
+<i class="fa-solid fa-headset"></i>
+</div>
+<div>
+<h4 class="font-bold text-gray-900 text-sm">24/7 Support</h4>
+<p class="text-xs text-gray-500 mt-1">We're here to help you<br/>anytime, anywhere.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- END: Features Banner -->
+</body></html>

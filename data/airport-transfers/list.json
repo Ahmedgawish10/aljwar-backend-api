@@ -1,0 +1,166 @@
+{
+    "meta":  {
+                 "count":  15,
+                 "page":  1,
+                 "per_page":  12,
+                 "last_page":  2
+             },
+    "data":  [
+                 {
+                     "slug":  "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab",
+                     "name":  "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbab",
+                     "destination":  "hurghada",
+                     "duration_minutes":  44,
+                     "experience":  "privateTransfer",
+                     "main_image":  "http://127.0.0.1:8000/storage/transfers/book2.png",
+                     "price":  {
+                                   "amount":  20,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 20"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbabe",
+                     "name":  "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbabe",
+                     "destination":  "hurghada",
+                     "duration_minutes":  82,
+                     "experience":  "privateTransfer",
+                     "main_image":  "http://127.0.0.1:8000/storage/transfers/apply-hero.jpg",
+                     "price":  {
+                                   "amount":  1,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 1"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab2",
+                     "name":  "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbab2",
+                     "destination":  "hurghada",
+                     "duration_minutes":  125,
+                     "experience":  "privateTransfer",
+                     "main_image":  "http://127.0.0.1:8000/storage/transfers/hero-bg.jpg",
+                     "price":  {
+                                   "amount":  6,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 6"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu9-dabbab",
+                     "name":  "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu9 Dabbab",
+                     "destination":  "hurghada",
+                     "duration_minutes":  50,
+                     "experience":  "privateTransfer",
+                     "main_image":  "http://127.0.0.1:8000/storage/transfers/6a81b4dc8a534.jpg",
+                     "price":  {
+                                   "amount":  3,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 3"
+                               }
+                 },
+                 {
+                     "slug":  "pass",
+                     "name":  "pass",
+                     "destination":  "hurghada",
+                     "duration_minutes":  0,
+                     "experience":  "fastTrack",
+                     "main_image":  "http://127.0.0.1:8000/storage/transfers/6a819be5ca41a.jpg",
+                     "price":  {
+                                   "amount":  50,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 50"
+                               }
+                 },
+                 {
+                     "slug":  "fast-track-clearance-hurghada-airport",
+                     "name":  "Fast track clearance with assistance at Hurghada Airport",
+                     "destination":  "hurghada",
+                     "duration_minutes":  30,
+                     "experience":  "fastTrack",
+                     "main_image":  "/transfers/card-greeter.png",
+                     "price":  {
+                                   "amount":  60,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 60"
+                               }
+                 },
+                 {
+                     "slug":  "fast-track-clearance-sharm-el-sheikh-airport",
+                     "name":  "Fast track clearance with assistance at Sharm El Sheikh Airport",
+                     "destination":  "sharm",
+                     "duration_minutes":  30,
+                     "experience":  "fastTrack",
+                     "main_image":  "/transfers/card-greeter-suit.png",
+                     "price":  {
+                                   "amount":  60,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 60"
+                               }
+                 },
+                 {
+                     "slug":  "fast-track-clearance-marsa-alam-airport",
+                     "name":  "Fast track clearance with assistance at Marsa Alam Airport",
+                     "destination":  "marsaAlam",
+                     "duration_minutes":  30,
+                     "experience":  "fastTrack",
+                     "main_image":  "/transfers/card-luggage.png",
+                     "price":  {
+                                   "amount":  60,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 60"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-marsa-alam-coraya-port-ghalib",
+                     "name":  "Private transfer from or to Marsa Alam Airport within Coraya Bay or Port Ghalib",
+                     "destination":  "marsaAlam",
+                     "duration_minutes":  30,
+                     "experience":  "privateTransfer",
+                     "main_image":  "/transfers/card-sedan.png",
+                     "price":  {
+                                   "amount":  60,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 60"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-luxor-airport-hotels-nile-cruises",
+                     "name":  "Private transfer from or to Luxor Airport within Luxor hotels and Nile Cruises",
+                     "destination":  "luxor",
+                     "duration_minutes":  30,
+                     "experience":  "privateTransfer",
+                     "main_image":  "/transfers/card-car.png",
+                     "price":  {
+                                   "amount":  76,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 76"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-hurghada-el-gouna-makadi",
+                     "name":  "Private transfer from or to Hurghada Airport within Hurghada, El Gouna, Makadi Bay",
+                     "destination":  "hurghada",
+                     "duration_minutes":  120,
+                     "experience":  "privateTransfer",
+                     "main_image":  "/transfers/card-premium.png",
+                     "price":  {
+                                   "amount":  86,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 86"
+                               }
+                 },
+                 {
+                     "slug":  "private-transfer-sharm-el-sheikh-hotels",
+                     "name":  "Private transfer from or to Sharm El Sheikh Airport within Sharm El Sheikh hotels",
+                     "destination":  "sharm",
+                     "duration_minutes":  120,
+                     "experience":  "privateTransfer",
+                     "main_image":  "/transfers/card-executive.png",
+                     "price":  {
+                                   "amount":  92,
+                                   "currency":  "USD",
+                                   "formatted":  "$ 92"
+                               }
+                 }
+             ]
+}

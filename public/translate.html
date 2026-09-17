@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Translate</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --panel: #1a2332;
+      --border: #2d3a4f;
+      --text: #e8eef7;
+      --muted: #8b9bb4;
+      --accent: #3d8bfd;
+      --accent-hover: #5ba0ff;
+      --ok: #3ecf8e;
+      --err: #ff6b6b;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(ellipse at top, #1a2a44 0%, var(--bg) 55%);
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .card {
+      width: min(760px, 100%);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: 1.45rem;
+      font-weight: 650;
+    }
+
+    .sub {
+      margin: 0 0 22px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .row {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+
+    label {
+      display: block;
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    select, textarea, button {
+      font: inherit;
+      color: var(--text);
+    }
+
+    select {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+    }
+
+    .lang {
+      flex: 1;
+    }
+
+    .swap {
+      margin-top: 18px;
+      width: 42px;
+      height: 42px;
+      flex: 0 0 42px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      cursor: pointer;
+    }
+
+    .swap:hover { border-color: var(--accent); }
+
+    textarea {
+      width: 100%;
+      min-height: 120px;
+      resize: vertical;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 14px;
+      line-height: 1.5;
+    }
+
+    textarea:focus, select:focus {
+      outline: 2px solid rgba(61, 139, 253, 0.45);
+      border-color: var(--accent);
+    }
+
+    .out[dir="rtl"] { text-align: right; }
+
+    button.translate {
+      margin-top: 16px;
+      width: 100%;
+      border: 0;
+      border-radius: 10px;
+      background: var(--accent);
+      color: #fff;
+      padding: 12px 16px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    button.translate:hover:not(:disabled) { background: var(--accent-hover); }
+    button.translate:disabled { opacity: 0.65; cursor: wait; }
+
+    .status {
+      margin-top: 12px;
+      min-height: 1.2em;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+
+    .status.error { color: var(--err); }
+    .status.ok { color: var(--ok); }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Free Translate</h1>
+    <p class="sub">No API key. English → Arabic by default (or any pair below).</p>
+
+    <div class="row">
+      <div class="lang">
+        <label for="source">From</label>
+        <select id="source">
+          <option value="auto">Detect language</option>
+          <option value="en" selected>English</option>
+          <option value="ar">Arabic</option>
+          <option value="fr">French</option>
+          <option value="de">German</option>
+          <option value="es">Spanish</option>
+          <option value="it">Italian</option>
+          <option value="pt">Portuguese</option>
+          <option value="ru">Russian</option>
+          <option value="zh">Chinese</option>
+          <option value="tr">Turkish</option>
+        </select>
+      </div>
+      <button class="swap" type="button" id="swap" title="Swap languages">⇄</button>
+      <div class="lang">
+        <label for="target">To</label>
+        <select id="target">
+          <option value="ar" selected>Arabic</option>
+          <option value="en">English</option>
+          <option value="fr">French</option>
+          <option value="de">German</option>
+          <option value="es">Spanish</option>
+          <option value="it">Italian</option>
+          <option value="pt">Portuguese</option>
+          <option value="ru">Russian</option>
+          <option value="zh">Chinese</option>
+          <option value="tr">Turkish</option>
+        </select>
+      </div>
+    </div>
+
+    <label for="input">Text</label>
+    <textarea id="input">Hello, how are you?</textarea>
+
+    <label for="output" style="margin-top:14px">Translation</label>
+    <textarea id="output" class="out" readonly placeholder="Translation appears here"></textarea>
+
+    <button class="translate" type="button" id="go">Translate</button>
+    <div class="status" id="status"></div>
+  </div>
+
+  <script>
+    const input = document.getElementById("input");
+    const output = document.getElementById("output");
+    const source = document.getElementById("source");
+    const target = document.getElementById("target");
+    const go = document.getElementById("go");
+    const status = document.getElementById("status");
+
+    function setRtl() {
+      output.dir = target.value === "ar" ? "rtl" : "ltr";
+    }
+
+    function detectSource(q, selected) {
+      if (selected !== "auto") return selected;
+      return /[\u0600-\u06FF]/.test(q) ? "ar" : "en";
+    }
+
+    async function translateFree(q, from, to) {
+      const pair = `${from}|${to}`;
+      try {
+        const remote = await fetch(
+          "https://api.mymemory.translated.net/get?" +
+            new URLSearchParams({ q, langpair: pair })
+        );
+        const data = await remote.json();
+        const text = data?.responseData?.translatedText;
+        if (text && Number(data.responseStatus) === 200) {
+          const el = document.createElement("textarea");
+          el.innerHTML = text;
+          return el.value;
+        }
+      } catch (e) {
+        // CORS or network — try same-origin proxy
+      }
+
+      const params = new URLSearchParams({ q, source: from, target: to });
+      const local = await fetch("/translate?" + params.toString());
+      const data = await local.json();
+      if (!local.ok || !data.translatedText) {
+        throw new Error(data.error || "Translation failed.");
+      }
+      return data.translatedText;
+    }
+
+    target.addEventListener("change", setRtl);
+    setRtl();
+
+    document.getElementById("swap").addEventListener("click", () => {
+      if (source.value === "auto") return;
+      const a = source.value;
+      source.value = target.value;
+      target.value = a;
+      if (output.value) {
+        input.value = output.value;
+        output.value = "";
+      }
+      setRtl();
+    });
+
+    async function translate() {
+      const q = input.value.trim();
+      if (!q) {
+        status.className = "status error";
+        status.textContent = "Enter text to translate.";
+        return;
+      }
+
+      go.disabled = true;
+      status.className = "status";
+      status.textContent = "Translating…";
+
+      try {
+        const translatedText = await translateFree(
+          q,
+          detectSource(q, source.value),
+          target.value
+        );
+        output.value = translatedText;
+        console.log(translatedText);
+        status.className = "status ok";
+        status.textContent = "Done.";
+      } catch (err) {
+        status.className = "status error";
+        status.textContent = err.message || "Translation failed.";
+      } finally {
+        go.disabled = false;
+      }
+    }
+
+    go.addEventListener("click", translate);
+    input.addEventListener("keydown", (e) => {
+      if (e.ctrlKey && e.key === "Enter") translate();
+    });
+  </script>
+</body>
+</html>

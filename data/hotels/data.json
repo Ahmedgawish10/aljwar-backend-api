@@ -1,0 +1,303 @@
+{
+    "data": [
+        {
+            "type": "hotel",
+            "id": "marriott-mena-house",
+            "attributes": {
+                "slug": "marriott-mena-house-cairo",
+                "name": "Marriott Mena House, Cairo.",
+                "location": "Giza, Cairo",
+                "destination": "cairo",
+                "description": "Experience timeless elegance with breathtaking views of the Pyramids and exceptional service.\r\n\r\nExperience timeless luxury with stunning pyramid views and world-class amenities. Marriott Mena House offers an unforgettable stay with exceptional service, beautiful gardens, and exquisite dining options.\r\n\r\nSet beside the Great Pyramids of Giza, this historic property blends royal heritage with modern comfort. Guests enjoy landscaped gardens, multiple dining venues, a spa, and rooms with garden or pyramid views.\r\n\r\nIdeal for couples, families, and travelers seeking an iconic Cairo stay with easy access to Egypt's most famous landmarks.",
+                "main_image": "hotels/6a81cd464fd3a_marriott-mena-house.png",
+                "hero_image": "/hotels/hero.jpg",
+                "gallery": [
+                    "/hotels/marriott-mena-house.png",
+                    "/hotels/pool-sunset.jpg",
+                    "/hotels/hotel-img.jpg",
+                    "/hotels/hotel-img2.jpg"
+                ],
+                "stars": 5,
+                "rating": 4.8,
+                "review_label_key": "excellent",
+                "review_count": 1250,
+                "review_breakdown": [
+                    {
+                        "stars": 5,
+                        "percent": 85
+                    },
+                    {
+                        "stars": 4,
+                        "percent": 10
+                    },
+                    {
+                        "stars": 3,
+                        "percent": 3
+                    },
+                    {
+                        "stars": 2,
+                        "percent": 1
+                    },
+                    {
+                        "stars": 1,
+                        "percent": 1
+                    }
+                ],
+                "property_type": "hotels",
+                "best_seller": true,
+                "amenities": [
+                    "wifi",
+                    "pool",
+                    "spa",
+                    "restaurant",
+                    "airportShuttle",
+                    "allInclusive",
+                    "parking",
+                    "gym",
+                    "breakfast"
+                ],
+                "price": {
+                    "amount": 199,
+                    "currency": "USD",
+                    "formatted": "$199"
+                },
+                "check_in": "3:00 PM",
+                "check_out": "12:00 PM",
+                "pets": "Not allowed",
+                "things_to_remember": [
+                    "Valid passport required for all guests at check-in.",
+                    "Pyramid-view rooms are subject to availability and may carry a surcharge.",
+                    "Early check-in and late check-out are subject to availability.",
+                    "Please advise of any special requests when booking."
+                ],
+                "is_active": true,
+                "sort_order": 0,
+                "image": "hotels/6a81cd464fd3a_marriott-mena-house.png"
+            }
+        },
+        {
+            "type": "hotel",
+            "id": "steigenberger-el-tahrir",
+            "attributes": {
+                "slug": "steigenberger-el-tahrir-cairo",
+                "name": "Steigenberger Hotel El Tahrir Cairo",
+                "location": "Downtown, Cairo",
+                "destination": "cairo",
+                "description": "Luxury accommodation in the heart of Cairo with premium facilities and great city views.\n\nStay in the heart of downtown Cairo at Steigenberger Hotel El Tahrir, steps from the Egyptian Museum and Tahrir Square.\n\nEnjoy modern rooms, a rooftop pool, fitness facilities, and refined dining with panoramic city views.\n\nA strong base for culture seekers exploring Cairo's museums, markets, and Nile-side attractions.",
+                "main_image": "/hotels/pool-sunset.jpg",
+                "hero_image": "/hotels/hero.jpg",
+                "gallery": [
+                    "/hotels/pool-sunset.jpg",
+                    "/hotels/marriott-mena-house.png",
+                    "/hotels/hotel-img.jpg",
+                    "/hotels/hotel-img2.jpg"
+                ],
+                "stars": 5,
+                "rating": 4.5,
+                "review_label_key": "excellent",
+                "review_count": 987,
+                "review_breakdown": [
+                    {
+                        "stars": 5,
+                        "percent": 72
+                    },
+                    {
+                        "stars": 4,
+                        "percent": 18
+                    },
+                    {
+                        "stars": 3,
+                        "percent": 6
+                    },
+                    {
+                        "stars": 2,
+                        "percent": 2
+                    },
+                    {
+                        "stars": 1,
+                        "percent": 2
+                    }
+                ],
+                "property_type": "hotels",
+                "best_seller": false,
+                "amenities": [
+                    "wifi",
+                    "pool",
+                    "breakfast",
+                    "gym",
+                    "parking",
+                    "restaurant"
+                ],
+                "price": {
+                    "amount": 95,
+                    "currency": "USD",
+                    "formatted": "$95",
+                    "taxes_and_fees": 15,
+                    "taxes_formatted": "+ $15 taxes & fees",
+                    "per": "night"
+                },
+                "check_in": "3:00 PM",
+                "check_out": "12:00 PM",
+                "pets": "Not allowed",
+                "things_to_remember": [
+                    "Valid passport required for all guests at check-in.",
+                    "City-center traffic can be heavy — allow extra time for transfers.",
+                    "Early check-in and late check-out are subject to availability."
+                ],
+                "is_active": true,
+                "sort_order": 1,
+                "image": "/hotels/pool-sunset.jpg"
+            }
+        },
+        {
+            "type": "hotel",
+            "id": "kempinski-nile",
+            "attributes": {
+                "slug": "kempinski-nile-hotel-cairo",
+                "name": "Kempinski Nile Hotel Cairo",
+                "location": "Garden City, Cairo",
+                "destination": "cairo",
+                "description": "Overlooking the Nile, enjoy world-class hospitality, elegant rooms, and refined dining.\n\nKempinski Nile Hotel Cairo sits on the east bank of the Nile in Garden City, offering elegant rooms and suites with river or city views.\n\nGuests enjoy a spa, fitness center, outdoor pool, and several restaurants serving international and Egyptian cuisine.\n\nA refined choice for leisure and business travelers seeking Nile-front luxury in central Cairo.",
+                "main_image": "/hotels/marriott-mena-house.png",
+                "hero_image": "/hotels/hero.jpg",
+                "gallery": [
+                    "/hotels/marriott-mena-house.png",
+                    "/hotels/pool-sunset.jpg",
+                    "/hotels/hotel-img.jpg",
+                    "/hotels/hotel-img2.jpg"
+                ],
+                "stars": 5,
+                "rating": 4.4,
+                "review_label_key": "veryGood",
+                "review_count": 812,
+                "review_breakdown": [
+                    {
+                        "stars": 5,
+                        "percent": 68
+                    },
+                    {
+                        "stars": 4,
+                        "percent": 20
+                    },
+                    {
+                        "stars": 3,
+                        "percent": 8
+                    },
+                    {
+                        "stars": 2,
+                        "percent": 2
+                    },
+                    {
+                        "stars": 1,
+                        "percent": 2
+                    }
+                ],
+                "property_type": "hotels",
+                "best_seller": false,
+                "amenities": [
+                    "wifi",
+                    "pool",
+                    "breakfast",
+                    "spa",
+                    "parking",
+                    "restaurant",
+                    "gym"
+                ],
+                "price": {
+                    "amount": 110,
+                    "currency": "USD",
+                    "formatted": "$110",
+                    "taxes_and_fees": 16,
+                    "taxes_formatted": "+ $16 taxes & fees",
+                    "per": "night"
+                },
+                "check_in": "3:00 PM",
+                "check_out": "12:00 PM",
+                "pets": "Not allowed",
+                "things_to_remember": [
+                    "Valid passport required for all guests at check-in.",
+                    "Nile-view rooms are subject to availability.",
+                    "Please advise of any special requests when booking."
+                ],
+                "is_active": true,
+                "sort_order": 2,
+                "image": "/hotels/marriott-mena-house.png"
+            }
+        },
+        {
+            "type": "hotel",
+            "id": "hilton-hurghada",
+            "attributes": {
+                "slug": "hilton-hurghada-resort",
+                "name": "Hilton Hurghada Resort",
+                "location": "Hurghada",
+                "destination": "hurghada",
+                "description": "Beachfront resort on the Red Sea with pools, water sports, and family-friendly facilities.\n\nHilton Hurghada Resort offers a classic Red Sea holiday with private beach access, multiple pools, and lively entertainment.\n\nRooms and suites overlook gardens or the sea, with dining options ranging from casual buffets to specialty restaurants.\n\nPerfect for families and couples looking for a full-service Hurghada resort stay.",
+                "main_image": "/hotels/pool-sunset.jpg",
+                "hero_image": "/hotels/hero.jpg",
+                "gallery": [
+                    "/hotels/pool-sunset.jpg",
+                    "/hotels/marriott-mena-house.png",
+                    "/hotels/hotel-img.jpg",
+                    "/hotels/hotel-img2.jpg"
+                ],
+                "stars": 5,
+                "rating": 4.3,
+                "review_label_key": "veryGood",
+                "review_count": 1540,
+                "review_breakdown": [
+                    {
+                        "stars": 5,
+                        "percent": 65
+                    },
+                    {
+                        "stars": 4,
+                        "percent": 22
+                    },
+                    {
+                        "stars": 3,
+                        "percent": 8
+                    },
+                    {
+                        "stars": 2,
+                        "percent": 3
+                    },
+                    {
+                        "stars": 1,
+                        "percent": 2
+                    }
+                ],
+                "property_type": "resorts",
+                "best_seller": false,
+                "amenities": [
+                    "wifi",
+                    "pool",
+                    "breakfast",
+                    "restaurant",
+                    "gym",
+                    "parking",
+                    "allInclusive"
+                ],
+                "price": {
+                    "amount": 130,
+                    "currency": "USD",
+                    "formatted": "$130",
+                    "taxes_and_fees": 18,
+                    "taxes_formatted": "+ $18 taxes & fees",
+                    "per": "night"
+                },
+                "check_in": "3:00 PM",
+                "check_out": "12:00 PM",
+                "pets": "Not allowed",
+                "things_to_remember": [
+                    "Valid passport required for all guests at check-in.",
+                    "Hurghada Airport transfers available via AL-GEWAR.",
+                    "Please confirm meal plan preferences when booking."
+                ],
+                "is_active": true,
+                "sort_order": 3,
+                "image": "/hotels/pool-sunset.jpg"
+            }
+        }
+    ]
+}

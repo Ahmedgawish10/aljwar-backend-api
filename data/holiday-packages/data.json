@@ -1,0 +1,701 @@
+{
+    "data": [
+        {
+            "type": "holiday-package",
+            "id": "dubai-escape",
+            "attributes": {
+                "slug": "dubai-escape",
+                "name": "Dubai Escape",
+                "location": "Dubai, UAE",
+                "destination": "dubai",
+                "duration": "6 Days / 5 Nights",
+                "days": 6,
+                "nights": 5,
+                "price_from": 899,
+                "currency": "USD",
+                "rating": 4.8,
+                "reviews": 256,
+                "tour_type": "Group Tour",
+                "group_size": "2 - 20 People",
+                "badge": "bestSeller",
+                "categories": [
+                    "city",
+                    "luxury"
+                ],
+                "features": [
+                    "flightHotel",
+                    "dailyBreakfast",
+                    "cityTour"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuChUQwP-PxZarMRcFIda1HpocxjgiWAvUNUUoXp9MydETgpTEZIKBK7LyaOJRSjcSDfkPA8Vdu-Fikt4ZM6QlTEB0puRt9OK4BSYSYcavdouimxvhJ2ITu9kBI-cwdY5Pmfn7vqXsVIQOgcdLzDnOM_R0VrIK851gWHAOF4pAVJZc0_gLJIDrjHZ8x0S5P5KMyuOPgpdtIzEE2cqebIIMCEunPUK4z3vOatwd7gcML67pJ1LPFSa1o9Qg",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBmikkEzS9dejDx6rmUhhNB3OBMaXNJnJ7pTUlqvNDmVJLoT_OaEr3ZUEAk2xP8elKM2l2blhvYMPiK9py5XHMtdRAdQZMOsV5-bDMHxgACSIxe42ULowbGzkhILbBiDkDY3aWOS1VB68SWAwdCAhPJoBmo3nF_oVLHPV3BH4Jzh1zH4wpOjjBihbrb0PN0lENYpR_NSi3vXwRJqZGwsQK6AZshNvcRnxjOw7f4W2FMth0-l8ZDk_UX0g",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDvqxCOAY3a_-SIk_AQ-xZ2E3nh8uWL6uAoucwzBmmWxqkh3jvJ9TmBcbBgfRg_qa-IvyeppTeoc-gm0toS_phkt9m7BBLvRHbJKf6xUibaVYBBKtm5mIqjSwndCV2HzA4nsRBCCSLkKcdWoxYq7pTXt-yQz6bJ_3ZK61qttYqmT6YCDZJPqyf-G5_L2KgJNsPRV3tYAnxs5v54B_y_tKPQcksTM3KkuR7Qk5Hty66OMukEkgIkNS3ndg",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCsCYAMXgjZT9NS8kOG8etHKPCn66odWP81CPOaeiJrmPi3eX9JQDV12o4GDTtCSw-lrwtjRnMQaQJVeeMMwHoXeRDs-iYW_CYHgx3nPDlpvin7nXZ5QDuSpWahMLJ106ckeGGKO1_zxpkPcG416nk4S1ewo45xxCV9vobFI2KOzmIoz7JMFfGzFgG183JPN52kpm90098UxDWRkxharGIITNsSpmhyejkfdA9qDv9HryffP_gvMN4npg",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAFC4-fp7Cyb6eETekBqBte8VY37DUX_krUTQx16pksYmrf3yETaPL_kFMd2KsfOP8m72tClCIGUihNLm3MiYZHFMeahVY-dZkd2A9jTpYPuZVOwobkPekV8Ibm2-ZotMqwFqtIrLOT4CDE0VhBEDJC9IPPmsyhJv6PrmRDok4-DRjZrIZVnBXcw8TAd8OXqHWAXqgVnZBy7_IbP5SyZ0sdSsh6T8QYx8_QCT7IlqUuAAytUwuya8A7sg"
+                ],
+                "overview": "Experience the perfect blend of modern luxury and Arabian culture with our Dubai Escape package. From breathtaking skyscrapers to desert adventures, this package has it all!",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 5
+                    },
+                    {
+                        "label_key": "dailyBreakfast"
+                    },
+                    {
+                        "label_key": "airportTransfers"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrival in Dubai",
+                        "text": "Airport pickup and transfer to hotel. Dhow Cruise Dinner at Dubai Marina."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Dubai City Tour",
+                        "text": "Visit Burj Khalifa, Dubai Mall, Museum of the Future & Dubai Frame."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Desert Safari",
+                        "text": "Morning free time. Evening Desert Safari with BBQ dinner & shows."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Palm Jumeirah & Atlantis",
+                        "text": "Visit Palm Jumeirah, Atlantis The Palm & enjoy Aquaventure Waterpark."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Shopping Day",
+                        "text": "Free day for shopping at Dubai Mall & local markets."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Departure",
+                        "text": "Hotel checkout and transfer to airport for your flight back home."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 0
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "maldives-paradise",
+            "attributes": {
+                "slug": "maldives-paradise",
+                "name": "Maldives Paradise",
+                "location": "Maldives",
+                "destination": "maldives",
+                "duration": "5 Days / 4 Nights",
+                "days": 5,
+                "nights": 4,
+                "price_from": 1299,
+                "currency": "USD",
+                "rating": 4.9,
+                "reviews": 188,
+                "tour_type": "Private Tour",
+                "group_size": "2 - 8 People",
+                "badge": "popular",
+                "categories": [
+                    "beach",
+                    "honeymoon",
+                    "luxury"
+                ],
+                "features": [
+                    "flightHotel",
+                    "allInclusive",
+                    "speedboat"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBFFOZtdN3GTY5W1EElCC7mpNXxpoatNXP7xwGLyiG9mgaT8RcS5K0k04Kk714FLuDuVJtxlrxsYT8kOuZQOGDBn6ryuacM2ERErhQNP5Y9XzK3lt5nuCZf7Rm26VgKyLvtzaL5BOvfgXJHDj_oybHIhk0rG2TZrXjGKuBXOojingnErq8gHbzA1CLXAIjQTaA2Tl4419UpLlTD3fil_MxNlKbjY4l7nJVuU-bXi0yGyXbhWfUjq2z8yQ",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBFFOZtdN3GTY5W1EElCC7mpNXxpoatNXP7xwGLyiG9mgaT8RcS5K0k04Kk714FLuDuVJtxlrxsYT8kOuZQOGDBn6ryuacM2ERErhQNP5Y9XzK3lt5nuCZf7Rm26VgKyLvtzaL5BOvfgXJHDj_oybHIhk0rG2TZrXjGKuBXOojingnErq8gHbzA1CLXAIjQTaA2Tl4419UpLlTD3fil_MxNlKbjY4l7nJVuU-bXi0yGyXbhWfUjq2z8yQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg",
+                    "/Algiwar-assets/dest-hurghada.png",
+                    "/Algiwar-assets/holiday.png"
+                ],
+                "overview": "Turquoise lagoons, overwater villas, and powder-soft beaches make this Maldives package the ultimate tropical escape.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 4
+                    },
+                    {
+                        "label_key": "allInclusive"
+                    },
+                    {
+                        "label_key": "speedboat"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrival & Speedboat Transfer",
+                        "text": "Meet and greet at Male airport, speedboat to your island resort."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Reef & Lagoon Day",
+                        "text": "Snorkel the house reef and enjoy all-inclusive dining by the lagoon."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Spa & Sunset",
+                        "text": "Spa treatment and a private sunset cruise."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Island Hopping",
+                        "text": "Visit a local island and a sandbank picnic."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Departure",
+                        "text": "Transfer back to Male for your outbound flight."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 1
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "european-discovery",
+            "attributes": {
+                "slug": "european-discovery",
+                "name": "European Discovery",
+                "location": "France, Italy, Switzerland",
+                "destination": "europe",
+                "duration": "8 Days / 7 Nights",
+                "days": 8,
+                "nights": 7,
+                "price_from": 1799,
+                "currency": "USD",
+                "rating": 4.7,
+                "reviews": 142,
+                "tour_type": "Group Tour",
+                "group_size": "10 - 25 People",
+                "badge": "popular",
+                "categories": [
+                    "city"
+                ],
+                "features": [
+                    "flightHotel",
+                    "breakfast",
+                    "multiCity"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAeHVH3JEeL3uQNMOeX1QTfAdvFQAyvH-Ev5QsSEllbqysr4XbWWCzW2MIYH16LADnKzYi4RwOq-1nCBrcDhqZMSzEYrrid5mNk4bLtoGXcDpNNekDzV2k9tC6emlyzUIni7SKtsU9cwPtcix3AzB11DKIPVRG2dCVWY_UzEkiZni8ddNhbm1KNUWso75vK7gWQic5G_omByPHQkZTQQu5u49BTUoTDf9BAsmPE4A8_sJBNobJu9Fza9Q",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAeHVH3JEeL3uQNMOeX1QTfAdvFQAyvH-Ev5QsSEllbqysr4XbWWCzW2MIYH16LADnKzYi4RwOq-1nCBrcDhqZMSzEYrrid5mNk4bLtoGXcDpNNekDzV2k9tC6emlyzUIni7SKtsU9cwPtcix3AzB11DKIPVRG2dCVWY_UzEkiZni8ddNhbm1KNUWso75vK7gWQic5G_omByPHQkZTQQu5u49BTUoTDf9BAsmPE4A8_sJBNobJu9Fza9Q",
+                    "/Algiwar-assets/dest-cairo.png",
+                    "/Algiwar-assets/dest-luxor.png",
+                    "/Algiwar-assets/hotel.png"
+                ],
+                "overview": "Discover the heart of Europe across Paris, Rome, and the Swiss Alps with guided city tours, scenic trains, and handpicked hotels.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 7
+                    },
+                    {
+                        "label_key": "breakfast"
+                    },
+                    {
+                        "label_key": "multiCity"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Paris",
+                        "text": "Hotel transfer and evening Seine river walk."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Paris Highlights",
+                        "text": "Eiffel Tower, Louvre, and Montmartre."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Travel to Switzerland",
+                        "text": "Scenic journey to the Swiss Alps."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Alpine Day",
+                        "text": "Mountain views, lakes, and free time in Interlaken."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Onward to Italy",
+                        "text": "Coach transfer toward Milan and overnight."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Rome",
+                        "text": "Colosseum, Vatican area, and evening gelato stroll."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Rome at Leisure",
+                        "text": "Optional Vatican Museums or shopping in the centro."
+                    },
+                    {
+                        "day": 8,
+                        "title": "Departure",
+                        "text": "Airport transfer for your flight home."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 2
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "bali-family-fun",
+            "attributes": {
+                "slug": "bali-family-fun",
+                "name": "Bali Family Fun",
+                "location": "Bali, Indonesia",
+                "destination": "bali",
+                "duration": "7 Days / 6 Nights",
+                "days": 7,
+                "nights": 6,
+                "price_from": 1099,
+                "currency": "USD",
+                "rating": 4.6,
+                "reviews": 97,
+                "tour_type": "Family Tour",
+                "group_size": "2 - 12 People",
+                "badge": "family",
+                "categories": [
+                    "family",
+                    "beach"
+                ],
+                "features": [
+                    "flightHotel",
+                    "dailyBreakfast",
+                    "familyActivities"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRQfTcb-wb-K5joMJOrgaRtHWQbmjATXpS806GN9dYRMcd_ed_OXHb6-7NVPAzNvGFzwWUsrNc9OTrvP1rw87FGWU77C9y0iJEJCj9HXzvPndRBVLIemUsGVrQCYkR8qrHUf3n7LOMPISi3NC5gC1Xq5j3pOCia8Qk69eFZEoyEqyzkxj2PQY3GvL9WSJshKyP8DTaH8YELQq69fEB5d8kK0hDDTmuwEIVRU4oHH0vFjHPb5KuzVMvvg",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCRQfTcb-wb-K5joMJOrgaRtHWQbmjATXpS806GN9dYRMcd_ed_OXHb6-7NVPAzNvGFzwWUsrNc9OTrvP1rw87FGWU77C9y0iJEJCj9HXzvPndRBVLIemUsGVrQCYkR8qrHUf3n7LOMPISi3NC5gC1Xq5j3pOCia8Qk69eFZEoyEqyzkxj2PQY3GvL9WSJshKyP8DTaH8YELQq69fEB5d8kK0hDDTmuwEIVRU4oHH0vFjHPb5KuzVMvvg",
+                    "/Algiwar-assets/dest-north-coast.png",
+                    "/Algiwar-assets/holiday.png",
+                    "/Algiwar-assets/hotel.png"
+                ],
+                "overview": "A relaxed Bali holiday built for families: beaches, rice terraces, water parks, and kid-friendly cultural stops.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 6
+                    },
+                    {
+                        "label_key": "dailyBreakfast"
+                    },
+                    {
+                        "label_key": "familyActivities"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Bali",
+                        "text": "Hotel transfer and pool time at the resort."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Beach Day",
+                        "text": "Nusa Dua or Sanur beach and family dinner."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Ubud & Rice Terraces",
+                        "text": "Tegalalang, monkey forest, and artisan shops."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Waterpark",
+                        "text": "Full day at a Bali waterpark."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Temples & Culture",
+                        "text": "Tanah Lot sunset and traditional dance."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Free Day",
+                        "text": "Optional spa, shopping, or snorkeling."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Departure",
+                        "text": "Airport transfer."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 3
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "egypt-adventure",
+            "attributes": {
+                "slug": "egypt-adventure",
+                "name": "Egypt Adventure",
+                "location": "Egypt",
+                "destination": "egypt",
+                "duration": "7 Days / 6 Nights",
+                "days": 7,
+                "nights": 6,
+                "price_from": 699,
+                "currency": "USD",
+                "rating": 4.8,
+                "reviews": 214,
+                "tour_type": "Group Tour",
+                "group_size": "4 - 20 People",
+                "badge": "adventure",
+                "categories": [
+                    "adventure",
+                    "city"
+                ],
+                "features": [
+                    "flightHotel",
+                    "breakfast",
+                    "desertSafari"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBxzW1meKPIebONGE39-_ncwtwQ_bEY2FtHH0Dujt7xoNSIOwv30PHqE_j6wCiwraus1FOdHHSoVEucSwby58awWhlipx5KabVU3t6tyf8Kp_vAivNXlZSfRQPfWit_4NGFacjg_RSHBMFP9ie4PvEBi5E3thoVUx8O_5UnBHG_Zr_P69KAni2cyJgg9KAhzv8-I6xs3PLzif-4OKFFQfBV8DY4pTX_tg8zlDkii3j8SeBDvwAqPolHkA",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBxzW1meKPIebONGE39-_ncwtwQ_bEY2FtHH0Dujt7xoNSIOwv30PHqE_j6wCiwraus1FOdHHSoVEucSwby58awWhlipx5KabVU3t6tyf8Kp_vAivNXlZSfRQPfWit_4NGFacjg_RSHBMFP9ie4PvEBi5E3thoVUx8O_5UnBHG_Zr_P69KAni2cyJgg9KAhzv8-I6xs3PLzif-4OKFFQfBV8DY4pTX_tg8zlDkii3j8SeBDvwAqPolHkA",
+                    "/Algiwar-assets/dest-cairo.png",
+                    "/Algiwar-assets/dest-luxor.png",
+                    "/Algiwar-assets/hero.png"
+                ],
+                "overview": "Pyramids, Nile views, and a desert safari — an Egypt adventure that mixes ancient wonders with Red Sea energy.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 6
+                    },
+                    {
+                        "label_key": "breakfast"
+                    },
+                    {
+                        "label_key": "desertSafari"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Cairo",
+                        "text": "Hotel transfer and Nile-side evening."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Pyramids & Sphinx",
+                        "text": "Giza plateau and Egyptian Museum."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Fly to Luxor",
+                        "text": "Karnak Temple and Nile promenade."
+                    },
+                    {
+                        "day": 4,
+                        "title": "West Bank",
+                        "text": "Valley of the Kings and Hatshepsut Temple."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Desert Safari",
+                        "text": "Sunset dune drive and Bedouin-style dinner."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Red Sea Day",
+                        "text": "Optional snorkel or resort free time."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Departure",
+                        "text": "Airport transfer."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 4
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "greek-island-romance",
+            "attributes": {
+                "slug": "greek-island-romance",
+                "name": "Greek Island Romance",
+                "location": "Greece",
+                "destination": "greece",
+                "duration": "6 Days / 5 Nights",
+                "days": 6,
+                "nights": 5,
+                "price_from": 1499,
+                "currency": "USD",
+                "rating": 4.9,
+                "reviews": 76,
+                "tour_type": "Private Tour",
+                "group_size": "2 People",
+                "badge": "honeymoon",
+                "categories": [
+                    "honeymoon",
+                    "beach"
+                ],
+                "features": [
+                    "flightHotel",
+                    "breakfast",
+                    "sunsetCruise"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA18ku-SL_V-I7Kxn8qJICsfHDyKh7de9EepWFhQ5CHULTcafXn5ZTolPDzR3UiCsUDj0ZiiCSGx7B4jZWu3Xbhr5xcPFn3SJEBSXgzuKcdpyMa2AvT7elLixeLSCK28aWWzyKRhI3fcOA5pS3A_9h9_EJOIvH47v_jlDo_SIsUpLFYRZvklQ4FVZVyugkysZ8UZ8zIo3MN61zsalExBOjvUNT-E6rRRDTAJW-mQzYKqksNJZch_VlGcQ",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuA18ku-SL_V-I7Kxn8qJICsfHDyKh7de9EepWFhQ5CHULTcafXn5ZTolPDzR3UiCsUDj0ZiiCSGx7B4jZWu3Xbhr5xcPFn3SJEBSXgzuKcdpyMa2AvT7elLixeLSCK28aWWzyKRhI3fcOA5pS3A_9h9_EJOIvH47v_jlDo_SIsUpLFYRZvklQ4FVZVyugkysZ8UZ8zIo3MN61zsalExBOjvUNT-E6rRRDTAJW-mQzYKqksNJZch_VlGcQ",
+                    "/Algiwar-assets/dest-sharm.png",
+                    "/Algiwar-assets/holiday.png",
+                    "/Algiwar-assets/hotel.png"
+                ],
+                "overview": "Whitewashed cliffs, caldera sunsets, and a private cruise — a Santorini-focused honeymoon package.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 5
+                    },
+                    {
+                        "label_key": "breakfast"
+                    },
+                    {
+                        "label_key": "sunsetCruise"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Santorini",
+                        "text": "Transfer to a caldera-view hotel."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Oia & Fira",
+                        "text": "Village walk and sunset in Oia."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Sunset Cruise",
+                        "text": "Catamaran with swimming stops and dinner."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Wine & Beaches",
+                        "text": "Winery visit and Red Beach or Perissa."
+                    },
+                    {
+                        "day": 5,
+                        "title": "At Leisure",
+                        "text": "Spa, photos, and a romantic dinner."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Departure",
+                        "text": "Airport transfer."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 5
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "thailand-getaway",
+            "attributes": {
+                "slug": "thailand-getaway",
+                "name": "Thailand Getaway",
+                "location": "Thailand",
+                "destination": "thailand",
+                "duration": "6 Days / 5 Nights",
+                "days": 6,
+                "nights": 5,
+                "price_from": 799,
+                "currency": "USD",
+                "rating": 4.5,
+                "reviews": 163,
+                "tour_type": "Group Tour",
+                "group_size": "2 - 16 People",
+                "badge": "popular",
+                "categories": [
+                    "beach",
+                    "city"
+                ],
+                "features": [
+                    "flightHotel",
+                    "breakfast",
+                    "islandTour"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsi52wbZpUGovVH4epjC7Vdb8cVGJEQykpu2I3wyYvrWxkWj4aaCMiYDORyH81DQ-L3_usdAHhyBvsD09c9ZsfQkprNTVOiR-ELMNwdVelNmngLUkjKyfNLORP5qs9QQKM0RufVrBGVUqGrurhuQiujzUf4G7gmoDKIdCRb9NFiDcXmgm780hgyhHtIwWB3sjPMUmEKPAkz6BtDE0wNgWFndLTKL-jy8Yv1OMaHIcejvvR6UAk2niuiA",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDsi52wbZpUGovVH4epjC7Vdb8cVGJEQykpu2I3wyYvrWxkWj4aaCMiYDORyH81DQ-L3_usdAHhyBvsD09c9ZsfQkprNTVOiR-ELMNwdVelNmngLUkjKyfNLORP5qs9QQKM0RufVrBGVUqGrurhuQiujzUf4G7gmoDKIdCRb9NFiDcXmgm780hgyhHtIwWB3sjPMUmEKPAkz6BtDE0wNgWFndLTKL-jy8Yv1OMaHIcejvvR6UAk2niuiA",
+                    "/Algiwar-assets/dest-hurghada.png",
+                    "/Algiwar-assets/holiday.png",
+                    "/Algiwar-assets/hotel.png"
+                ],
+                "overview": "Bangkok temples and Phuket islands in one easy getaway with flights, hotels, and a guided island tour.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 5
+                    },
+                    {
+                        "label_key": "breakfast"
+                    },
+                    {
+                        "label_key": "islandTour"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Bangkok",
+                        "text": "Hotel transfer and night market."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Bangkok Temples",
+                        "text": "Grand Palace area and river longtail."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Fly to Phuket",
+                        "text": "Beach resort check-in."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Island Tour",
+                        "text": "Phi Phi or James Bond island cruise."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Beach Free Day",
+                        "text": "Optional spa or Old Town Phuket."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Departure",
+                        "text": "Airport transfer."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 6
+            }
+        },
+        {
+            "type": "holiday-package",
+            "id": "new-york-city-break",
+            "attributes": {
+                "slug": "new-york-city-break",
+                "name": "New York City Break",
+                "location": "USA",
+                "destination": "usa",
+                "duration": "5 Days / 4 Nights",
+                "days": 5,
+                "nights": 4,
+                "price_from": 1199,
+                "currency": "USD",
+                "rating": 4.6,
+                "reviews": 121,
+                "tour_type": "Independent",
+                "group_size": "1 - 10 People",
+                "badge": "new",
+                "categories": [
+                    "city"
+                ],
+                "features": [
+                    "flightHotel",
+                    "breakfast",
+                    "cityTour"
+                ],
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDMW8lhKVUDbm9eA2ILH7PEJDd7Vw9ABPyBNb_SG0AJ9GWOwu_xmBBru8K-glxqzLT15G1_UP23sRGlyslQD0sRz78mQHCpjeLHCF90oTLAx2qZ1N1NCxpVy48au8NYL8aDkPhb5peK6roBB2eA8ESv7mfxU-Y6LWMzEXkGiqisgSIrStSJxkAID6-RYS_fnqxLLZwS32PIest0pePUpeJLFX5jSDmn-bi-XipNMX7eAHbJCUujWs73lQ",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDMW8lhKVUDbm9eA2ILH7PEJDd7Vw9ABPyBNb_SG0AJ9GWOwu_xmBBru8K-glxqzLT15G1_UP23sRGlyslQD0sRz78mQHCpjeLHCF90oTLAx2qZ1N1NCxpVy48au8NYL8aDkPhb5peK6roBB2eA8ESv7mfxU-Y6LWMzEXkGiqisgSIrStSJxkAID6-RYS_fnqxLLZwS32PIest0pePUpeJLFX5jSDmn-bi-XipNMX7eAHbJCUujWs73lQ",
+                    "/Algiwar-assets/dest-cairo.png",
+                    "/Algiwar-assets/hotel.png",
+                    "/Algiwar-assets/flight.png"
+                ],
+                "overview": "A compact NYC break covering skyline views, a city tour, and time for Broadway, shopping, and Central Park.",
+                "inclusions_bar": [
+                    {
+                        "label_key": "flightIncluded"
+                    },
+                    {
+                        "label_key": "hotelNights",
+                        "nights": 4
+                    },
+                    {
+                        "label_key": "breakfast"
+                    },
+                    {
+                        "label_key": "cityTour"
+                    }
+                ],
+                "itinerary": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in New York",
+                        "text": "Hotel transfer and Times Square evening."
+                    },
+                    {
+                        "day": 2,
+                        "title": "City Tour",
+                        "text": "Statue of Liberty views, Downtown, and Midtown highlights."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Central Park & Museums",
+                        "text": "Park walk and optional MoMA or MET."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Free Day",
+                        "text": "Shopping, Brooklyn, or a Broadway show."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Departure",
+                        "text": "Airport transfer."
+                    }
+                ],
+                "is_active": true,
+                "sort_order": 7
+            }
+        }
+    ]
+}

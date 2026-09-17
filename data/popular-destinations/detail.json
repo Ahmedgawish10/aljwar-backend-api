@@ -1,0 +1,38 @@
+{
+    "data":  {
+                 "slug":  "cairo",
+                 "name":  "Cairo",
+                 "country":  "Egypt",
+                 "categories":  [
+                                    "city",
+                                    "culture"
+                                ],
+                 "featured":  true,
+                 "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg",
+                 "gallery":  [
+                                 "https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg",
+                                 "http://127.0.0.1:8000/Algiwar-assets/dest-cairo.png",
+                                 "http://127.0.0.1:8000/Algiwar-assets/dest-luxor.png",
+                                 "http://127.0.0.1:8000/Algiwar-assets/hotel.png"
+                             ],
+                 "overview":  "Cairo is where ancient wonders meet a vibrant modern capital. Explore the Pyramids, Egyptian Museum, and the bustling streets of one of the world\u0027s most historic cities.",
+                 "highlights":  [
+                                    "Visit the Great Pyramids of Giza",
+                                    "Explore the Egyptian Museum treasures",
+                                    "Wander Khan el-Khalili bazaar",
+                                    "Cruise the Nile at sunset",
+                                    "Discover Islamic Cairo mosques",
+                                    "Taste authentic Egyptian cuisine"
+                                ],
+                 "info":  {
+                              "language":  "Arabic (Official), English",
+                              "currency":  "Egyptian Pound (EGP)",
+                              "timezone":  "GMT +2",
+                              "best_time":  "October - April"
+                          },
+                 "price":  {
+                               "amount":  320,
+                               "currency":  "USD"
+                           }
+             }
+}

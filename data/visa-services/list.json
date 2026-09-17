@@ -1,0 +1,64 @@
+{
+    "meta":  {
+                 "count":  6,
+                 "page":  1,
+                 "per_page":  20,
+                 "last_page":  1
+             },
+    "data":  [
+                 {
+                     "id":  "turkey",
+                     "image":  "http://127.0.0.1:8000/storage/visas/hero.jpg",
+                     "flag":  "http://127.0.0.1:8000/visa/turkey-flag.jpg",
+                     "price":  {
+                                   "amount":  0,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "uae",
+                     "image":  "http://127.0.0.1:8000/visa/uae.jpg",
+                     "flag":  "http://127.0.0.1:8000/visa/uae-flag.jpg",
+                     "price":  {
+                                   "amount":  90,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "saudi",
+                     "image":  "http://127.0.0.1:8000/visa/saudi.jpg",
+                     "flag":  "http://127.0.0.1:8000/visa/saudi-flag.jpg",
+                     "price":  {
+                                   "amount":  80,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "usa",
+                     "image":  "http://127.0.0.1:8000/visa/usa.jpg",
+                     "flag":  "http://127.0.0.1:8000/visa/usa-flag.jpg",
+                     "price":  {
+                                   "amount":  160,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "uk",
+                     "image":  "http://127.0.0.1:8000/visa/uk.jpg",
+                     "flag":  "http://127.0.0.1:8000/visa/uk-flag.jpg",
+                     "price":  {
+                                   "amount":  150,
+                                   "currency":  "USD"
+                               }
+                 },
+                 {
+                     "id":  "schengen",
+                     "image":  "http://127.0.0.1:8000/visa/schengen.jpg",
+                     "flag":  "http://127.0.0.1:8000/visa/schengen-flag.avif",
+                     "price":  {
+                                   "amount":  110,
+                                   "currency":  "USD"
+                               }
+                 }
+             ]
+}

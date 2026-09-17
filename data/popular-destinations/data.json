@@ -1,0 +1,626 @@
+{
+    "data": [
+        {
+            "type": "destination",
+            "id": "cairo",
+            "attributes": {
+                "slug": "cairo",
+                "name": "Cairo",
+                "country": "Egypt",
+                "categories": [
+                    "city",
+                    "culture"
+                ],
+                "price_from": 320,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg",
+                    "/Algiwar-assets/dest-cairo.png",
+                    "/Algiwar-assets/dest-luxor.png",
+                    "/Algiwar-assets/hotel.png"
+                ],
+                "overview": "Cairo is where ancient wonders meet a vibrant modern capital. Explore the Pyramids, Egyptian Museum, and the bustling streets of one of the world's most historic cities.",
+                "highlights": [
+                    "Visit the Great Pyramids of Giza",
+                    "Explore the Egyptian Museum treasures",
+                    "Wander Khan el-Khalili bazaar",
+                    "Cruise the Nile at sunset",
+                    "Discover Islamic Cairo mosques",
+                    "Taste authentic Egyptian cuisine"
+                ],
+                "info": {
+                    "language": "Arabic (Official), English",
+                    "currency": "Egyptian Pound (EGP)",
+                    "timezone": "GMT +2",
+                    "best_time": "October - April"
+                },
+                "is_active": true,
+                "sort_order": 0
+            }
+        },
+        {
+            "type": "destination",
+            "id": "maldives",
+            "attributes": {
+                "slug": "maldives",
+                "name": "Maldives",
+                "country": "Maldives",
+                "categories": [
+                    "beach",
+                    "nature"
+                ],
+                "price_from": 890,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAieOGZkcuBYkGWEmJ3QwGHIzUiRGBYZp8GmELhCk2gIMMfeAG8pbOVDT6za6zewVYld7S_Sd4zuI804GvFoVjVDl8401EHaPGHYQTFw4GFldLop6aglZSfDpq05xikfk9CK-2nmvkfXjtobQ5SQG717k7aP8qusxIL0HIlPQo6ZW2JdIjdn2CdKJ0z6W8tSfK79xfucNuVJYyZH4SePUfrjH4c7S7MhGliXxoyXSyhsv5fOfZRvsovbQ"
+                ],
+                "overview": "Turquoise lagoons, overwater villas, and powder-soft beaches make the Maldives the ultimate tropical escape.",
+                "highlights": [
+                    "Stay in an overwater villa",
+                    "Snorkel vibrant coral reefs",
+                    "Enjoy private island luxury",
+                    "Watch unforgettable sunsets",
+                    "Try world-class spa treatments",
+                    "Dive with manta rays and turtles"
+                ],
+                "info": {
+                    "language": "Dhivehi (Official), English",
+                    "currency": "Maldivian Rufiyaa (MVR)",
+                    "timezone": "GMT +5",
+                    "best_time": "November - April"
+                },
+                "is_active": true,
+                "sort_order": 1
+            }
+        },
+        {
+            "type": "destination",
+            "id": "dubai",
+            "attributes": {
+                "slug": "dubai",
+                "name": "Dubai",
+                "country": "United Arab Emirates",
+                "categories": [
+                    "city",
+                    "adventure"
+                ],
+                "price_from": 620,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDJgD3sdMgIS0npKHW6UTdzLLizHvHRG1vFEZ0hejLFuBjfftqwodUV5V-mNacSUXk8yDq69MIGCs68-zCpiBh82JLEygwGBxe3pB_y8i0-nlr2qfquDvyTzGNexKrO8SID9OMNUqazvgIOqWWQGFQhrknqSOlLhsNzzmW5PwDx2uRU84fqvTkWY1wVZ3KF1OZYXzllTlGMc8Blg1usa4vHDl_0zJztT7ecK2Tb_cPpbPR8j8CA5XfTpg",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuArn1KHvL46qwAHAdRhpJrXRJqznaoVpzDAIWBRTtCE87pVzLx8AgJ1LMt62QzCKKPIG1SITvUj88AriL2nIB0lJ_OZk4H-TNSEuo7tbaDacGLudlEJDDnB_Frw6Axfo_p0R1jDO-xLGo3Xgn1A7M2IHWkkQd6VEtrngJ9VYLNPwitgtgsWojEh8I_IOPsReupVXpivfesByFAhYBIG-ZDVRopiZ-dGPdGvzPgGNtLQN6VII-Xk1aDBMA",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCkEW8logblCRIsHPMwKuS_K9C68QuS_cdScMlUSWYR1ajE_UyBzxFsyQenn0NZ-AL8yRxet_4vuMmy2juDrXPS3eVPMBKzK3XBCjhV8uMPfKtSZ69PQVADY6qGRTzzDmBr8ZQ9w7eNlaae6OZ3hjw8QO_IkjMeeibzfD-fsF2zw1iZUTL7aHClh2GtRctE-3XDGl2PZA8dcYa_l3MzN5UFBfcKXK47Fmg4rQAu8t1kXkMYfqj4_bSsMQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDVMXQuYOcgubWX1D4aNWe7LHyxWuKFO8Pqfcd6XAoyxnR-OZFBIfbIHmO6n97MY52zUUlZKaQKas-04lEM92MVFV2W3ghS1DuEQMrWgapQednUGL_J8Z8-nSavNGvVZbKKyT7fdKJrvSQ0limDJDKMhzFbPpPVrcyginRxRPa1YN680l0d_C8F9zBNgu45ncUZteXJXdlE6b48Ddl28eTgRsTWAORml2_LTvW8dthP6QUssD8JAgtdxQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuD0wimciC6tAVF_i7mLpmkeDKwbek2D-tpXbMwB79aYCdfWDoiJn-H0KWOKuhTrscJ_ULXA8aaawZaF-cMh587oOqrEZ5ewz_Koj6k3WOVKqa5UkjYitxLchBtWBGNM8dqW7OyPTRwQCiZtPupW_i-8bxzoGr21f6jlsTFTIqCy5thK1XCvjE-fLj5YhQ5jIsePTXJ6hNC1R2l8sx9H2sW0DVzjCIWHoyK_BPFdBsLxtLLrLVYHFlnJNA"
+                ],
+                "overview": "Dubai is a city of the future. Experience luxury, adventure, and world-class attractions in one of the most amazing destinations in the world.",
+                "highlights": [
+                    "Visit the iconic Burj Khalifa",
+                    "Enjoy a desert safari adventure",
+                    "Relax on beautiful beaches",
+                    "Explore luxury shopping malls",
+                    "Experience vibrant nightlife",
+                    "Discover rich culture and heritage"
+                ],
+                "info": {
+                    "language": "Arabic (Official), English",
+                    "currency": "UAE Dirham (AED)",
+                    "timezone": "GMT +4",
+                    "best_time": "November - March"
+                },
+                "is_active": true,
+                "sort_order": 2
+            }
+        },
+        {
+            "type": "destination",
+            "id": "istanbul",
+            "attributes": {
+                "slug": "istanbul",
+                "name": "Istanbul",
+                "country": "Turkey",
+                "categories": [
+                    "city",
+                    "culture"
+                ],
+                "price_from": 450,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCwo_x9X-JqtheOujMmEELJsTUTIxnJu7zIFBW6iRDl4CKt1kPCsJDucAu8ov0vnhBw2uhNPC1DR6MKfFUSfIUNM6xOfXhNPRxSFItws1uka31Bo1l1LXXhF4Xcg6m3kqPQFFNsZ0nv-WyzJX8tFEahQkVgN6RZCb6vATEvUM00rb6ouSQvj45CJA_Uax6BHcy_qBwHyXHO_PqLIqz0OQZTvgsKtzOAgj0NFp62fF_nIQVwMTLdCrH_Cw",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCwo_x9X-JqtheOujMmEELJsTUTIxnJu7zIFBW6iRDl4CKt1kPCsJDucAu8ov0vnhBw2uhNPC1DR6MKfFUSfIUNM6xOfXhNPRxSFItws1uka31Bo1l1LXXhF4Xcg6m3kqPQFFNsZ0nv-WyzJX8tFEahQkVgN6RZCb6vATEvUM00rb6ouSQvj45CJA_Uax6BHcy_qBwHyXHO_PqLIqz0OQZTvgsKtzOAgj0NFp62fF_nIQVwMTLdCrH_Cw",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCwo_x9X-JqtheOujMmEELJsTUTIxnJu7zIFBW6iRDl4CKt1kPCsJDucAu8ov0vnhBw2uhNPC1DR6MKfFUSfIUNM6xOfXhNPRxSFItws1uka31Bo1l1LXXhF4Xcg6m3kqPQFFNsZ0nv-WyzJX8tFEahQkVgN6RZCb6vATEvUM00rb6ouSQvj45CJA_Uax6BHcy_qBwHyXHO_PqLIqz0OQZTvgsKtzOAgj0NFp62fF_nIQVwMTLdCrH_Cw",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig"
+                ],
+                "overview": "Where Europe meets Asia — Istanbul blends Byzantine landmarks, Ottoman palaces, and vibrant street life.",
+                "highlights": [
+                    "Visit Hagia Sophia and Blue Mosque",
+                    "Cruise the Bosphorus",
+                    "Shop at the Grand Bazaar",
+                    "Explore Topkapi Palace",
+                    "Taste authentic Turkish cuisine",
+                    "Wander historic Sultanahmet"
+                ],
+                "info": {
+                    "language": "Turkish (Official), English",
+                    "currency": "Turkish Lira (TRY)",
+                    "timezone": "GMT +3",
+                    "best_time": "April - June, September - November"
+                },
+                "is_active": true,
+                "sort_order": 3
+            }
+        },
+        {
+            "type": "destination",
+            "id": "paris",
+            "attributes": {
+                "slug": "paris",
+                "name": "Paris",
+                "country": "France",
+                "categories": [
+                    "city",
+                    "culture"
+                ],
+                "price_from": 550,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAl9W1zTDjMRPcUyN9F15vBDEfKfDrAFUNcBaTHhLP8CV_-hv29Ilv4nFFyFrL0VkG4FglLhOxPDEkfN0_CnLU1AxpTQ-SsZbJ0LgsWnjMhqngTOMNnt_pmRXurtrQUN4ff0i7A9nkVF5px8nBXRiBLQDo57yjoa3gA23eeZdkdWE2hZeqVpTs7UAiyd5hpx-3ROUzHDPA54LlMVyI_BSp-rhQmaGpcGK07wYyrrMTZio0iKjqNH3Uv3w",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig"
+                ],
+                "overview": "The City of Light charms with romance, art, cuisine, and iconic landmarks at every turn.",
+                "highlights": [
+                    "Visit the Eiffel Tower",
+                    "Explore the Louvre Museum",
+                    "Stroll along the Seine",
+                    "Discover Montmartre",
+                    "Shop on the Champs-Élysées",
+                    "Enjoy world-class French cuisine"
+                ],
+                "info": {
+                    "language": "French (Official), English",
+                    "currency": "Euro (EUR)",
+                    "timezone": "GMT +1",
+                    "best_time": "April - June, September - October"
+                },
+                "is_active": true,
+                "sort_order": 4
+            }
+        },
+        {
+            "type": "destination",
+            "id": "bali",
+            "attributes": {
+                "slug": "bali",
+                "name": "Bali",
+                "country": "Indonesia",
+                "categories": [
+                    "beach",
+                    "nature",
+                    "adventure"
+                ],
+                "price_from": 470,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAieOGZkcuBYkGWEmJ3QwGHIzUiRGBYZp8GmELhCk2gIMMfeAG8pbOVDT6za6zewVYld7S_Sd4zuI804GvFoVjVDl8401EHaPGHYQTFw4GFldLop6aglZSfDpq05xikfk9CK-2nmvkfXjtobQ5SQG717k7aP8qusxIL0HIlPQo6ZW2JdIjdn2CdKJ0z6W8tSfK79xfucNuVJYyZH4SePUfrjH4c7S7MhGliXxoyXSyhsv5fOfZRvsovbQ"
+                ],
+                "overview": "Bali balances spiritual temples, jungle rice terraces, and surf beaches in one island paradise.",
+                "highlights": [
+                    "Visit ancient Hindu temples",
+                    "Explore Tegallalang rice terraces",
+                    "Surf Bali's famous beaches",
+                    "Enjoy yoga and wellness retreats",
+                    "Discover Ubud's art scene",
+                    "Watch sunset at Uluwatu"
+                ],
+                "info": {
+                    "language": "Indonesian (Official), English",
+                    "currency": "Indonesian Rupiah (IDR)",
+                    "timezone": "GMT +8",
+                    "best_time": "April - October"
+                },
+                "is_active": true,
+                "sort_order": 5
+            }
+        },
+        {
+            "type": "destination",
+            "id": "london",
+            "attributes": {
+                "slug": "london",
+                "name": "London",
+                "country": "United Kingdom",
+                "categories": [
+                    "city",
+                    "culture"
+                ],
+                "price_from": 580,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAl9W1zTDjMRPcUyN9F15vBDEfKfDrAFUNcBaTHhLP8CV_-hv29Ilv4nFFyFrL0VkG4FglLhOxPDEkfN0_CnLU1AxpTQ-SsZbJ0LgsWnjMhqngTOMNnt_pmRXurtrQUN4ff0i7A9nkVF5px8nBXRiBLQDo57yjoa3gA23eeZdkdWE2hZeqVpTs7UAiyd5hpx-3ROUzHDPA54LlMVyI_BSp-rhQmaGpcGK07wYyrrMTZio0iKjqNH3Uv3w",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAl9W1zTDjMRPcUyN9F15vBDEfKfDrAFUNcBaTHhLP8CV_-hv29Ilv4nFFyFrL0VkG4FglLhOxPDEkfN0_CnLU1AxpTQ-SsZbJ0LgsWnjMhqngTOMNnt_pmRXurtrQUN4ff0i7A9nkVF5px8nBXRiBLQDo57yjoa3gA23eeZdkdWE2hZeqVpTs7UAiyd5hpx-3ROUzHDPA54LlMVyI_BSp-rhQmaGpcGK07wYyrrMTZio0iKjqNH3Uv3w",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAl9W1zTDjMRPcUyN9F15vBDEfKfDrAFUNcBaTHhLP8CV_-hv29Ilv4nFFyFrL0VkG4FglLhOxPDEkfN0_CnLU1AxpTQ-SsZbJ0LgsWnjMhqngTOMNnt_pmRXurtrQUN4ff0i7A9nkVF5px8nBXRiBLQDo57yjoa3gA23eeZdkdWE2hZeqVpTs7UAiyd5hpx-3ROUzHDPA54LlMVyI_BSp-rhQmaGpcGK07wYyrrMTZio0iKjqNH3Uv3w",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q"
+                ],
+                "overview": "London delivers royal history, world museums, theatre, and neighborhoods full of character.",
+                "highlights": [
+                    "See Big Ben and Westminster",
+                    "Visit the British Museum",
+                    "Ride the London Eye",
+                    "Explore Buckingham Palace",
+                    "Enjoy West End theatre",
+                    "Wander through Hyde Park"
+                ],
+                "info": {
+                    "language": "English",
+                    "currency": "British Pound (GBP)",
+                    "timezone": "GMT +0",
+                    "best_time": "May - September"
+                },
+                "is_active": true,
+                "sort_order": 6
+            }
+        },
+        {
+            "type": "destination",
+            "id": "sharm",
+            "attributes": {
+                "slug": "sharm-el-sheikh",
+                "name": "Sharm El Sheikh",
+                "country": "Egypt",
+                "categories": [
+                    "beach",
+                    "adventure"
+                ],
+                "price_from": 410,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD7vNS88lISMaOfi9joqVi-MDBR1LMRf7c4yTxOM9bEwfOEZuEjvYdEl_0oQaulJATcvXiPdSlQvb1Cie83MouT-KueX8zt25w4ccmoodV6CJFv2AwWSVejHqWf13gyKOrnvJG-frGAIIXCQeE2aE-zF-Vw_y2H5mgWV8jVTqw1oaKJm7o_zL4BI9u9EhRr2yxSboBcv3XvHbWuioVrlwrnQeNR3oBW026qGSAIUSlrFsLgo37h2-fLaQ",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuD7vNS88lISMaOfi9joqVi-MDBR1LMRf7c4yTxOM9bEwfOEZuEjvYdEl_0oQaulJATcvXiPdSlQvb1Cie83MouT-KueX8zt25w4ccmoodV6CJFv2AwWSVejHqWf13gyKOrnvJG-frGAIIXCQeE2aE-zF-Vw_y2H5mgWV8jVTqw1oaKJm7o_zL4BI9u9EhRr2yxSboBcv3XvHbWuioVrlwrnQeNR3oBW026qGSAIUSlrFsLgo37h2-fLaQ",
+                    "/Algiwar-assets/dest-sharm.png",
+                    "/Algiwar-assets/dest-hurghada.png",
+                    "/Algiwar-assets/transfer.png"
+                ],
+                "overview": "Sharm El Sheikh is Egypt's Red Sea jewel — famous for diving, resorts, and desert adventures.",
+                "highlights": [
+                    "Dive the Ras Mohammed reefs",
+                    "Relax on Naama Bay beaches",
+                    "Take a desert safari",
+                    "Snorkel at Tiran Island",
+                    "Enjoy resort nightlife",
+                    "Visit St. Catherine's Monastery"
+                ],
+                "info": {
+                    "language": "Arabic (Official), English",
+                    "currency": "Egyptian Pound (EGP)",
+                    "timezone": "GMT +2",
+                    "best_time": "Year-round"
+                },
+                "is_active": true,
+                "sort_order": 7
+            }
+        },
+        {
+            "type": "destination",
+            "id": "hurghada",
+            "attributes": {
+                "slug": "hurghada",
+                "name": "Hurghada",
+                "country": "Egypt",
+                "categories": [
+                    "beach",
+                    "adventure"
+                ],
+                "price_from": 390,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmhrnMjskwN-KpuPJ_2g2ElknrSP9hSSmV39PbjugD_X995SDKPmT2wgi-dFcDoZprv-KzCazSgHi7aUGUPK9KySbCflfJS-bDr1FoaFp7PtQn-SmvYW6cW27290HznKVSj2KTeg0OGZzM1PYTDuFAXtTQpVXpMimtjP_aQQg2M3VoNE-P7RHUnrygwVPPsdzX80yFahs8U41ju-r6JumYh3mZDXeaazZws_qtbbFhKs5BEtiVAIybbA",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBmhrnMjskwN-KpuPJ_2g2ElknrSP9hSSmV39PbjugD_X995SDKPmT2wgi-dFcDoZprv-KzCazSgHi7aUGUPK9KySbCflfJS-bDr1FoaFp7PtQn-SmvYW6cW27290HznKVSj2KTeg0OGZzM1PYTDuFAXtTQpVXpMimtjP_aQQg2M3VoNE-P7RHUnrygwVPPsdzX80yFahs8U41ju-r6JumYh3mZDXeaazZws_qtbbFhKs5BEtiVAIybbA",
+                    "/Algiwar-assets/dest-hurghada.png",
+                    "/Algiwar-assets/dest-sharm.png",
+                    "/Algiwar-assets/dest-north-coast.png"
+                ],
+                "overview": "Hurghada offers Red Sea beaches, water sports, and island hopping along Egypt's coast.",
+                "highlights": [
+                    "Snorkel Giftun Island",
+                    "Try diving and water sports",
+                    "Relax on sandy beaches",
+                    "Enjoy marina dining",
+                    "Take a desert safari",
+                    "Visit nearby Magawish reefs"
+                ],
+                "info": {
+                    "language": "Arabic (Official), English",
+                    "currency": "Egyptian Pound (EGP)",
+                    "timezone": "GMT +2",
+                    "best_time": "Year-round"
+                },
+                "is_active": true,
+                "sort_order": 8
+            }
+        },
+        {
+            "type": "destination",
+            "id": "bangkok",
+            "attributes": {
+                "slug": "bangkok",
+                "name": "Bangkok",
+                "country": "Thailand",
+                "categories": [
+                    "city",
+                    "culture"
+                ],
+                "price_from": 390,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDeG2fxhHI7rTbIeDi_zweFabenJXIvbwURJ5a5PXGJEDmLI_NlOmdoGUphxXXsttFv-EOiZI_q4ou0mFptOYjjkSB-aApO5-1Kh7QnHPFBB83-3-KOXzAyDvKfhR1UBUCxQUthB9mZJowgLlVHJRmDoKZJ07TYgsrXDX5Yk9li8m-mH1hVCWTH5LkhK9kB86hY5w55dZ4PrdoyZsrIpuBSGSuZNliy3iGWuMB2ou-Y6tRc0hGxcEzxMQ",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDeG2fxhHI7rTbIeDi_zweFabenJXIvbwURJ5a5PXGJEDmLI_NlOmdoGUphxXXsttFv-EOiZI_q4ou0mFptOYjjkSB-aApO5-1Kh7QnHPFBB83-3-KOXzAyDvKfhR1UBUCxQUthB9mZJowgLlVHJRmDoKZJ07TYgsrXDX5Yk9li8m-mH1hVCWTH5LkhK9kB86hY5w55dZ4PrdoyZsrIpuBSGSuZNliy3iGWuMB2ou-Y6tRc0hGxcEzxMQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDeG2fxhHI7rTbIeDi_zweFabenJXIvbwURJ5a5PXGJEDmLI_NlOmdoGUphxXXsttFv-EOiZI_q4ou0mFptOYjjkSB-aApO5-1Kh7QnHPFBB83-3-KOXzAyDvKfhR1UBUCxQUthB9mZJowgLlVHJRmDoKZJ07TYgsrXDX5Yk9li8m-mH1hVCWTH5LkhK9kB86hY5w55dZ4PrdoyZsrIpuBSGSuZNliy3iGWuMB2ou-Y6tRc0hGxcEzxMQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCwo_x9X-JqtheOujMmEELJsTUTIxnJu7zIFBW6iRDl4CKt1kPCsJDucAu8ov0vnhBw2uhNPC1DR6MKfFUSfIUNM6xOfXhNPRxSFItws1uka31Bo1l1LXXhF4Xcg6m3kqPQFFNsZ0nv-WyzJX8tFEahQkVgN6RZCb6vATEvUM00rb6ouSQvj45CJA_Uax6BHcy_qBwHyXHO_PqLIqz0OQZTvgsKtzOAgj0NFp62fF_nIQVwMTLdCrH_Cw"
+                ],
+                "overview": "Bangkok pulses with temples, street food, river life, and neon energy.",
+                "highlights": [
+                    "Visit the Grand Palace",
+                    "Explore Wat Arun at sunrise",
+                    "Cruise the Chao Phraya River",
+                    "Taste legendary street food",
+                    "Shop at Chatuchak Market",
+                    "Relax in rooftop bars"
+                ],
+                "info": {
+                    "language": "Thai (Official), English",
+                    "currency": "Thai Baht (THB)",
+                    "timezone": "GMT +7",
+                    "best_time": "November - February"
+                },
+                "is_active": true,
+                "sort_order": 9
+            }
+        },
+        {
+            "type": "destination",
+            "id": "rome",
+            "attributes": {
+                "slug": "rome",
+                "name": "Rome",
+                "country": "Italy",
+                "categories": [
+                    "city",
+                    "culture"
+                ],
+                "price_from": 520,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAl9W1zTDjMRPcUyN9F15vBDEfKfDrAFUNcBaTHhLP8CV_-hv29Ilv4nFFyFrL0VkG4FglLhOxPDEkfN0_CnLU1AxpTQ-SsZbJ0LgsWnjMhqngTOMNnt_pmRXurtrQUN4ff0i7A9nkVF5px8nBXRiBLQDo57yjoa3gA23eeZdkdWE2hZeqVpTs7UAiyd5hpx-3ROUzHDPA54LlMVyI_BSp-rhQmaGpcGK07wYyrrMTZio0iKjqNH3Uv3w"
+                ],
+                "overview": "Rome is an open-air museum of ancient ruins, piazzas, and Italian lifestyle.",
+                "highlights": [
+                    "Visit the Colosseum",
+                    "Explore the Roman Forum",
+                    "See the Vatican Museums",
+                    "Toss a coin in Trevi Fountain",
+                    "Wander Trastevere streets",
+                    "Savor authentic Italian cuisine"
+                ],
+                "info": {
+                    "language": "Italian (Official), English",
+                    "currency": "Euro (EUR)",
+                    "timezone": "GMT +1",
+                    "best_time": "April - June, September - October"
+                },
+                "is_active": true,
+                "sort_order": 10
+            }
+        },
+        {
+            "type": "destination",
+            "id": "santorini",
+            "attributes": {
+                "slug": "santorini",
+                "name": "Santorini",
+                "country": "Greece",
+                "categories": [
+                    "beach",
+                    "nature",
+                    "culture"
+                ],
+                "price_from": 610,
+                "currency": "USD",
+                "featured": true,
+                "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAieOGZkcuBYkGWEmJ3QwGHIzUiRGBYZp8GmELhCk2gIMMfeAG8pbOVDT6za6zewVYld7S_Sd4zuI804GvFoVjVDl8401EHaPGHYQTFw4GFldLop6aglZSfDpq05xikfk9CK-2nmvkfXjtobQ5SQG717k7aP8qusxIL0HIlPQo6ZW2JdIjdn2CdKJ0z6W8tSfK79xfucNuVJYyZH4SePUfrjH4c7S7MhGliXxoyXSyhsv5fOfZRvsovbQ",
+                "gallery": [
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAieOGZkcuBYkGWEmJ3QwGHIzUiRGBYZp8GmELhCk2gIMMfeAG8pbOVDT6za6zewVYld7S_Sd4zuI804GvFoVjVDl8401EHaPGHYQTFw4GFldLop6aglZSfDpq05xikfk9CK-2nmvkfXjtobQ5SQG717k7aP8qusxIL0HIlPQo6ZW2JdIjdn2CdKJ0z6W8tSfK79xfucNuVJYyZH4SePUfrjH4c7S7MhGliXxoyXSyhsv5fOfZRvsovbQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuAieOGZkcuBYkGWEmJ3QwGHIzUiRGBYZp8GmELhCk2gIMMfeAG8pbOVDT6za6zewVYld7S_Sd4zuI804GvFoVjVDl8401EHaPGHYQTFw4GFldLop6aglZSfDpq05xikfk9CK-2nmvkfXjtobQ5SQG717k7aP8qusxIL0HIlPQo6ZW2JdIjdn2CdKJ0z6W8tSfK79xfucNuVJYyZH4SePUfrjH4c7S7MhGliXxoyXSyhsv5fOfZRvsovbQ",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg",
+                    "https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw"
+                ],
+                "overview": "Whitewashed cliffs, blue domes, and legendary sunsets define Santorini.",
+                "highlights": [
+                    "Watch sunset in Oia",
+                    "Explore Fira's cliffside streets",
+                    "Visit volcanic beaches",
+                    "Tour local wineries",
+                    "Cruise the caldera",
+                    "Photograph blue-dome churches"
+                ],
+                "info": {
+                    "language": "Greek (Official), English",
+                    "currency": "Euro (EUR)",
+                    "timezone": "GMT +2",
+                    "best_time": "April - October"
+                },
+                "is_active": true,
+                "sort_order": 11
+            }
+        },
+        {
+            "type": "destination",
+            "id": "luxor",
+            "attributes": {
+                "slug": "luxor-aswan",
+                "name": "Luxor & Aswan",
+                "country": "Egypt",
+                "categories": [
+                    "culture",
+                    "adventure"
+                ],
+                "price_from": 350,
+                "currency": "USD",
+                "featured": false,
+                "image": "destinations/1788037112_abu-simbel.jpg",
+                "gallery": [
+                    "/Algiwar-assets/dest-luxor.png",
+                    "/Algiwar-assets/dest-cairo.png",
+                    "/Algiwar-assets/holiday.png",
+                    "/Algiwar-assets/tours.png"
+                ],
+                "overview": "Cruise the Nile between Luxor and Aswan and walk among temples of ancient Egypt.",
+                "highlights": [
+                    "Tour Karnak Temple",
+                    "Visit the Valley of the Kings",
+                    "Sail a traditional felucca",
+                    "See Philae Temple",
+                    "Explore Aswan's Nubian villages",
+                    "Enjoy a Nile cruise"
+                ],
+                "info": {
+                    "language": "Arabic (Official), English",
+                    "currency": "Egyptian Pound (EGP)",
+                    "timezone": "GMT +2",
+                    "best_time": "October - April"
+                },
+                "is_active": true,
+                "sort_order": 12
+            }
+        },
+        {
+            "type": "destination",
+            "id": "northCoast",
+            "attributes": {
+                "slug": "north-coast",
+                "name": "North Coast",
+                "country": "Egypt",
+                "categories": [
+                    "beach",
+                    "nature"
+                ],
+                "price_from": 280,
+                "currency": "USD",
+                "featured": false,
+                "image": "destinations/1788036745_abu-simbel.jpg",
+                "gallery": [
+                    "/Algiwar-assets/dest-north-coast.png",
+                    "/Algiwar-assets/dest-hurghada.png",
+                    "/Algiwar-assets/hotel.png",
+                    "/Algiwar-assets/holiday.png"
+                ],
+                "overview": "Egypt's Mediterranean North Coast offers turquoise water, modern resorts, and summer vibes.",
+                "highlights": [
+                    "Relax on Mediterranean beaches",
+                    "Stay at modern coastal resorts",
+                    "Enjoy marina nightlife",
+                    "Swim in clear turquoise water",
+                    "Explore nearby coastal towns",
+                    "Unwind with family-friendly activities"
+                ],
+                "info": {
+                    "language": "Arabic (Official), English",
+                    "currency": "Egyptian Pound (EGP)",
+                    "timezone": "GMT +2",
+                    "best_time": "June - September"
+                },
+                "is_active": true,
+                "sort_order": 13
+            }
+        },
+        {
+            "type": "destination",
+            "id": "e",
+            "attributes": {
+                "slug": "e",
+                "name": "e",
+                "country": null,
+                "categories": null,
+                "price_from": 10,
+                "currency": "USD",
+                "featured": false,
+                "image": "destinations/abu-simbel.jpg",
+                "gallery": [],
+                "overview": null,
+                "highlights": null,
+                "info": null,
+                "is_active": true,
+                "sort_order": 14
+            }
+        },
+        {
+            "type": "destination",
+            "id": "ahmed",
+            "attributes": {
+                "slug": "ahmed",
+                "name": "ahmed",
+                "country": null,
+                "categories": null,
+                "price_from": 10,
+                "currency": "USD",
+                "featured": false,
+                "image": "destinations/1788037068_custom-tours.jpg",
+                "gallery": [],
+                "overview": null,
+                "highlights": null,
+                "info": null,
+                "is_active": true,
+                "sort_order": 15
+            }
+        },
+        {
+            "type": "destination",
+            "id": "rrrrrrrrrrrr",
+            "attributes": {
+                "slug": "rrrrrrrrrrrr",
+                "name": "rrrrrrrrrrrr",
+                "country": null,
+                "categories": null,
+                "price_from": 410,
+                "currency": "USD",
+                "featured": false,
+                "image": "destinations/1788037134_custom-tours.jpg",
+                "gallery": [],
+                "overview": null,
+                "highlights": null,
+                "info": null,
+                "is_active": true,
+                "sort_order": 16
+            }
+        }
+    ]
+}

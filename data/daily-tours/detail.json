@@ -1,0 +1,95 @@
+{
+    "data":  {
+                 "slug":  "giza-pyramids-sphinx-egyptian-museum",
+                 "name":  "Giza Pyramids, Sphinx \u0026 Egyptian Museum",
+                 "destination":  "cairo",
+                 "category":  {
+                                  "slug":  "cultural",
+                                  "name":  "Cultural Tours",
+                                  "description":  "Explore history, ancient sites and local heritage."
+                              },
+                 "tour_type":  "cultural",
+                 "tour_code":  "AG-DT-001",
+                 "duration":  "8 Hours",
+                 "duration_hours":  8,
+                 "duration_key":  "fullDay",
+                 "run":  "Every Day",
+                 "pickup_time":  "08:00 AM",
+                 "languages":  "English, Arabic, German, French",
+                 "group_size":  "2 - 20 People",
+                 "best_seller":  true,
+                 "rating":  4.8,
+                 "review_count":  1248,
+                 "image":  "/tours/giza-pyramids.jpg",
+                 "hero_image":  "/tours/hero-detail.png",
+                 "gallery":  [
+                                 "/tours/giza-pyramids.jpg",
+                                 "/tours/hero.png",
+                                 "/tours/custom-tours.jpg",
+                                 "/tours/abu-simbel.jpg"
+                             ],
+                 "overview":  "Explore the wonders of ancient Egypt with a full-day tour to the Giza Pyramids, the legendary Great Sphinx, and the world-famous Egyptian Museum. Discover thousands of years of history, fascinating artifacts, and breathtaking sights with our expert Egyptologist guide.",
+                 "highlights":  [
+                                    "Visit the Great Pyramids of Giza",
+                                    "See the iconic Great Sphinx up close",
+                                    "Explore the Egyptian Museum\u0027s treasures",
+                                    "Learn from an expert Egyptologist guide",
+                                    "Hotel pickup \u0026 drop-off included",
+                                    "Comfortable transportation"
+                                ],
+                 "itinerary":  [
+                                   {
+                                       "time":  "08:00 AM",
+                                       "title":  "Hotel Pickup",
+                                       "description":  "Our representative will pick you up from your hotel in Cairo.",
+                                       "icon":  "home"
+                                   },
+                                   {
+                                       "time":  "08:30 AM",
+                                       "title":  "Giza Plateau",
+                                       "description":  "Visit the Pyramids of Cheops, Chephren \u0026 Mykerinus.",
+                                       "icon":  "near_me"
+                                   },
+                                   {
+                                       "time":  "10:30 AM",
+                                       "title":  "The Great Sphinx",
+                                       "description":  "See the legendary Sphinx and the Valley Temple.",
+                                       "icon":  "person"
+                                   },
+                                   {
+                                       "time":  "12:30 PM",
+                                       "title":  "Lunch Break",
+                                       "description":  "Enjoy a delicious lunch at a quality local restaurant.",
+                                       "icon":  "restaurant"
+                                   },
+                                   {
+                                       "time":  "02:00 PM",
+                                       "title":  "Egyptian Museum",
+                                       "description":  "Explore the incredible collection of ancient artifacts.",
+                                       "icon":  "museum"
+                                   }
+                               ],
+                 "inclusions":  [
+                                    "Hotel pickup \u0026 drop-off",
+                                    "All transfers by air-conditioned vehicle",
+                                    "Professional Egyptologist guide",
+                                    "All entrance fees",
+                                    "Lunch at local restaurant",
+                                    "Bottled water"
+                                ],
+                 "exclusions":  [
+                                    "Personal expenses",
+                                    "Tips and gratuities",
+                                    "Optional activities",
+                                    "Drinks during lunch"
+                                ],
+                 "cancellation_policy":  "Cancel up to 24 hours in advance for a full refund.",
+                 "info_voucher":  "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                 "price":  {
+                               "amount":  65,
+                               "currency":  "USD",
+                               "child_amount":  45,
+                               "infant_amount":  0
+                           }
+             }
+}

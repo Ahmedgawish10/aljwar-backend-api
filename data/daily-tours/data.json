@@ -1,0 +1,566 @@
+{
+    "data": [
+        {
+            "type": "tour",
+            "id": "giza-museum",
+            "attributes": {
+                "slug": "giza-pyramids-sphinx-egyptian-museum",
+                "name": "Giza Pyramids, Sphinx & Egyptian Museum",
+                "destination": "cairo",
+                "destination_label": "Cairo, Egypt",
+                "description": "Explore the wonders of ancient Egypt with a full-day tour to the Giza Pyramids, the legendary Great Sphinx, and the world-famous Egyptian Museum.",
+                "overview": "Explore the wonders of ancient Egypt with a full-day tour to the Giza Pyramids, the legendary Great Sphinx, and the world-famous Egyptian Museum. Discover thousands of years of history, fascinating artifacts, and breathtaking sights with our expert Egyptologist guide.",
+                "image": "/tours/giza-pyramids.jpg",
+                "hero_image": "/tours/hero-detail.png",
+                "gallery": [
+                    "/tours/giza-pyramids.jpg",
+                    "/tours/hero.png",
+                    "/tours/custom-tours.jpg",
+                    "/tours/abu-simbel.jpg"
+                ],
+                "rating": 4.8,
+                "review_count": 1248,
+                "tour_type": "cultural",
+                "tour_type_label": "Cultural Tours",
+                "tour_code": "AG-DT-001",
+                "duration": "8 Hours",
+                "duration_hours": 8,
+                "duration_key": "fullDay",
+                "run": "Every Day",
+                "group_size": "2 - 20 People",
+                "best_seller": true,
+                "pickup_time": "08:00 AM",
+                "languages": "English, Arabic, German, French",
+                "highlights": [
+                    "Visit the Great Pyramids of Giza",
+                    "See the iconic Great Sphinx up close",
+                    "Explore the Egyptian Museum's treasures",
+                    "Learn from an expert Egyptologist guide",
+                    "Hotel pickup & drop-off included",
+                    "Comfortable transportation"
+                ],
+                "itinerary": [
+                    {
+                        "time": "08:00 AM",
+                        "title": "Hotel Pickup",
+                        "description": "Our representative will pick you up from your hotel in Cairo.",
+                        "icon": "home"
+                    },
+                    {
+                        "time": "08:30 AM",
+                        "title": "Giza Plateau",
+                        "description": "Visit the Pyramids of Cheops, Chephren & Mykerinus.",
+                        "icon": "near_me"
+                    },
+                    {
+                        "time": "10:30 AM",
+                        "title": "The Great Sphinx",
+                        "description": "See the legendary Sphinx and the Valley Temple.",
+                        "icon": "person"
+                    },
+                    {
+                        "time": "12:30 PM",
+                        "title": "Lunch Break",
+                        "description": "Enjoy a delicious lunch at a quality local restaurant.",
+                        "icon": "restaurant"
+                    },
+                    {
+                        "time": "02:00 PM",
+                        "title": "Egyptian Museum",
+                        "description": "Explore the incredible collection of ancient artifacts.",
+                        "icon": "museum"
+                    }
+                ],
+                "inclusions": [
+                    "Hotel pickup & drop-off",
+                    "All transfers by air-conditioned vehicle",
+                    "Professional Egyptologist guide",
+                    "All entrance fees",
+                    "Lunch at local restaurant",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Personal expenses",
+                    "Tips and gratuities",
+                    "Optional activities",
+                    "Drinks during lunch"
+                ],
+                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
+                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                "price": {
+                    "amount": 65,
+                    "currency": "USD",
+                    "formatted": "$65",
+                    "per": "person",
+                    "child_amount": 45,
+                    "infant_amount": 0
+                },
+                "is_active": true,
+                "sort_order": 0
+            }
+        },
+        {
+            "type": "tour",
+            "id": "abu-simbel",
+            "attributes": {
+                "slug": "abu-simbel-day-tour-by-flight",
+                "name": "Abu Simbel Day Tour by Flight",
+                "destination": "aswan",
+                "destination_label": "Aswan, Egypt",
+                "description": "Fly from Aswan to Abu Simbel and discover the magnificent temples of Ramses II and Nefertari.",
+                "overview": "Fly from Aswan to Abu Simbel and discover the magnificent rock-cut temples of Ramses II and Nefertari with an expert Egyptologist guide.",
+                "image": "/tours/abu-simbel.jpg",
+                "hero_image": "/tours/hero-detail.png",
+                "gallery": [
+                    "/tours/abu-simbel.jpg",
+                    "/tours/hero.png",
+                    "/tours/giza-pyramids.jpg",
+                    "/tours/custom-tours.jpg"
+                ],
+                "rating": 4.7,
+                "review_count": 656,
+                "tour_type": "cultural",
+                "tour_type_label": "Cultural Tours",
+                "tour_code": "AG-DT-002",
+                "duration": "10 Hours",
+                "duration_hours": 10,
+                "duration_key": "fullDay",
+                "run": "Every Day",
+                "group_size": "2 - 15 People",
+                "best_seller": false,
+                "pickup_time": "06:00 AM",
+                "languages": "English, Arabic, French",
+                "highlights": [
+                    "Round-trip flight from Aswan to Abu Simbel",
+                    "Visit the temples of Ramses II and Nefertari",
+                    "Expert Egyptologist guide throughout",
+                    "Lunch included"
+                ],
+                "itinerary": [
+                    {
+                        "time": "06:00 AM",
+                        "title": "Aswan Airport Check-in",
+                        "description": "Meet your representative and board the morning flight to Abu Simbel.",
+                        "icon": "flight_takeoff"
+                    },
+                    {
+                        "time": "08:30 AM",
+                        "title": "Temples of Ramses II & Nefertari",
+                        "description": "Explore the monumental rock temples and famous colossi facade.",
+                        "icon": "account_balance"
+                    },
+                    {
+                        "time": "12:30 PM",
+                        "title": "Local Lunch",
+                        "description": "Enjoy a set-menu lunch before returning to the airport.",
+                        "icon": "restaurant"
+                    },
+                    {
+                        "time": "03:00 PM",
+                        "title": "Flight Back to Aswan",
+                        "description": "Board your return flight and conclude your day trip.",
+                        "icon": "flight_land"
+                    }
+                ],
+                "inclusions": [
+                    "Round-trip flight from Aswan",
+                    "Professional Egyptologist guide",
+                    "Temple entry fees",
+                    "Lunch"
+                ],
+                "exclusions": [
+                    "Hotel pickup in Aswan (optional)",
+                    "Gratuities for guide",
+                    "Personal expenses & drinks"
+                ],
+                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
+                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                "price": {
+                    "amount": 180,
+                    "currency": "USD",
+                    "formatted": "$180",
+                    "per": "person",
+                    "child_amount": 140,
+                    "infant_amount": 0
+                },
+                "is_active": true,
+                "sort_order": 1
+            }
+        },
+        {
+            "type": "tour",
+            "id": "luxor-balloon",
+            "attributes": {
+                "slug": "luxor-hot-air-balloon-east-bank",
+                "name": "Luxor Hot Air Balloon & East Bank Tour",
+                "destination": "luxor",
+                "destination_label": "Luxor, Egypt",
+                "description": "Rise above the Nile at sunrise, then explore Luxor's East Bank temples with an expert guide.",
+                "overview": "Rise above the Nile Valley at sunrise in a hot air balloon, then continue with a guided visit to Luxor's East Bank temples.",
+                "image": "/tours/custom-tours.jpg",
+                "hero_image": "/tours/hero-detail.png",
+                "gallery": [
+                    "/tours/custom-tours.jpg",
+                    "/tours/hero.png",
+                    "/tours/giza-pyramids.jpg",
+                    "/tours/abu-simbel.jpg"
+                ],
+                "rating": 4.9,
+                "review_count": 972,
+                "tour_type": "adventure",
+                "tour_type_label": "Adventure Tours",
+                "tour_code": "AG-DT-003",
+                "duration": "6 Hours",
+                "duration_hours": 6,
+                "duration_key": "fullDay",
+                "run": "Every Day",
+                "group_size": "2 - 12 People",
+                "best_seller": false,
+                "pickup_time": "04:30 AM",
+                "languages": "English, Arabic, German",
+                "highlights": [
+                    "Sunrise hot air balloon over Luxor",
+                    "Views of the Nile and West Bank",
+                    "East Bank temple visit",
+                    "Hotel pickup included"
+                ],
+                "itinerary": [
+                    {
+                        "time": "04:30 AM",
+                        "title": "Hotel Pickup",
+                        "description": "Early pickup for transfer to the balloon launch site.",
+                        "icon": "home"
+                    },
+                    {
+                        "time": "05:30 AM",
+                        "title": "Hot Air Balloon Flight",
+                        "description": "Enjoy a breathtaking sunrise flight over Luxor.",
+                        "icon": "flight"
+                    },
+                    {
+                        "time": "08:00 AM",
+                        "title": "East Bank Temples",
+                        "description": "Visit Karnak or Luxor Temple with your guide.",
+                        "icon": "account_balance"
+                    }
+                ],
+                "inclusions": [
+                    "Hotel pickup & drop-off",
+                    "Hot air balloon flight",
+                    "Professional guide",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Temple entry fees (if applicable)",
+                    "Tips and gratuities",
+                    "Personal expenses"
+                ],
+                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund. Balloon flights are weather dependent.",
+                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                "price": {
+                    "amount": 75,
+                    "currency": "USD",
+                    "formatted": "$75",
+                    "per": "person",
+                    "child_amount": 55,
+                    "infant_amount": 0
+                },
+                "is_active": true,
+                "sort_order": 2
+            }
+        },
+        {
+            "type": "tour",
+            "id": "felucca-aswan",
+            "attributes": {
+                "slug": "felucca-ride-nile-aswan",
+                "name": "Felucca Ride on the Nile in Aswan",
+                "destination": "aswan",
+                "destination_label": "Aswan, Egypt",
+                "description": "Sail the Nile on a traditional felucca and enjoy peaceful views of Aswan's riverbanks and islands.",
+                "overview": "Sail the Nile on a traditional wooden felucca and enjoy peaceful views of Aswan's islands, riverbanks, and desert hills.",
+                "image": "/tours/hero.png",
+                "hero_image": "/tours/hero-detail.png",
+                "gallery": [
+                    "/tours/hero.png",
+                    "/tours/abu-simbel.jpg",
+                    "/tours/custom-tours.jpg",
+                    "/tours/giza-pyramids.jpg"
+                ],
+                "rating": 4.6,
+                "review_count": 654,
+                "tour_type": "cruise",
+                "tour_type_label": "Cruise & Sailing",
+                "tour_code": "AG-DT-004",
+                "duration": "2 Hours",
+                "duration_hours": 2,
+                "duration_key": "halfDay",
+                "run": "Every Day",
+                "group_size": "2 - 10 People",
+                "best_seller": false,
+                "pickup_time": "Flexible",
+                "languages": "English, Arabic",
+                "highlights": [
+                    "Traditional Nile sailing experience",
+                    "Views of Elephantine Island and Aswan scenery",
+                    "Relaxing short cruise",
+                    "Hotel transfer available"
+                ],
+                "itinerary": [
+                    {
+                        "time": "Flexible",
+                        "title": "Dock Pickup",
+                        "description": "Meet your captain at the Nile dock in Aswan.",
+                        "icon": "directions_boat"
+                    },
+                    {
+                        "time": "1–2 hrs",
+                        "title": "Felucca Sail",
+                        "description": "Cruise along the Nile with views of islands and desert hills.",
+                        "icon": "sailing"
+                    }
+                ],
+                "inclusions": [
+                    "Felucca ride",
+                    "Captain",
+                    "Soft drinks",
+                    "Hotel transfer (selected hotels)"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Personal expenses",
+                    "Meals"
+                ],
+                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
+                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                "price": {
+                    "amount": 25,
+                    "currency": "USD",
+                    "formatted": "$25",
+                    "per": "person",
+                    "child_amount": 15,
+                    "infant_amount": 0
+                },
+                "is_active": true,
+                "sort_order": 3
+            }
+        },
+        {
+            "type": "tour",
+            "id": "luxor-west-bank",
+            "attributes": {
+                "slug": "luxor-west-bank-tour",
+                "name": "Luxor West Bank Tour",
+                "destination": "luxor",
+                "destination_label": "Luxor, Egypt",
+                "description": "Discover the Valley of the Kings, Hatshepsut Temple, and the Colossi of Memnon on Luxor's West Bank.",
+                "overview": "Discover the Valley of the Kings, Hatshepsut Temple, and the Colossi of Memnon on a full guided tour of Luxor's West Bank.",
+                "image": "/tours/giza-pyramids.jpg",
+                "hero_image": "/tours/hero-detail.png",
+                "gallery": [
+                    "/tours/giza-pyramids.jpg",
+                    "/tours/custom-tours.jpg",
+                    "/tours/hero.png",
+                    "/tours/abu-simbel.jpg"
+                ],
+                "rating": 4.8,
+                "review_count": 1105,
+                "tour_type": "cultural",
+                "tour_type_label": "Cultural Tours",
+                "tour_code": "AG-DT-005",
+                "duration": "7 Hours",
+                "duration_hours": 7,
+                "duration_key": "fullDay",
+                "run": "Every Day",
+                "group_size": "2 - 20 People",
+                "best_seller": false,
+                "pickup_time": "07:30 AM",
+                "languages": "English, Arabic, French, German",
+                "highlights": [
+                    "Valley of the Kings",
+                    "Hatshepsut Temple",
+                    "Colossi of Memnon",
+                    "Expert Egyptologist guide"
+                ],
+                "itinerary": [
+                    {
+                        "time": "07:30 AM",
+                        "title": "Hotel Pickup",
+                        "description": "Pickup from your hotel in Luxor.",
+                        "icon": "home"
+                    },
+                    {
+                        "time": "08:30 AM",
+                        "title": "Valley of the Kings",
+                        "description": "Explore royal tombs carved into the desert cliffs.",
+                        "icon": "account_balance"
+                    },
+                    {
+                        "time": "11:00 AM",
+                        "title": "Hatshepsut Temple",
+                        "description": "Visit the stunning terraced mortuary temple.",
+                        "icon": "museum"
+                    },
+                    {
+                        "time": "01:00 PM",
+                        "title": "Colossi of Memnon",
+                        "description": "Stop at the iconic twin statues before returning.",
+                        "icon": "photo_camera"
+                    }
+                ],
+                "inclusions": [
+                    "Hotel pickup & drop-off",
+                    "Air-conditioned vehicle",
+                    "Professional Egyptologist guide",
+                    "Entrance fees"
+                ],
+                "exclusions": [
+                    "Lunch",
+                    "Tips and gratuities",
+                    "Personal expenses"
+                ],
+                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
+                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                "price": {
+                    "amount": 55,
+                    "currency": "USD",
+                    "formatted": "$55",
+                    "per": "person",
+                    "child_amount": 35,
+                    "infant_amount": 0
+                },
+                "is_active": true,
+                "sort_order": 4
+            }
+        },
+        {
+            "type": "tour",
+            "id": "dendera-abydos",
+            "attributes": {
+                "slug": "dendera-abydos-temples-day-tour",
+                "name": "Dendera & Abydos Temples Day Tour",
+                "destination": "luxor",
+                "destination_label": "Luxor, Egypt",
+                "description": "Visit two of Egypt's best-preserved temple complexes at Dendera and Abydos on a guided day trip from Luxor.",
+                "overview": "Travel from Luxor to visit two of Egypt's best-preserved temple complexes — Dendera and Abydos — with an expert Egyptologist guide.",
+                "image": "/tours/abu-simbel.jpg",
+                "hero_image": "/tours/hero-detail.png",
+                "gallery": [
+                    "/tours/abu-simbel.jpg",
+                    "/tours/giza-pyramids.jpg",
+                    "/tours/hero.png",
+                    "/tours/custom-tours.jpg"
+                ],
+                "rating": 4.7,
+                "review_count": 438,
+                "tour_type": "cultural",
+                "tour_type_label": "Cultural Tours",
+                "tour_code": "AG-DT-006",
+                "duration": "8 Hours",
+                "duration_hours": 8,
+                "duration_key": "fullDay",
+                "run": "Every Day",
+                "group_size": "2 - 15 People",
+                "best_seller": false,
+                "pickup_time": "07:00 AM",
+                "languages": "English, Arabic, French",
+                "highlights": [
+                    "Temple of Hathor at Dendera",
+                    "Temple of Seti I at Abydos",
+                    "Expert Egyptologist guide",
+                    "Lunch included"
+                ],
+                "itinerary": [
+                    {
+                        "time": "07:00 AM",
+                        "title": "Hotel Pickup",
+                        "description": "Depart Luxor by private air-conditioned vehicle.",
+                        "icon": "home"
+                    },
+                    {
+                        "time": "09:00 AM",
+                        "title": "Abydos Temple",
+                        "description": "Explore the Temple of Seti I and its remarkable reliefs.",
+                        "icon": "account_balance"
+                    },
+                    {
+                        "time": "12:30 PM",
+                        "title": "Lunch",
+                        "description": "Enjoy lunch at a local restaurant.",
+                        "icon": "restaurant"
+                    },
+                    {
+                        "time": "02:00 PM",
+                        "title": "Dendera Temple",
+                        "description": "Visit the beautifully preserved Temple of Hathor.",
+                        "icon": "museum"
+                    }
+                ],
+                "inclusions": [
+                    "Hotel pickup & drop-off",
+                    "Air-conditioned vehicle",
+                    "Professional Egyptologist guide",
+                    "Entrance fees",
+                    "Lunch"
+                ],
+                "exclusions": [
+                    "Tips and gratuities",
+                    "Personal expenses",
+                    "Drinks during lunch"
+                ],
+                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
+                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
+                "price": {
+                    "amount": 60,
+                    "currency": "USD",
+                    "formatted": "$60",
+                    "per": "person",
+                    "child_amount": 40,
+                    "infant_amount": 0
+                },
+                "is_active": true,
+                "sort_order": 5
+            }
+        },
+        {
+            "type": "tour",
+            "id": "test",
+            "attributes": {
+                "slug": "test",
+                "name": "test",
+                "destination": "cairo",
+                "destination_label": null,
+                "description": null,
+                "overview": null,
+                "image": "tours/abu-simbel.jpg",
+                "hero_image": null,
+                "gallery": [],
+                "rating": 0,
+                "review_count": 0,
+                "tour_type": "testt",
+                "tour_type_label": "test",
+                "tour_code": null,
+                "duration": "30 Minutes",
+                "duration_hours": 0,
+                "duration_key": "fullDay",
+                "run": "Everyday",
+                "group_size": null,
+                "best_seller": false,
+                "pickup_time": null,
+                "languages": null,
+                "highlights": null,
+                "itinerary": null,
+                "inclusions": null,
+                "exclusions": null,
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "price": {
+                    "amount": 100,
+                    "currency": "USD"
+                },
+                "is_active": true,
+                "sort_order": 6
+            }
+        }
+    ]
+}

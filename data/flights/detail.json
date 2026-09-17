@@ -1,0 +1,28 @@
+{
+    "data":  {
+                 "id":  "emirates-1",
+                 "airline":  "emirates",
+                 "airline_name":  "Emirates",
+                 "airline_logo":  "http://127.0.0.1:8000/storage/flights/pool-sunset.jpg",
+                 "image":  "https://lh3.googleusercontent.com/aida-public/AB6AXuBx7o0YnZa5GooDww7Bjf_w8XcM6N4hJajFJdd_lKEreX_ZyUf47Vf7d6jKQlBJ_Ff9QG29FpeEJFmJVyCEJ1Bl23xX2TF5_InDEGhcWaUN6YoiF21nA5q7nd0K2yYZyDs9VTjSbRLVsW7lRfKQXXvi3vfx5z04WhvzNiS00ZsmdPTtA9kvQ_uKu9Aa20-sQJGSPH3WDwZ8u-CJz7GXgJbhP8_ZMbHkJYAuqwGA4G_8v29Ld7Vmgy55_g",
+                 "image_alt":  "Dubai",
+                 "hero_bg":  "https://lh3.googleusercontent.com/aida-public/AB6AXuDjuSz0W2lir7-h327hrurXwV41txVkpTQ-NUxKxiZukNKAzzUso-LAgOdF_JzevM_NXy4qdhXfuykcUVCj7zN7K4eQ-zR-1vNgIiy_coa_kF77KdJAHbqPdELNcRXsDvw6WTozHbCRA8mGepEg29a0SLAfufu5elBYKHoksCGDNM9Qhz2zVkX6-qoUJaj7Pz9gtDZRjQAMv4jCvv2a9oHCa0jwoNVILaZyxppn00m3qKLMnlzmGyO5bw",
+                 "depart_time":  "02:30",
+                 "arrive_time":  "06:30",
+                 "depart_date":  "Jul 10, 2026",
+                 "arrive_date":  "Jul 10, 2026",
+                 "date_label":  "Wednesday, July 10, 2026",
+                 "duration":  "3h 00m",
+                 "stops":  "direct",
+                 "departure":  "cairo",
+                 "arrival":  "dubai",
+                 "depart_terminal":  "Terminal 3",
+                 "arrive_terminal":  "Terminal 3",
+                 "cabin":  "Economy",
+                 "departure_slot":  "night",
+                 "price":  {
+                               "amount":  380,
+                               "currency":  "USD"
+                           }
+             }
+}

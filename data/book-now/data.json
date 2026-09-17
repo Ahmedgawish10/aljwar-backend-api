@@ -1,0 +1,442 @@
+{
+  "tabs": [
+    {
+      "id": "flights",
+      "icon": "flight",
+      "route": "flights",
+      "button_key": "flights",
+      "sections": [
+        {
+          "columns": "md:grid-cols-3",
+          "fields": [
+            {
+              "type": "text",
+              "name": "from",
+              "icon": "flight_takeoff",
+              "field_key": "from",
+              "placeholder_key": "fromPlaceholder"
+            },
+            {
+              "type": "text",
+              "name": "to",
+              "icon": "flight_land",
+              "field_key": "to",
+              "placeholder_key": "toPlaceholder"
+            },
+            {
+              "type": "select",
+              "name": "trip_type",
+              "icon": "swap_horiz",
+              "field_key": "tripType",
+              "options_group": "trip_type",
+              "default_value": "roundTrip"
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-3",
+          "fields": [
+            {
+              "type": "date",
+              "name": "departure_date",
+              "icon": "calendar_month",
+              "field_key": "departureDate",
+              "date_offset_days": 0
+            },
+            {
+              "type": "date",
+              "name": "return_date",
+              "icon": "calendar_month",
+              "field_key": "returnDate",
+              "date_offset_days": 7
+            },
+            {
+              "type": "select",
+              "name": "passengers",
+              "icon": "person",
+              "field_key": "passengers",
+              "options_group": "adult_counts",
+              "default_value": "1"
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "select",
+              "name": "class",
+              "icon": "airline_seat_recline_extra",
+              "field_key": "class",
+              "options_group": "cabin_class",
+              "default_value": "economy"
+            },
+            {
+              "type": "select",
+              "name": "airline",
+              "icon": "flight",
+              "field_key": "airline",
+              "options_group": "airlines",
+              "default_value": "any"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotels",
+      "icon": "apartment",
+      "route": "",
+      "button_key": "hotels",
+      "disabled": true,
+      "sections": [
+        {
+          "columns": "md:grid-cols-3",
+          "fields": [
+            {
+              "type": "text",
+              "name": "destination",
+              "icon": "location_on",
+              "field_key": "destination",
+              "placeholder_key": "destinationPlaceholder",
+              "column_span": "md:col-span-3"
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "date",
+              "name": "check_in",
+              "icon": "calendar_month",
+              "field_key": "checkIn",
+              "date_offset_days": 0
+            },
+            {
+              "type": "date",
+              "name": "check_out",
+              "icon": "calendar_month",
+              "field_key": "checkOut",
+              "date_offset_days": 3
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "select",
+              "name": "guests",
+              "icon": "person",
+              "field_key": "guests",
+              "options_group": "guest_counts",
+              "default_value": "2"
+            },
+            {
+              "type": "select",
+              "name": "rooms",
+              "icon": "bed",
+              "field_key": "rooms",
+              "options_group": "room_counts",
+              "default_value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tours",
+      "icon": "location_on",
+      "route": "daily-tours",
+      "button_key": "tours",
+      "sections": [
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "text",
+              "name": "destination",
+              "icon": "location_on",
+              "field_key": "destination",
+              "placeholder_key": "destinationPlaceholder"
+            },
+            {
+              "type": "date",
+              "name": "travel_date",
+              "icon": "calendar_month",
+              "field_key": "travelDate",
+              "date_offset_days": 0
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-1",
+          "fields": [
+            {
+              "type": "select",
+              "name": "passengers",
+              "icon": "group",
+              "field_key": "passengers",
+              "options_group": "adult_counts",
+              "default_value": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "transfers",
+      "icon": "airport_shuttle",
+      "route": "airport-transfers",
+      "button_key": "transfers",
+      "sections": [
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "text",
+              "name": "from",
+              "icon": "trip_origin",
+              "field_key": "from",
+              "placeholder_key": "fromPlaceholder"
+            },
+            {
+              "type": "text",
+              "name": "to",
+              "icon": "place",
+              "field_key": "to",
+              "placeholder_key": "toPlaceholder"
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "date",
+              "name": "travel_date",
+              "icon": "calendar_month",
+              "field_key": "travelDate",
+              "date_offset_days": 0
+            },
+            {
+              "type": "select",
+              "name": "passengers",
+              "icon": "person",
+              "field_key": "passengers",
+              "options_group": "adult_counts",
+              "default_value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "visa",
+      "icon": "description",
+      "route": "visa-services",
+      "action": "apply",
+      "button_key": "visa",
+      "sections": [
+        {
+          "columns": "md:grid-cols-2",
+          "fields": [
+            {
+              "type": "select",
+              "name": "nationality",
+              "icon": "flag",
+              "field_key": "nationality",
+              "options_group": "nationalities",
+              "default_value": "egypt"
+            },
+            {
+              "type": "select",
+              "name": "visa_country",
+              "icon": "public",
+              "field_key": "visaCountry",
+              "options_group": "visa_countries",
+              "default_value": "schengen"
+            }
+          ]
+        },
+        {
+          "columns": "md:grid-cols-1",
+          "fields": [
+            {
+              "type": "date",
+              "name": "travel_date",
+              "icon": "calendar_month",
+              "field_key": "travelDate",
+              "date_offset_days": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "option_groups": {
+    "trip_type": [
+      {
+        "value": "roundTrip",
+        "label_key": "roundTrip"
+      },
+      {
+        "value": "oneWay",
+        "label_key": "oneWay"
+      }
+    ],
+    "adult_counts": [
+      {
+        "value": "1",
+        "label_key": "adults1"
+      },
+      {
+        "value": "2",
+        "label_key": "adults2"
+      },
+      {
+        "value": "3",
+        "label_key": "adults3"
+      },
+      {
+        "value": "4",
+        "label_key": "adults4"
+      }
+    ],
+    "cabin_class": [
+      {
+        "value": "economy",
+        "label_key": "economy"
+      },
+      {
+        "value": "business",
+        "label_key": "business"
+      },
+      {
+        "value": "first",
+        "label_key": "first"
+      }
+    ],
+    "airlines": [
+      {
+        "value": "any",
+        "label_key": "anyAirline"
+      },
+      {
+        "value": "emirates",
+        "label_key": "emirates"
+      },
+      {
+        "value": "egyptair",
+        "label_key": "egyptair"
+      },
+      {
+        "value": "qatar",
+        "label_key": "qatar"
+      },
+      {
+        "value": "turkish",
+        "label_key": "turkish"
+      }
+    ],
+    "guest_counts": [
+      {
+        "value": "1",
+        "label_key": "guests1"
+      },
+      {
+        "value": "2",
+        "label_key": "guests2"
+      },
+      {
+        "value": "3",
+        "label_key": "guests3"
+      },
+      {
+        "value": "4",
+        "label_key": "guests4"
+      }
+    ],
+    "room_counts": [
+      {
+        "value": "1",
+        "label_key": "rooms1"
+      },
+      {
+        "value": "2",
+        "label_key": "rooms2"
+      },
+      {
+        "value": "3",
+        "label_key": "rooms3"
+      }
+    ],
+    "nationalities": [
+      {
+        "value": "egypt",
+        "label_key": "egypt"
+      },
+      {
+        "value": "saudi",
+        "label_key": "saudi"
+      },
+      {
+        "value": "uae",
+        "label_key": "uae"
+      },
+      {
+        "value": "usa",
+        "label_key": "usa"
+      },
+      {
+        "value": "uk",
+        "label_key": "uk"
+      },
+      {
+        "value": "other",
+        "label_key": "other"
+      }
+    ],
+    "visa_countries": [
+      {
+        "value": "schengen",
+        "label_key": "schengen"
+      },
+      {
+        "value": "usa",
+        "label_key": "usaVisa"
+      },
+      {
+        "value": "uk",
+        "label_key": "ukVisa"
+      },
+      {
+        "value": "turkey",
+        "label_key": "turkey"
+      },
+      {
+        "value": "uae",
+        "label_key": "uaeVisa"
+      }
+    ]
+  },
+  "why_items": [
+    {
+      "key": "price",
+      "icon": "verified_user"
+    },
+    {
+      "key": "support",
+      "icon": "support_agent"
+    },
+    {
+      "key": "secure",
+      "icon": "lock"
+    },
+    {
+      "key": "flexible",
+      "icon": "event_available"
+    }
+  ]
+}

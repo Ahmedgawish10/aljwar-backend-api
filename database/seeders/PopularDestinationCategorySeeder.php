@@ -1,0 +1,113 @@
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\PopularDestinationCategory;
+use Illuminate\Database\Seeder;
+
+class PopularDestinationCategorySeeder extends Seeder
+{
+    public function run(): void
+    {
+        $categories = [
+            [
+                'slug' => 'egypt',
+                'name' => 'Egypt',
+                'description' => 'Pyramids, the Nile, and the Red Sea.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuAIdPL0phOS1PH3DgJoWJm9aXKM4Mr2r9YtCrrBm540HLHhNlkY61LpElmTjGSiyHsYyhosflHNo1fXO0_UVggW2aIMY48DAiYn04M9nreCtdsJMEpYINvH17Fy2-NVgZsosbtiy3yQALtPZewCOpEqmnvo1EXqePYz55ybv_oWIncAh41pCe3fHvGFuP7rTMl0aCqaKVbGxxMwDEdXWMC6A3s_U37WVY9IuAjDADLF04-shAs3XOIxLg',
+                'price_from' => 280,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'maldives',
+                'name' => 'Maldives',
+                'description' => 'Overwater villas and turquoise lagoons.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuDLtFagWZyXFmd7jG3Cmzkt13HiXCR--7hveyoAbdeNZA2MVyWfZ9CtO36blt8lZQ5HzslVbEmP7khrdqgwowa-dPXL7CVhFb_HYubqrrnIfn20FtLvu9b7GV8s1Aj88DkJL4eqom3j7moanx94U4uqs1sBYldAyTSXMDjTrCdvrViQko8I3pqOiZWQ7gpOo4ta-6Pq8BZVcdSy_prbXFk4m-59LJjU0Y2ykWNNm10exTky0s2whcatKg',
+                'price_from' => 890,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'united-arab-emirates',
+                'name' => 'United Arab Emirates',
+                'description' => 'Luxury, desert, and modern cities.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuDJgD3sdMgIS0npKHW6UTdzLLizHvHRG1vFEZ0hejLFuBjfftqwodUV5V-mNacSUXk8yDq69MIGCs68-zCpiBh82JLEygwGBxe3pB_y8i0-nlr2qfquDvyTzGNexKrO8SID9OMNUqazvgIOqWWQGFQhrknqSOlLhsNzzmW5PwDx2uRU84fqvTkWY1wVZ3KF1OZYXzllTlGMc8Blg1usa4vHDl_0zJztT7ecK2Tb_cPpbPR8j8CA5XfTpg',
+                'price_from' => 620,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'turkey',
+                'name' => 'Turkey',
+                'description' => 'Where Europe meets Asia.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuCwo_x9X-JqtheOujMmEELJsTUTIxnJu7zIFBW6iRDl4CKt1kPCsJDucAu8ov0vnhBw2uhNPC1DR6MKfFUSfIUNM6xOfXhNPRxSFItws1uka31Bo1l1LXXhF4Xcg6m3kqPQFFNsZ0nv-WyzJX8tFEahQkVgN6RZCb6vATEvUM00rb6ouSQvj45CJA_Uax6BHcy_qBwHyXHO_PqLIqz0OQZTvgsKtzOAgj0NFp62fF_nIQVwMTLdCrH_Cw',
+                'price_from' => 450,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'france',
+                'name' => 'France',
+                'description' => 'Art, cuisine, and iconic landmarks.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuCEfi95tYfI8kaqcgdaQBC8uX4euuaEZtejL9oz__aCsVky48LGiU3KW_5UAeaOLdBENmV6dpVKN9rgKCZ8OnIXPPtZpTechSjkApt8ysCrx0XjPI2-vCAwRjUVU28u6-gNu1HGvN5eZgYS0umy1x1RG0pSQtTMGIxYWajeXL-2g_mKSm8BNRzj3tA4DNI-3tSWrvDHNVXsFfpxAj_z4czzID8i6Uv-i-nvzA69lS9yGdpjEqWH95--Ig',
+                'price_from' => 550,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'indonesia',
+                'name' => 'Indonesia',
+                'description' => 'Temples, rice terraces, and surf.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuBamR0Fud6ov37GH4odBEnw-8IiioMhUZeXbenXuqt5iId5gCgjgpnBGd-lBoArdBeMF3MsVczQM6ReMMyVL_Q-4AtfY5qVkAt0i49oJxUgYjtzRMv0AgnpxWCmXYBSGzUHhFxjSSZ_-PyT6E11Z7vECYVap1uxwSNuUNwDbOTtqwY3_X0pvguoofA_cMQxgMRVsGtFWUPwjP6em4NPU0PsQNgEjGePRxB3ERWew97HmEtccBbpiM6rNw',
+                'price_from' => 470,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'united-kingdom',
+                'name' => 'United Kingdom',
+                'description' => 'Royal history and world museums.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuAl9W1zTDjMRPcUyN9F15vBDEfKfDrAFUNcBaTHhLP8CV_-hv29Ilv4nFFyFrL0VkG4FglLhOxPDEkfN0_CnLU1AxpTQ-SsZbJ0LgsWnjMhqngTOMNnt_pmRXurtrQUN4ff0i7A9nkVF5px8nBXRiBLQDo57yjoa3gA23eeZdkdWE2hZeqVpTs7UAiyd5hpx-3ROUzHDPA54LlMVyI_BSp-rhQmaGpcGK07wYyrrMTZio0iKjqNH3Uv3w',
+                'price_from' => 580,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'thailand',
+                'name' => 'Thailand',
+                'description' => 'Temples, street food, and city life.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuDeG2fxhHI7rTbIeDi_zweFabenJXIvbwURJ5a5PXGJEDmLI_NlOmdoGUphxXXsttFv-EOiZI_q4ou0mFptOYjjkSB-aApO5-1Kh7QnHPFBB83-3-KOXzAyDvKfhR1UBUCxQUthB9mZJowgLlVHJRmDoKZJ07TYgsrXDX5Yk9li8m-mH1hVCWTH5LkhK9kB86hY5w55dZ4PrdoyZsrIpuBSGSuZNliy3iGWuMB2ou-Y6tRc0hGxcEzxMQ',
+                'price_from' => 390,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'italy',
+                'name' => 'Italy',
+                'description' => 'Ancient ruins and Italian lifestyle.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuCHzqDQWWJilvGx_4sbjxk_DsrMiEcEDFlxC2x4AhX6-qyZnRm6uVf1jA2JgwCIVqK-X4akrFcXlDXjYpBMxYbrJ4ik0D3DRw4ulLKJloyDsTWBPT5bYQn7GvmjZePIKgDZovtkL8pZpvPCERlSCLL2IJbLHpPLWTmEI3TQrCdWSAPSCLNidnbyho5NcpGkssegtyCe7jvWak0Nt6qHDWk3Q43kxbvB8YAwzVE1BfH7ADFvZeaFeZEA2Q',
+                'price_from' => 520,
+                'currency' => 'USD',
+            ],
+            [
+                'slug' => 'greece',
+                'name' => 'Greece',
+                'description' => 'Islands, sunsets, and the sea.',
+                'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuAieOGZkcuBYkGWEmJ3QwGHIzUiRGBYZp8GmELhCk2gIMMfeAG8pbOVDT6za6zewVYld7S_Sd4zuI804GvFoVjVDl8401EHaPGHYQTFw4GFldLop6aglZSfDpq05xikfk9CK-2nmvkfXjtobQ5SQG717k7aP8qusxIL0HIlPQo6ZW2JdIjdn2CdKJ0z6W8tSfK79xfucNuVJYyZH4SePUfrjH4c7S7MhGliXxoyXSyhsv5fOfZRvsovbQ',
+                'price_from' => 610,
+                'currency' => 'USD',
+            ],
+        ];
+
+        $slugs = [];
+
+        foreach ($categories as $index => $item) {
+            $slugs[] = $item['slug'];
+
+            PopularDestinationCategory::updateOrCreate(
+                ['slug' => $item['slug']],
+                array_merge($item, [
+                    'is_active' => true,
+                    'sort_order' => $index,
+                ])
+            );
+        }
+
+        PopularDestinationCategory::query()
+            ->whereNotIn('slug', $slugs)
+            ->delete();
+    }
+}

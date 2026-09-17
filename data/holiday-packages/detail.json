@@ -1,0 +1,84 @@
+{
+    "data": {
+        "slug": "dubai-escape",
+        "name": "Dubai Escape",
+        "location": "Dubai, UAE",
+        "destination": "dubai",
+        "duration": "6 Days / 5 Nights",
+        "days": 6,
+        "nights": 5,
+        "rating": 4.8,
+        "reviews": 256,
+        "tour_type": "Group Tour",
+        "group_size": "2 - 20 People",
+        "badge": "bestSeller",
+        "categories": [
+            "city",
+            "luxury"
+        ],
+        "features": [
+            "flightHotel",
+            "dailyBreakfast",
+            "cityTour"
+        ],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuChUQwP-PxZarMRcFIda1HpocxjgiWAvUNUUoXp9MydETgpTEZIKBK7LyaOJRSjcSDfkPA8Vdu-Fikt4ZM6QlTEB0puRt9OK4BSYSYcavdouimxvhJ2ITu9kBI-cwdY5Pmfn7vqXsVIQOgcdLzDnOM_R0VrIK851gWHAOF4pAVJZc0_gLJIDrjHZ8x0S5P5KMyuOPgpdtIzEE2cqebIIMCEunPUK4z3vOatwd7gcML67pJ1LPFSa1o9Qg",
+        "gallery": [
+            "https://lh3.googleusercontent.com/aida-public/AB6AXuBmikkEzS9dejDx6rmUhhNB3OBMaXNJnJ7pTUlqvNDmVJLoT_OaEr3ZUEAk2xP8elKM2l2blhvYMPiK9py5XHMtdRAdQZMOsV5-bDMHxgACSIxe42ULowbGzkhILbBiDkDY3aWOS1VB68SWAwdCAhPJoBmo3nF_oVLHPV3BH4Jzh1zH4wpOjjBihbrb0PN0lENYpR_NSi3vXwRJqZGwsQK6AZshNvcRnxjOw7f4W2FMth0-l8ZDk_UX0g",
+            "https://lh3.googleusercontent.com/aida-public/AB6AXuDvqxCOAY3a_-SIk_AQ-xZ2E3nh8uWL6uAoucwzBmmWxqkh3jvJ9TmBcbBgfRg_qa-IvyeppTeoc-gm0toS_phkt9m7BBLvRHbJKf6xUibaVYBBKtm5mIqjSwndCV2HzA4nsRBCCSLkKcdWoxYq7pTXt-yQz6bJ_3ZK61qttYqmT6YCDZJPqyf-G5_L2KgJNsPRV3tYAnxs5v54B_y_tKPQcksTM3KkuR7Qk5Hty66OMukEkgIkNS3ndg",
+            "https://lh3.googleusercontent.com/aida-public/AB6AXuCsCYAMXgjZT9NS8kOG8etHKPCn66odWP81CPOaeiJrmPi3eX9JQDV12o4GDTtCSw-lrwtjRnMQaQJVeeMMwHoXeRDs-iYW_CYHgx3nPDlpvin7nXZ5QDuSpWahMLJ106ckeGGKO1_zxpkPcG416nk4S1ewo45xxCV9vobFI2KOzmIoz7JMFfGzFgG183JPN52kpm90098UxDWRkxharGIITNsSpmhyejkfdA9qDv9HryffP_gvMN4npg",
+            "https://lh3.googleusercontent.com/aida-public/AB6AXuAFC4-fp7Cyb6eETekBqBte8VY37DUX_krUTQx16pksYmrf3yETaPL_kFMd2KsfOP8m72tClCIGUihNLm3MiYZHFMeahVY-dZkd2A9jTpYPuZVOwobkPekV8Ibm2-ZotMqwFqtIrLOT4CDE0VhBEDJC9IPPmsyhJv6PrmRDok4-DRjZrIZVnBXcw8TAd8OXqHWAXqgVnZBy7_IbP5SyZ0sdSsh6T8QYx8_QCT7IlqUuAAytUwuya8A7sg"
+        ],
+        "overview": "Experience the perfect blend of modern luxury and Arabian culture with our Dubai Escape package. From breathtaking skyscrapers to desert adventures, this package has it all!",
+        "inclusions_bar": [
+            {
+                "label_key": "flightIncluded"
+            },
+            {
+                "label_key": "hotelNights",
+                "nights": 5
+            },
+            {
+                "label_key": "dailyBreakfast"
+            },
+            {
+                "label_key": "airportTransfers"
+            }
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival in Dubai",
+                "text": "Airport pickup and transfer to hotel. Dhow Cruise Dinner at Dubai Marina."
+            },
+            {
+                "day": 2,
+                "title": "Dubai City Tour",
+                "text": "Visit Burj Khalifa, Dubai Mall, Museum of the Future & Dubai Frame."
+            },
+            {
+                "day": 3,
+                "title": "Desert Safari",
+                "text": "Morning free time. Evening Desert Safari with BBQ dinner & shows."
+            },
+            {
+                "day": 4,
+                "title": "Palm Jumeirah & Atlantis",
+                "text": "Visit Palm Jumeirah, Atlantis The Palm & enjoy Aquaventure Waterpark."
+            },
+            {
+                "day": 5,
+                "title": "Shopping Day",
+                "text": "Free day for shopping at Dubai Mall & local markets."
+            },
+            {
+                "day": 6,
+                "title": "Departure",
+                "text": "Hotel checkout and transfer to airport for your flight back home."
+            }
+        ],
+        "price": {
+            "amount": 899,
+            "currency": "USD"
+        }
+    }
+}

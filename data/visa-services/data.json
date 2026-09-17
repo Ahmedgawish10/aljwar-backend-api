@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "type": "visa",
+            "id": "turkey",
+            "attributes": {
+                "image": "visas/hero.jpg",
+                "flag": "/visa/turkey-flag.jpg",
+                "price": 0,
+                "price_formatted": "$0",
+                "is_active": true,
+                "sort_order": 0
+            }
+        },
+        {
+            "type": "visa",
+            "id": "uae",
+            "attributes": {
+                "image": "/visa/uae.jpg",
+                "flag": "/visa/uae-flag.jpg",
+                "price": 90,
+                "price_formatted": "$90",
+                "is_active": true,
+                "sort_order": 1
+            }
+        },
+        {
+            "type": "visa",
+            "id": "saudi",
+            "attributes": {
+                "image": "/visa/saudi.jpg",
+                "flag": "/visa/saudi-flag.jpg",
+                "price": 80,
+                "price_formatted": "$80",
+                "is_active": true,
+                "sort_order": 2
+            }
+        },
+        {
+            "type": "visa",
+            "id": "usa",
+            "attributes": {
+                "image": "/visa/usa.jpg",
+                "flag": "/visa/usa-flag.jpg",
+                "price": 160,
+                "price_formatted": "$160",
+                "is_active": true,
+                "sort_order": 3
+            }
+        },
+        {
+            "type": "visa",
+            "id": "uk",
+            "attributes": {
+                "image": "/visa/uk.jpg",
+                "flag": "/visa/uk-flag.jpg",
+                "price": 150,
+                "price_formatted": "$150",
+                "is_active": true,
+                "sort_order": 4
+            }
+        },
+        {
+            "type": "visa",
+            "id": "schengen",
+            "attributes": {
+                "image": "/visa/schengen.jpg",
+                "flag": "/visa/schengen-flag.avif",
+                "price": 110,
+                "price_formatted": "$110",
+                "is_active": true,
+                "sort_order": 5
+            }
+        }
+    ]
+}

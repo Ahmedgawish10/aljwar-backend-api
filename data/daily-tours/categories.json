@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "slug": "cultural",
+            "name": "Cultural Tours",
+            "description": "Explore history, ancient sites and local heritage.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBiOq8FBPa-Zq_3bGq5fwjCk6LJ8-tG4H2ACCwS1l6ZJZYYycvJgglTacQsDwyI2UsG77Z3MaW3I2QiUO1xVlx9cHPx3PcylV4BxjWV7gYbTK-EuRGMCfivCiPb9ThlQb9y3NfFAD1fXwzYfRJN0cvlGGxzlLQ7gbi5uUbf9pBArEzrUbXHaEA2uF-m-wbLRYIvcCJSgT6VEh6_doSgbmHTwiWql2J2QyIKTJ7lEdYnaNu05a0GGhxz",
+            "icon": "fa-solid fa-building-columns",
+            "is_active": true,
+            "sort_order": 0
+        },
+        {
+            "slug": "adventure",
+            "name": "Adventure Tours",
+            "description": "Thrilling adventures and outdoor experiences.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrtsOkSH_5U9qEWVlUwyFDbrvRRDTzYOQxojvSOPZy-Qcb05r2gDPUlK-pQUjwOqmE-IDhQ12FzJv-sBCuZUBzjuRfwKg_NwefOBgkTsE6B2UkN__2lVPZ924_wkmOv8Rzbqhay_MRs8NAHgMTQMImEp8T-v4pHy5UiPMi7eqdyK4P794YYnHbpJk2nMFuBwbKVbjhSbAyrwuK1yP9DsUOwNgJwAQsVW_Pz6vsAZVCWcHHnZtCsyaF",
+            "icon": "fa-solid fa-mountain-sun",
+            "is_active": true,
+            "sort_order": 1
+        },
+        {
+            "slug": "cruise",
+            "name": "Cruise & Sailing",
+            "description": "Enjoy relaxing cruises and sailing trips.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCGHugeHVU-nJNE812UuXnN7GVM_ECYx9L54FB3Zex5OXyukFf7MM0ieqAfeu-3MDA_pNtDRmsN0nIaDWDmXvJx_OEqGTZGUOF4DHoXFoaVOU5dA6Cq32TZuPSoZlh_9aGcofEGed24bzrynIQ9SceiqxRUuZ6Y71Bv0FEV-DhgZ_oHIO9SmevMMRwYqsFDBk3mM7MI2-Daip_o8W_N6jAJjjylb0j8ei7MBRA6E-Hi2tuOrrVuyG18",
+            "icon": "fa-solid fa-sailboat",
+            "is_active": true,
+            "sort_order": 2
+        },
+        {
+            "slug": "family",
+            "name": "Family Friendly",
+            "description": "Fun and safe tours for the whole family.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCqmxHRTdH10MtZiDehxc4nlXQvk9dEYgm-H0oSSIaEj_YvHS_-tSWTjYXNvmgYzlWRc03kbFzNne-Kk0rRaiVp0-6XsdJ2HuqcXkbUysUVdZ4ni77g24ZihiEKDlLcUV4HZrNiqpe11V5Ehol2qUCdNn7kCddrFM1OJUXXmtNlwx6AVXjOrA83oiTO6yWIDkzerQ-DOyMjCv-_LRkBv3njv5E2GwkH439hcSRb_2BJXQCim87mgpDG",
+            "icon": "fa-solid fa-people-group",
+            "is_active": true,
+            "sort_order": 3
+        },
+        {
+            "slug": "religious",
+            "name": "Religious Tours",
+            "description": "Spiritual journeys and religious landmarks.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCZJq5NdI4QjBaCvJyzhtqdJ818qA_yEOKjpKooAM-SCTNVU-2v3Lt6p1u12qdZXNktgCxPaujkV9oBZuuAosAwHejSK2ndMONhEsS0pwfRnCgnivdGWs6oSpbaAcZUx6fqoNirExMqUiqbFjExs209A-Elch8ag9XUvo4UFQzCQTtwtV0JXYv_-E3sfcQ6DdERgCXSwAceC_ZgK3B249NcN1_pVf9yixJ9m1_dHlsOI28FQEa6LA8j",
+            "icon": "fa-solid fa-moon",
+            "is_active": true,
+            "sort_order": 4
+        },
+        {
+            "slug": "desert",
+            "name": "Desert Safaris",
+            "description": "Discover the magic of the desert and Bedouin life.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDmQQPJuF2vLYzXhIvTSq6IFgfUwfh66MljOhDogL40I4m6C7rSAVglj9UK9hcIg6nV8DSZsMiE980M8ASRqbvgkDk2IbkjXtWlxynRq88YSlEv8k_p-c3_wCl9Ca9bi0K_1lrpojUAT9tOEGSk0N8Z25clRC2P1zu0MyZ-Qbow8eOF7Z-FJtViTUQQH5Vjdqd0mR-ZFNxW2aXXFTJRNHUIY0b1eA0KxyQekl7FO_Cswcxlc-1KCpoX",
+            "icon": "fa-brands fa-pagelines",
+            "is_active": true,
+            "sort_order": 5
+        },
+        {
+            "slug": "water",
+            "name": "Water Activities",
+            "description": "Snorkeling, diving and other water adventures.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCQSLF64kacy0K0qlyvGdiraENgkWWY257HKabJblJUXSz8S7osHA5rBedG5AvKrYMu4JSDugFACtF0VpPnSWbFmKOhAGKk2QoX3a0-cRTCWHDG8c3NnrhXQqJAkbcGVsyz9d--FcfysUYSRjusV1vb6qXZOYZnrQrRmEUPBq_j3jGPVweLr8byBtvwy8sKH8IcC2Tsi-0BP9TZHnsJE2kIyLAeB31WdEe0_EPERvstOpd96Gb0X3Bh",
+            "icon": "fa-solid fa-water",
+            "is_active": true,
+            "sort_order": 6
+        },
+        {
+            "slug": "city",
+            "name": "City Breaks",
+            "description": "Short trips to the best cities and attractions.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAC7Ywvgt3_CF2HLAV-D-2PAepxYlfJW4slqhoTrFRX8ZqT3BrxuV-SL6BiRnDZFttY-I-n3zuzaLxYOd0XmZJWTbQGxryjJ082KepmQFoyT-fU6kYfZH9EKx5hVTW31mmxl-XQS3lnweTyDgf1LCxq4AbZ6sNi_I-_KnuAe6ci3wMB80A9wW1NmmqYbezvuTvkxsvUeYmbg5t6rfzSB6Xp6KaVkPXIAXmLEs3VxL4uPBoNzv5HapU",
+            "icon": "fa-solid fa-city",
+            "is_active": true,
+            "sort_order": 7
+        },
+        {
+            "slug": "luxury",
+            "name": "Luxury Experiences",
+            "description": "Premium experiences and luxury services.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBeBcOabrqfbfr3mj2thSSkHYuS44kHiK-sxKBqpwbuTGXkErgabHhaPMQ6i_AEehXpqkZ3m5woxo9RgUKmdAA4CQ0tv39ZWSS7VAjhbHJX1vj4HOgaXiXgpze_bTk_V4itqBaheBQ8nH6LQaIyGjzKoufK0zdtt4gjTnuYmNY2lpjQRUvWXV8M-hGcs7f1cVH7QP75eGgjK4Yy5pi4FEPocLcXWjOcsoNquJZs4vNjZt3aMTQnCd6w",
+            "icon": "fa-regular fa-gem",
+            "is_active": true,
+            "sort_order": 8
+        },
+        {
+            "slug": "eco",
+            "name": "Eco & Nature",
+            "description": "Connect with nature and explore the outdoors.",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNvGnAAT4oOvjSk7fQq2Re9IA5mfpA6bvfhdKhIkmWNiMbavD0ije7OA7u0jkmrN7eJZix9VHNRqnuewlanLDnLYx7vvBQb4-Jn8g7SXfTcvPbBzCZS68O_TXpAsB7JbJbHLYUK6B_VGa8MTmvcNCpR-xsXjSBzEmyDPKoM3q5gPsGEC_tCl9byRJlD90Qpk4wZ4HIA_5EgpkX6L3tRZVBKErlrfIZMQKzz71eU_lrvurIHZW-lq13",
+            "icon": "fa-solid fa-leaf",
+            "is_active": true,
+            "sort_order": 9
+        },
+        {
+            "slug": "testt",
+            "name": "test",
+            "description": "test",
+            "image": "tour-categories/tourcat_6a934521a3a1a0.40391524.jpg",
+            "icon": null,
+            "is_active": true,
+            "sort_order": 10
+        }
+    ]
+}

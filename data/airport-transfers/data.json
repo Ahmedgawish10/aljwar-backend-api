@@ -1,0 +1,659 @@
+{
+    "data": [
+        {
+            "type": "transfer",
+            "id": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab",
+            "attributes": {
+                "slug": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab",
+                "name": "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbab",
+                "destination": "hurghada",
+                "destination_label": "hurghada",
+                "duration_minutes": 44,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 20,
+                    "currency": "USD",
+                    "formatted": "$ 20"
+                },
+                "main_image": "transfers/book2.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [],
+                "description": null,
+                "inclusions": [],
+                "exclusions": [],
+                "meeting_point": null,
+                "things_to_remember": [
+                    "ret"
+                ],
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "is_active": true,
+                "sort_order": 0,
+                "image": "transfers/book2.png",
+                "duration": "44 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbabe",
+            "attributes": {
+                "slug": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbabe",
+                "name": "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbabe",
+                "destination": "hurghada",
+                "destination_label": "hurghada",
+                "duration_minutes": 82,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 1,
+                    "currency": "USD",
+                    "formatted": "$ 1"
+                },
+                "main_image": "transfers/apply-hero.jpg",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [],
+                "description": null,
+                "inclusions": [],
+                "exclusions": [],
+                "meeting_point": null,
+                "things_to_remember": [],
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "is_active": true,
+                "sort_order": 1,
+                "image": "transfers/apply-hero.jpg",
+                "duration": "82 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab2",
+            "attributes": {
+                "slug": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu-dabbab2",
+                "name": "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbab2",
+                "destination": "hurghada",
+                "destination_label": "hurghada",
+                "duration_minutes": 125,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 6,
+                    "currency": "USD",
+                    "formatted": "$ 6"
+                },
+                "main_image": "transfers/hero-bg.jpg",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "transfers/saudi-flag.jpg",
+                    "transfers/turkey-flag.jpg",
+                    "transfers/uae-flag.jpg"
+                ],
+                "description": "gooood",
+                "inclusions": [
+                    "yessss"
+                ],
+                "exclusions": [
+                    "nooooo"
+                ],
+                "meeting_point": "okkkk",
+                "things_to_remember": [
+                    "hi"
+                ],
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "is_active": true,
+                "sort_order": 2,
+                "image": "transfers/hero-bg.jpg",
+                "duration": "125 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu9-dabbab",
+            "attributes": {
+                "slug": "private-transfer-from-or-to-marsa-alam-airport-within-akassia-solymar-or-abu9-dabbab",
+                "name": "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu9 Dabbab",
+                "destination": "hurghada",
+                "destination_label": "hurghada",
+                "duration_minutes": 50,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 3,
+                    "currency": "USD",
+                    "formatted": "$ 3"
+                },
+                "main_image": "transfers/6a81b4dc8a534.jpg",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [],
+                "description": "96",
+                "inclusions": [
+                    "4",
+                    "5555555555555555555555555558",
+                    "8"
+                ],
+                "exclusions": [],
+                "meeting_point": "df",
+                "things_to_remember": [
+                    "rtteter"
+                ],
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "is_active": true,
+                "sort_order": 3,
+                "image": "transfers/6a81b4dc8a534.jpg",
+                "duration": "50 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "fast-track-hurghada",
+            "attributes": {
+                "slug": "fast-track-clearance-hurghada-airport",
+                "name": "Fast track clearance with assistance at Hurghada Airport",
+                "destination": "hurghada",
+                "destination_label": "Hurghada",
+                "duration_minutes": 30,
+                "experience": "fastTrack",
+                "price": {
+                    "amount": 60,
+                    "currency": "USD",
+                    "formatted": "$ 60"
+                },
+                "main_image": "/transfers/card-greeter.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-greeter.png",
+                    "/transfers/card-greeter-suit.png",
+                    "/transfers/card-luggage.png",
+                    "/transfers/card-sedan.png"
+                ],
+                "description": "Get fast-track clearance through the arrival or departure hall and you'll be guaranteed a quick and hassle-free process through Hurghada Airport. A perfect choice for first-time travelers or families.\n\nAs soon as your plane lands, you'll be met by one of our courteous agents holding a welcome sign including your name in the arrival hall.\n\nOn your way back, you'll meet one of our courteous agents holding a welcome sign, including your name at the departure terminal gate with a porter assistant.",
+                "inclusions": [
+                    "Instant confirmation",
+                    "Assistance with visa if required (visa fee excluded)",
+                    "Stamp your passport with passport control.",
+                    "Escort you to the gate of the arrival hall to meet your representative to get your transfer."
+                ],
+                "exclusions": [
+                    "Visa Fees",
+                    "Hotel pick up or drop off."
+                ],
+                "meeting_point": "Hurghada International Airport arrival or departure hall.",
+                "things_to_remember": [
+                    "Your passport must be valid for a minimum of 6 months upon arrival, including children and infants.",
+                    "Please confirm your travel date and flight details with our team including flight number, flight arrival time to Hurghada Airport, and take-off time on departure from Hurghada with the destination name.",
+                    "If your nationality is German, French, Belgian, Portuguese, or Italian you can enter the country with your personal ID and a recent photo.",
+                    "Rate is per passenger (adult, child or infant).",
+                    "Rate is per arrival or departure service."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 6,
+                "image": "/transfers/card-greeter.png",
+                "duration": "30 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "pass",
+            "attributes": {
+                "slug": "pass",
+                "name": "pass",
+                "destination": "hurghada",
+                "destination_label": "",
+                "duration_minutes": 0,
+                "experience": "fastTrack",
+                "price": {
+                    "amount": 50,
+                    "currency": "USD",
+                    "formatted": "$ 50"
+                },
+                "main_image": "transfers/6a819be5ca41a.jpg",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [],
+                "description": "[]",
+                "inclusions": [],
+                "exclusions": [],
+                "meeting_point": null,
+                "things_to_remember": [],
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "is_active": true,
+                "sort_order": 6,
+                "image": "transfers/6a819be5ca41a.jpg",
+                "duration": "0 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "fast-track-sharm",
+            "attributes": {
+                "slug": "fast-track-clearance-sharm-el-sheikh-airport",
+                "name": "Fast track clearance with assistance at Sharm El Sheikh Airport",
+                "destination": "sharm",
+                "destination_label": "Sharm El Sheikh",
+                "duration_minutes": 30,
+                "experience": "fastTrack",
+                "price": {
+                    "amount": 60,
+                    "currency": "USD",
+                    "formatted": "$ 60"
+                },
+                "main_image": "/transfers/card-greeter-suit.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-greeter-suit.png",
+                    "/transfers/card-luggage.png",
+                    "/transfers/card-sedan.png",
+                    "/transfers/card-car.png"
+                ],
+                "description": "Skip the queues with fast-track clearance through the arrival or departure hall at Sharm El Sheikh International Airport.\n\nA professional agent meets you with a welcome sign and escorts you through passport control for a smooth, private experience.\n\nAvailable for both arrivals and departures — ideal for families and first-time visitors.",
+                "inclusions": [
+                    "Instant confirmation",
+                    "Assistance with visa if required (visa fee excluded)",
+                    "Passport control assistance",
+                    "Escort to the arrival hall gate to meet your transfer representative"
+                ],
+                "exclusions": [
+                    "Visa Fees",
+                    "Hotel pick up or drop off."
+                ],
+                "meeting_point": "Sharm El Sheikh International Airport arrival or departure hall.",
+                "things_to_remember": [
+                    "Your passport must be valid for a minimum of 6 months upon arrival, including children and infants.",
+                    "Please confirm your travel date and flight details with our team.",
+                    "Rate is per passenger (adult, child or infant).",
+                    "Rate is per arrival or departure service."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 7,
+                "image": "/transfers/card-greeter-suit.png",
+                "duration": "30 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "fast-track-marsa-alam",
+            "attributes": {
+                "slug": "fast-track-clearance-marsa-alam-airport",
+                "name": "Fast track clearance with assistance at Marsa Alam Airport",
+                "destination": "marsaAlam",
+                "destination_label": "Marsa Alam",
+                "duration_minutes": 30,
+                "experience": "fastTrack",
+                "price": {
+                    "amount": 60,
+                    "currency": "USD",
+                    "formatted": "$ 60"
+                },
+                "main_image": "/transfers/card-luggage.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-luggage.png",
+                    "/transfers/card-sedan.png",
+                    "/transfers/card-car.png",
+                    "/transfers/card-premium.png"
+                ],
+                "description": "Enjoy hassle-free fast-track clearance at Marsa Alam Airport with dedicated assistance on arrival or departure.\n\nYour agent greets you with a personalized welcome sign and guides you through the terminal process.\n\nA perfect choice for families and travelers seeking a quicker, smoother airport experience.",
+                "inclusions": [
+                    "Instant confirmation",
+                    "Assistance with visa if required (visa fee excluded)",
+                    "Passport control assistance",
+                    "Escort to the arrival hall gate"
+                ],
+                "exclusions": [
+                    "Visa Fees",
+                    "Hotel pick up or drop off."
+                ],
+                "meeting_point": "Marsa Alam International Airport arrival or departure hall.",
+                "things_to_remember": [
+                    "Your passport must be valid for a minimum of 6 months upon arrival, including children and infants.",
+                    "Please confirm your travel date and flight details with our team.",
+                    "Rate is per passenger (adult, child or infant).",
+                    "Rate is per arrival or departure service."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 8,
+                "image": "/transfers/card-luggage.png",
+                "duration": "30 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-marsa-alam-coraya",
+            "attributes": {
+                "slug": "private-transfer-marsa-alam-coraya-port-ghalib",
+                "name": "Private transfer from or to Marsa Alam Airport within Coraya Bay or Port Ghalib",
+                "destination": "marsaAlam",
+                "destination_label": "Marsa Alam",
+                "duration_minutes": 30,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 60,
+                    "currency": "USD",
+                    "formatted": "$ 60"
+                },
+                "main_image": "/transfers/card-sedan.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-sedan.png",
+                    "/transfers/card-car.png",
+                    "/transfers/card-premium.png",
+                    "/transfers/card-executive.png"
+                ],
+                "description": "Travel in comfort with a private vehicle between Marsa Alam Airport and hotels in Coraya Bay or Port Ghalib.\n\nA professional driver meets you on arrival and ensures a smooth, direct transfer to your accommodation.\n\nAvailable for both airport arrivals and departures.",
+                "inclusions": [
+                    "Private air-conditioned vehicle",
+                    "Meet and greet at the airport",
+                    "Professional driver",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Visa Fees"
+                ],
+                "meeting_point": "Marsa Alam International Airport arrivals hall.",
+                "things_to_remember": [
+                    "Please provide your flight number and arrival time when booking.",
+                    "Rate is per vehicle, not per person, unless otherwise stated.",
+                    "Waiting time may apply for delayed flights."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 9,
+                "image": "/transfers/card-sedan.png",
+                "duration": "30 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-luxor",
+            "attributes": {
+                "slug": "private-transfer-luxor-airport-hotels-nile-cruises",
+                "name": "Private transfer from or to Luxor Airport within Luxor hotels and Nile Cruises",
+                "destination": "luxor",
+                "destination_label": "Luxor",
+                "duration_minutes": 30,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 76,
+                    "currency": "USD",
+                    "formatted": "$ 76"
+                },
+                "main_image": "/transfers/card-car.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-car.png",
+                    "/transfers/card-premium.png",
+                    "/transfers/card-executive.png",
+                    "/transfers/card-van.png"
+                ],
+                "description": "Private transfer between Luxor Airport and Luxor hotels or Nile cruise docks.\n\nYour driver meets you with a name sign and takes you directly to your hotel or cruise embarkation point.\n\nComfortable, air-conditioned vehicles for a stress-free start or end to your Luxor stay.",
+                "inclusions": [
+                    "Private air-conditioned vehicle",
+                    "Meet and greet at the airport",
+                    "Professional driver",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Visa Fees"
+                ],
+                "meeting_point": "Luxor International Airport arrivals hall.",
+                "things_to_remember": [
+                    "Please provide your flight number and arrival time when booking.",
+                    "For Nile cruises, share your boat name and dock location.",
+                    "Waiting time may apply for delayed flights."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 10,
+                "image": "/transfers/card-car.png",
+                "duration": "30 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-hurghada-el-gouna",
+            "attributes": {
+                "slug": "private-transfer-hurghada-el-gouna-makadi",
+                "name": "Private transfer from or to Hurghada Airport within Hurghada, El Gouna, Makadi Bay",
+                "destination": "hurghada",
+                "destination_label": "Hurghada",
+                "duration_minutes": 120,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 86,
+                    "currency": "USD",
+                    "formatted": "$ 86"
+                },
+                "main_image": "/transfers/card-premium.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-premium.png",
+                    "/transfers/card-executive.png",
+                    "/transfers/card-van.png",
+                    "/transfers/card-father-son.png"
+                ],
+                "description": "Private airport transfer covering Hurghada city, El Gouna, and Makadi Bay hotels.\n\nA dedicated driver meets you on arrival and drives you comfortably to your resort.\n\nIdeal for travelers who want a direct, private door-to-door service.",
+                "inclusions": [
+                    "Private air-conditioned vehicle",
+                    "Meet and greet at the airport",
+                    "Professional driver",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Visa Fees"
+                ],
+                "meeting_point": "Hurghada International Airport arrivals hall.",
+                "things_to_remember": [
+                    "Please provide your flight number and hotel name when booking.",
+                    "Travel time varies by destination within Hurghada, El Gouna, or Makadi Bay.",
+                    "Waiting time may apply for delayed flights."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 11,
+                "image": "/transfers/card-premium.png",
+                "duration": "120 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-sharm-hotels",
+            "attributes": {
+                "slug": "private-transfer-sharm-el-sheikh-hotels",
+                "name": "Private transfer from or to Sharm El Sheikh Airport within Sharm El Sheikh hotels",
+                "destination": "sharm",
+                "destination_label": "Sharm El Sheikh",
+                "duration_minutes": 120,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 92,
+                    "currency": "USD",
+                    "formatted": "$ 92"
+                },
+                "main_image": "/transfers/card-executive.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-executive.png",
+                    "/transfers/card-van.png",
+                    "/transfers/card-father-son.png",
+                    "/transfers/card-greeter.png"
+                ],
+                "description": "Private transfer between Sharm El Sheikh Airport and hotels across Sharm El Sheikh.\n\nSkip shared shuttles — travel directly with a professional driver in a private vehicle.\n\nAvailable round the clock for arrivals and departures.",
+                "inclusions": [
+                    "Private air-conditioned vehicle",
+                    "Meet and greet at the airport",
+                    "Professional driver",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Visa Fees"
+                ],
+                "meeting_point": "Sharm El Sheikh International Airport arrivals hall.",
+                "things_to_remember": [
+                    "Please provide your flight number and hotel name when booking.",
+                    "Travel time depends on your hotel location within Sharm El Sheikh.",
+                    "Waiting time may apply for delayed flights."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 12,
+                "image": "/transfers/card-executive.png",
+                "duration": "120 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-marsa-alam-akassia",
+            "attributes": {
+                "slug": "private-transfer-marsa-alam-akassia-abu-dabbab",
+                "name": "Private transfer from or to Marsa Alam Airport within Akassia, Solymar or Abu Dabbab",
+                "destination": "marsaAlam",
+                "destination_label": "Marsa Alam",
+                "duration_minutes": 120,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 103,
+                    "currency": "USD",
+                    "formatted": "$ 103"
+                },
+                "main_image": "/transfers/card-van.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-van.png",
+                    "/transfers/card-father-son.png",
+                    "/transfers/card-greeter.png",
+                    "/transfers/card-greeter-suit.png"
+                ],
+                "description": "Private transfer from Marsa Alam Airport to resorts in Akassia, Solymar, or Abu Dabbab areas.\n\nRelax after your flight with a direct, comfortable ride to your Red Sea hotel.\n\nProfessional drivers and well-maintained vehicles for a premium transfer experience.",
+                "inclusions": [
+                    "Private air-conditioned vehicle",
+                    "Meet and greet at the airport",
+                    "Professional driver",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Visa Fees"
+                ],
+                "meeting_point": "Marsa Alam International Airport arrivals hall.",
+                "things_to_remember": [
+                    "Please provide your flight number and hotel name when booking.",
+                    "Travel time varies by resort location south of Marsa Alam.",
+                    "Waiting time may apply for delayed flights."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 13,
+                "image": "/transfers/card-van.png",
+                "duration": "120 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "private-cairo",
+            "attributes": {
+                "slug": "private-transfer-cairo-airport-meet-assist",
+                "name": "Private transfer with meet and assistance from or to Cairo Airport within Cairo",
+                "destination": "cairo",
+                "destination_label": "Cairo",
+                "duration_minutes": 120,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 108,
+                    "currency": "USD",
+                    "formatted": "$ 108"
+                },
+                "main_image": "/transfers/card-father-son.png",
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [
+                    "/transfers/card-father-son.png",
+                    "/transfers/card-greeter.png",
+                    "/transfers/card-greeter-suit.png",
+                    "/transfers/card-luggage.png"
+                ],
+                "description": "Private meet-and-assist transfer between Cairo International Airport and hotels within Cairo.\n\nAn agent greets you airside or at arrivals, helps with formalities, and escorts you to your private vehicle.\n\nThe ideal way to start or end your trip to Egypt’s capital with confidence.",
+                "inclusions": [
+                    "Meet and assistance at Cairo Airport",
+                    "Private air-conditioned vehicle",
+                    "Professional driver",
+                    "Bottled water"
+                ],
+                "exclusions": [
+                    "Tips",
+                    "Visa Fees",
+                    "Porter tips"
+                ],
+                "meeting_point": "Cairo International Airport Terminal 2 or 3 arrivals hall.",
+                "things_to_remember": [
+                    "Please provide your flight number, terminal, and hotel name when booking.",
+                    "Cairo traffic can affect travel time — allow buffer for departures.",
+                    "Waiting time may apply for delayed flights."
+                ],
+                "cancellation_policy": "Receive a 100% refund if you cancel up to 24 hours before the experience begins.",
+                "info_voucher": "If you have any additional questions, you can contact AL-GEWAR Travel Customer Care at +20 100 123 4567 or info@algewar.com",
+                "is_active": true,
+                "sort_order": 14,
+                "image": "/transfers/card-father-son.png",
+                "duration": "120 Minutes"
+            }
+        },
+        {
+            "type": "transfer",
+            "id": "t",
+            "attributes": {
+                "slug": "t",
+                "name": "t",
+                "destination": "t",
+                "destination_label": "",
+                "duration_minutes": 0,
+                "experience": "privateTransfer",
+                "price": {
+                    "amount": 5,
+                    "currency": "USD",
+                    "formatted": "$ 5"
+                },
+                "main_image": null,
+                "run": "Everyday",
+                "group_size": "Private Service",
+                "gallery": [],
+                "description": "[]",
+                "inclusions": [],
+                "exclusions": [],
+                "meeting_point": null,
+                "things_to_remember": [],
+                "cancellation_policy": null,
+                "info_voucher": null,
+                "is_active": true,
+                "sort_order": 18,
+                "duration": "0 Minutes"
+            }
+        }
+    ]
+}
