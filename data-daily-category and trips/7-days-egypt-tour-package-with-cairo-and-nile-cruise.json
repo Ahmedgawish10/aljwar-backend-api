@@ -1,0 +1,111 @@
+{
+    "slug": "7-days-egypt-tour-package-with-cairo-and-nile-cruise",
+    "name": "7 Days Egypt Tour Package with Cairo & Nile Cruise",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo, Aswan & Luxor",
+    "description": "Experience the ultimate 7 Days Egypt Tour Package, combining the timeless wonders of Cairo with a luxurious 3-night Nile Cruise from Aswan to Luxor. Discover the Great Pyramids of Giza, the Egyptian Museum, Philae Temple, Kom Ombo, Edfu Temple, Karnak Temple, Luxor Temple, and the Valley of the Kings while enjoying comfortable accommodations and expert Egyptologist guides with Ibis Egypt Tours.",
+    "overview": "Experience the ultimate 7 Days Egypt Tour Package, combining the timeless wonders of Cairo with a luxurious 3-night Nile Cruise from Aswan to Luxor. Discover the Great Pyramids of Giza, the Egyptian Museum, Philae Temple, Kom Ombo, Edfu Temple, Karnak Temple, Luxor Temple, and the Valley of the Kings while enjoying comfortable accommodations and expert Egyptologist guides with Ibis Egypt Tours.",
+    "duration": "7 Days",
+    "days": 7,
+    "nights": 6,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 845,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/b/q/bqbfziqi32e.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2000x2000-0-70-46e28084d46c270a413975743a2c6bb4_5.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/0/10737795072_img_0693_4.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/caption_22_3.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/-/2-days-luxor-abu-simbel-tour-from-soma-bay-egypt-tours-portal_3.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/8/98988_gallery_3.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/o/download.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/g/egypt-changed-my-perspective-on-travel-v0-in5mgn72hyfb1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15974207870egypt_4.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/145_15.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/o/komombo_gallery_10.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour",
+        "Fly to Aswan / Nile Cruise",
+        "Kom Ombo Temples Tour",
+        "Visit Edfu Temple & East Bank of Luxor",
+        "West Bank Tour / Fly to Cairo"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "As you step foot in Cairo, the vibrant energy of the city envelops you. After your flight arrives at Cairo International Airport, Our friendly guide will be waiting at the airport to greet you with a warm smile and assist you to finish all formalities with you, and then Ibis Egypt Tours representative will transfer you to your hotel in Cairo. Take a moment to relax and soak in the anticipation of the incredible experiences that lie ahead. Optional Tour allowed by the evening: Sound and Light Show Overnight in Cairo Meals: (No Meals)"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour - Unveiling Ancient Wonders",
+            "icon": "map",
+            "description": "After a delicious breakfast to fuel your day, your Ibis Egypt tours representative will pick you up from your hotel. Today, get ready to be captivated by the wonders of Cairo. Your first stop is the legendary Pyramids of Giza. As you stand before the awe-inspiring pyramids of Cheops, Chephren, and Mykerinus, you will feel the weight of history and marvel at their grandeur. Do not forget to take some fantastic photos from the Panorama area, where you can capture the perfect shot of these iconic structures. Next, prepare to encounter the enigmatic Sphinx and visit the fascinating Valley Temple. Afterward, indulge in a scrumptious lunch at a delightful oriental restaurant in Cairo. However, the adventure does not end there! You will explore the renowned Egyptian Museum, home to countless treasures from ancient Egypt. As the day ends, you will be transferred to your hotel in Cairo. Overnight in Cairo Meals: Breakfast – Lunch"
+        },
+        {
+            "time": "Day 3",
+            "title": "Fly to Aswan / Nile Cruise - Sail the Majestic Nile Wednesday & Friday)",
+            "icon": "map",
+            "description": "Early check-out after enjoying your breakfast at the hotel in Cairo. Our REP will pick you up from the reception to leave for Cairo Airport, to fly to Aswan. Upon your arrival at Aswan airport, our REP will be waiting for you, Start a guided tour of the High Dam, a marvel of modern engineering. Next, marvel at the Unfinished Obelisk and delve into the history of the mighty Philae Temple, dedicated to the goddesses Isis and Hathor. As the day ends, you'll be escorted to your Nile Cruise, ready to embark on an unforgettable journey from Aswan to Luxor enjoy a delectable dinner onboard your Nile Cruise and spend a restful night as you sail along the Nile's tranquil waters. Overnight on a Nile Cruise. Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 4",
+            "title": "Kom Ombo Temples Tour",
+            "icon": "map",
+            "description": "Breakfast on board, enjoy the scenic sailing to Kom Ombo, and explore the Temple dedicated to the two gods Sobek and Horus. Afterward, continue sailing towards Edfu, where you will have lunch on board. Dinner and overnight on your Nile Cruise. Meals: (Breakfast, Lunch & Dinner)"
+        },
+        {
+            "time": "Day 5",
+            "title": "Visit Edfu Temple & East Bank of Luxor",
+            "icon": "map",
+            "description": "Enjoy your breakfast on-board. Try a new adventure by a horse-drawn carriage to visit the Edfu Temple of God Horus. Then return to the Nile Cruise, and continue sailing to Luxor via Esna lock. Once the cruise arrives in Luxor, visit Luxor Temple and Karnak complex on the east bank of Luxor. After that, you will go back to your cruise. Enjoy your dinner on-board. In the evening, enjoy the Galabia Party on the cruise. Overnight in Luxor. Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 6",
+            "title": "West Bank Tour / Fly to Cairo",
+            "icon": "map",
+            "description": "Enjoy your breakfast on board before disembarking at 08:00 AM; today we will say goodbye to the Nile Cruise, as today is your final departure day from your cruise. Our Egyptology tour guide will join you to visit Hatshepsut temple, Colossi of Memnon & Valley of the Kings. Prepare for your journey back to Cairo, Ibis Egypt Tours representative will accompany you to Luxor airport. Catch your flight back to Cairo, Ibis Travel representative will meet you at Cairo Domestic Airport. Transfer to your hotel and spend the night in Cairo. Meals: Breakfast,"
+        },
+        {
+            "time": "Day 7",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we say goodbye to Egypt. After enjoying your tasty breakfast, check out by 12:00 PM, our representative will escort you to Cairo International airport for final departure. Meals: (Breakfast)."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport and transfer to hotel by air-conditioned vehicle",
+        "Accommodation for 03 Nights in Cairo on Bed & Breakfast",
+        "Accommodation for 03 Nights on board 05 stars Nile Cruise including breakfast, Lunch, Dinner.",
+        "One-Day Excursion in Cairo as mentioned at the above itinerary",
+        "Sightseeing Tours on board the Nile Cruise as mentioned at the above itinerary Entrance fees to the above-mentioned sites",
+        "English speaking guide in Cairo",
+        "One Lunch at quality restaurant in Cairo",
+        "A Bottle of Mineral Water for each person",
+        "English speaking guide on board the Nile Cruise",
+        "Service charges and all taxes",
+        "Transfer to Cairo International airport on final departure"
+    ],
+    "exclusions": [
+        "Entry Visa to Egypt",
+        "International flight tickets",
+        "Domestic flight Cairo / Aswan – Luxor / Cairo",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person.",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) 1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Drinks, Beverages & Mineral water during all the meals.",
+        "Any optional tours if required",
+        "Tipping",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot)"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/7-Days-Egypt-Tour-Package-with-Cairo-and-Nile-Cruise.html"
+}

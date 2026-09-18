@@ -1,0 +1,64 @@
+{
+    "slug": "luxor-tours-from-cairo-by-flight",
+    "name": "Overnight Luxor Tour From Cairo by Flight",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "luxor",
+    "destination_label": "Cairo & Luxor",
+    "description": "Explore the amazing parts of Luxor in this amazing trip with Ibis Egypt Tours, feel ravishing while seeing Luxor Temple, stare at the amazement Colossi of Memnon, walkthrough Valley of the Kings and more with Cairo Day Tours.",
+    "overview": "Explore the amazing parts of Luxor in this amazing trip with Ibis Egypt Tours, feel ravishing while seeing Luxor Temple, stare at the amazement Colossi of Memnon, walkthrough Valley of the Kings and more with Cairo Day Tours.",
+    "duration": "2 Days",
+    "days": 2,
+    "nights": 1,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 615,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/e/g/egypt-changed-my-perspective-on-travel-v0-9mt4bm72hyfb1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15974207870egypt.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/img_20210601_170335.webp"
+    ],
+    "highlights": [
+        "Karnak and Luxor Temple",
+        "Valley of the Kings and Hatshepsut Temple"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Karnak and Luxor Temple",
+            "icon": "flight",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned Vehicle to Cairo Airport, catch your flight to Luxor, meet and assist at Luxor Airport, start to Embrace the culture of Luxor by visiting the magnificent temple of Karnak with its large hall contains a lot of amazing Pillars, it was constructed at the Greco Roman kingdom era, next drive towards Luxor Temple which constructed by Amenhotep III and Ramses II for festivals to God Amun, Lunch will be served at local restaurant in Luxor, once your tour concluded, Ibis Egypt tours representative will escort you to your hotel in Luxor, check in, have the chance at night for optional to the Sound and light Show at Karnak Temple. Overnight in Luxor"
+        },
+        {
+            "time": "Day 2",
+            "title": "Valley of the Kings and Hatshepsut Temple",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, start to scout the West Bank of Luxor, walkthrough Valley of the Kings (Visit 03 tombs only ), head out towards Hatshepsut temple, with its particular decoration and design, it makes it one of the characteristic temples, it was established by the architect Senimut for the Queen Hatshepsut, architect Senimut was the refuge for the God, Amon Ra, the Temple was called before “Northern monastery”, it is well known now as El-Deir El-Bahary, your last stop at the west Bank will be to Colossi of Memnon, Lunch will be served at local restaurant in Luxor, once your tour concluded Ibis Egypt tours representative will escort you back to Luxor Airport, catch your flight back to Cairo, once your flight landed at Cairo Airport, Ibis Egypt tours representative will escort you back to your hotel."
+        }
+    ],
+    "inclusions": [
+        "Pick up from your hotel in Cairo plus transfer to Cairo domestic Airport.",
+        "Meet and assist at Luxor Airport upon arrival.",
+        "One Night accommodation in Luxor at 5 stars hotel with breakfast.",
+        "Two days excursion in Luxor as mentioned at the above itinerary to visit: Karnak Temple, Luxor Temple, Valley of the Kings, Hatshepsut temple, and Colossi of Memnon.",
+        "Two Lunches at local restaurants in Luxor.",
+        "A Bottle of Mineral Water to Each person daily at the above mentioned sites.",
+        "English speaking guide at the above mentioned sites in Luxor.",
+        "Entrance fees to the sites mentioned at the above itinerary.",
+        "Transfers in Cairo & Luxor via air-conditioned vehicle.",
+        "transfer back to your hotel in Cairo once your tour concluded.",
+        "Domestic flight Cairo / Luxor / Cairo.",
+        "Service charges and all taxes."
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Optional tours not mentioned at the above itinerary",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/luxor-tours-from-cairo-by-flight.html"
+}

@@ -1,0 +1,155 @@
+{
+    "slug": "holy-family-trip-to-egypt",
+    "name": "Holy Family Trip to Egypt",
+    "category": "egypt-holy-land-tours",
+    "tour_type": "egypt-holy-land-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo, Luxor, Aswan & Minya",
+    "description": "Experience Holy Family in Egypt Tours Package in best Egypt Classic Tours with Ibis Egypt tours, enjoy amazing Egypt tours Package to experience Cairo tours, holy Family tours in Egypt, Nile Cruise tours via the Nile river between Luxor and Aswan and more with Ibis Egypt tours",
+    "overview": "Experience Holy Family in Egypt Tours Package in best Egypt Classic Tours with Ibis Egypt tours, enjoy amazing Egypt tours Package to experience Cairo tours, holy Family tours in Egypt, Nile Cruise tours via the Nile river between Luxor and Aswan and more with Ibis Egypt tours",
+    "duration": "15 Days",
+    "days": 15,
+    "nights": 14,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/g/a/garden_in_a_monastery_of_wadi_natrun_base_image_370x500__3.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15974207870egypt_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0055_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Tours ( Giza Pyramids – Egyptian Museum – Bazaar)",
+        "Tel Basta & Belbis",
+        "Tour to Sakha & Samanoud",
+        "Wadi Natroun Tour",
+        "Cairo Churches"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, and then he will transfer by air conditioned vehicle you to your hotel in Cairo, enjoy welcome drink. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Tours ( Giza Pyramids – Egyptian Museum – Bazaar)",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, start an amazing Egypt pyramid tours to embrace Cairo culture by visiting the three Pyramids of Giza (Cheops, Chephren and Mykerinus), ( Entrance inside any of the pyramids available with an extra fees ), then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, including the gold and jewelry Treasures of King Tutankhamen which was discovered on his tomb, Lunch at Local restaurant then enjoy amazing time for shopping in Khan el Khalili Bazaar finally Ibis Egypt tours will escort you back to your in hotel. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 3",
+            "title": "Tel Basta & Belbis",
+            "icon": "map",
+            "description": "After breakfast, Prepare yourself to Start the amazing Holy Family Journey in Egypt, Ibis Egypt tours will transfer you to our first stop which will be at the town of Bubastis that known as ( Tel Basta ) that about 100 Kms north-east of Cairo where Jesus gushed forth a spring of water to drink , visit The Holy well which supposedly sprang from the earth upon the arrival of the Holy Family, then visit Belbeis (ancient Philippos) at a distance of about 55 kms from Cairo. Where They rested in the shade of a tree that known as (The Virgin Mary's Tree) . Visit Saint George Church, then transfer back to Cairo.Lunch at Local restaurant and back to your hotel. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 4",
+            "title": "Tour to Sakha & Samanoud",
+            "icon": "map",
+            "description": "Enjoy Breakfast at your hotel in Cairo, Ibis Egypt tours representative will escort you to Sakha about 140 Km North of Cairo. Visit Famous Virgin Mary Church, this place is Famous for its Christian community in the middle Ages. Explore the foot print of Jesus ( a rock with a relief of baby Jesus’ foot on it) .the next tour will be to Samanoud where the holy family crossed the Nile to Samanoud City inside the Delta where they were received by its people in a pleasant way, and so the people were blessed by Jesus Christ. Enjoy amazing visit to Saint Abanoub Chursh. There is also, a holy well where the holy family had drunk from it. transfer back to Cairo and through your way you will enjoy your Lunch in Tanta city. Back to Cairo. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 5",
+            "title": "Wadi Natroun Tour",
+            "icon": "map",
+            "description": "Enjoy your breakfast, Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned vehicle to Wadi El-Natrun that well known as the monasticism area for Christians, The Holy Family crossed the western branch of the river Nile (Rosetta branch) to the south to Wadi AL-Natrun where the Virgin Mary and her son the child Jesus Christ, hid in that valley during their trip to Egypt . embrace the Christian culture by visiting four monasteries still existing today . explore Al-Baramus Monastery, it is the one of the oldest monasteries in the area, then move towards Anba Makar Monastery, it is well known as Anba Makaryus Monastery, proceed to Anba Bishoi Monastery, The cemetery of Anba Bishoi is inside the Anba Bishoi Monastery, your last stop will be to El-Suryan Monastery, Lunch during your way back to Cairo .at the end of your day tour Ibis Egypt tours representative will escort you back to your hotel in Cairo. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 6",
+            "title": "Cairo Churches",
+            "icon": "map",
+            "description": "Enjoy Breakfast at your hotel in Cairo then Ibis Egypt tours representative will escort you to visit Cairo churches, Visit The famous Hanging Church and explore Abu Serga Church , then Visit St. George Church and explore the Fortress of Babylon in Old Cairo, which the Holy Family passed by .then transfer to Mostorod where you will see the virgin Mary Church and prepare yourself to visit the Holy well and Famous Holy Marry tree at Matariya that is a well-attested resting place of the Holy Family and is a popular destination among medieval pilgrims. Enjoy Lunch at local restaurant in Cairo.then transfer back to your hotel. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 7",
+            "title": "Cairo to Minya",
+            "icon": "map",
+            "description": "Breakfast at your hotel, and then prepare yourself to complete the holy Family Trip to South Egypt. transfer to Maadi where The Holy Family moved to the south in a boat via the River Nile where there is the church of Holy Virgin Mary. Many visitors visit to this famous church to explore the book this may be a sign that the Holy Family had passed by that place. The Holy Family travelled in a boat on the Nile River from this place ( Maadi ) to Upper of Egypt . So you will transfer south to EL Minya that is about 3 hours, where you will explore a wonderful church which hewn out of the cliff beside the Nile River at Gabal Al Teir in Minya. transfer back to your hotel. Overnight in Minya Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 8",
+            "title": "Minya – Dandara Tour – Luxor",
+            "icon": "map",
+            "description": "Enjoy Breakfast at your hotel in Minya , Prepare yourself to Complete the Holy family Trip by visiting The White Monastery, it was built by St. Shenouda, who constructed the monastery using blocks from ancient Egyptian buildings . This monastery used to house over 2000 monks and its name is derived from the color of the white limestone of its outside walls. Explore a wonderful basilica church inside that used columns from ancient Egyptian structures and Feast your eyes with beautiful paintings on the walls and ceilings. Also you will visit Al Muharraq Monastery in Assiut that is known as ( the Monastery of the Holy Virgin at Al Qusiya ). It was built around the area where the Holy Family remained just over 6 months in a cave that became as Altar of this wonderful Church of Virgin Mary during the Coptic era. End of Holy family route Tours , continue your way to Luxor City , it’s about 05 hours driving , through your way , you will visit Dendera Temple in Qena that known as The Temple of Hathor, goddess of love and joy. transfer to your hotel in Luxor. Overnight in Luxor Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 9",
+            "title": "Luxor Nile Cruise Tours",
+            "icon": "map",
+            "description": "Enjoy Breakfast at your hotel , then transfer to 05 Star Nile Cruise by Ibis Egypt tours Air-conditioned van, Check in your Nile Cruise before lunch, Lunch will be served on board, enjoy a special excursion to the East Bank, start to scout Karnak and Luxor Temples, Dinner on board your Cruise. Overnight in Luxor Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 10",
+            "title": "Luxor Nile Cruise Excursions",
+            "icon": "map",
+            "description": "Tasty breakfast is waiting for you on board, Scout the West Bank, walkthrough Valley of the Kings, ( visit to 03 Tombs only ), head towards the Temple of Queen Hatshepsut ( El-Deir El-Bahari Temple ), continue Sailing to Edfu via Esna, Lunch will be served on board, while sailing During Cross Esna Lock, Dinner on board your cruise. Overnight in Edfu Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 11",
+            "title": "Edfu and Kom Ombo Temples",
+            "icon": "map",
+            "description": "Tasty breakfast is waiting for you on board, scout Horus Temple in Edfu, Lunch will be served on board, next sail to Kom Ombo, Enjoy Tea Time while Sailing, Visit the Temple shared by two gods Sobek & Haeroris in Kom Ombo, Sail to Aswan, Dinner on board. Overnight in Aswan Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 12",
+            "title": "Aswan Nile Cruise Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board, unleash your inner adventure to embrace Aswan culture, taste special excursion to the High Dam, Unfinished Obelisk, amuse your eyes while visiting Philae Temple, Belongs to Isis and Hathor goddesses, Lunch will be served on board, Afternoon tea, then enjoy Dinner on board. Overnight in Aswan Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 13",
+            "title": "Aswan - Train to Cairo",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board, then disembarkation from your Nile Cruise at 08;00 AM, Keen to get this amazing Optional Tours to Abu Simbel Temple ,embrace the magnificent Temple of Abu Simbel, it is one of the best sights you have ever seen, Walk through Temple of Ramses II, and the Temple of Nefertari Ibis Egypt tours representative will escort you to Aswan Railway Station, catch your Sleeper Train to Cairo , enjoy dinner in The Sleeper train. Overnight inside The Sleeper train Meals: Breakfast, Dinner"
+        },
+        {
+            "time": "Day 14",
+            "title": "Cairo Optional Excursions",
+            "icon": "map",
+            "description": "Enjoy Breakfast aboard sleeper train, arrive Giza train station, Ibis Egypt tours representative will transfer you to your hotel for Check in. Enjoy with some optional Cairo excursions Saqqara Pyramid, Dahshur and Memphis City. Overnight in Cairo Meals: Breakfast"
+        },
+        {
+            "time": "Day 15",
+            "title": "Cairo – Final Departure",
+            "icon": "map",
+            "description": "Enjoy Breakfast at the hotel in Cairo - check out, Ibis Egypt tours representative will escort you to Cairo International Airport for final departure. Meals: Breakfast"
+        }
+    ],
+    "inclusions": [
+        "Meet and assist at airports.",
+        "Assistance of our guest relations during your stay.",
+        "All transfers by air-conditioned vehicle.",
+        "7 nights accommodation in Cairo including bed and breakfast.",
+        "1 night Accommodation in Minya including bed and breakfast.",
+        "1 night Accommodation in Luxor including bed and breakfast.",
+        "4 nights Accommodation on a 5 star superior cruise on full board.",
+        "1 night Accommodation on sleeper train for on half board basis.",
+        "All sightseeing tours in Cairo, Luxor, Aswan and Coptic sites as mentioned in the itinerary",
+        "Holy Family route as tours as in the above itinerary",
+        "Meals as mention in the above itinerary.",
+        "8 Lunch during tours at good quality local restaurants",
+        "A Bottle of water.",
+        "English Tour Guided",
+        "Entrance fees to all sites to the above itinerary.",
+        "Portage when needed.",
+        "All service charges and taxes."
+    ],
+    "exclusions": [
+        "International Airfare",
+        "Entry visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Any optional tours",
+        "Personal expenses",
+        "Tips"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-holy-land-tours/holy-family-trip-to-egypt.html"
+}

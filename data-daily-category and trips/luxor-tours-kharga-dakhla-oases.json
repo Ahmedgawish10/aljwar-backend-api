@@ -1,0 +1,74 @@
+{
+    "slug": "luxor-tours-kharga-dakhla-oases",
+    "name": "Luxor Tours to Kharga and Dakhla Oases",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "luxor",
+    "destination_label": "Luxor, Kharga & Dakhla",
+    "description": "Unleash your inner adventurer and enjoy amazing Luxor Tours to Kharga and Dakhla Oases with Ibis Egypt Tours. Experience our unique Desert Safari tours to valuable attractions of Kharga Oasis and feast your Soul with beauty of Dakhla Oasis with many Chances to taste the beauty of our Safari Desert Trip through memorable Sightseeing Tours, Camping and more.",
+    "overview": "Unleash your inner adventurer and enjoy amazing Luxor Tours to Kharga and Dakhla Oases with Ibis Egypt Tours. Experience our unique Desert Safari tours to valuable attractions of Kharga Oasis and feast your Soul with beauty of Dakhla Oasis with many Chances to taste the beauty of our Safari Desert Trip through memorable Sightseeing Tours, Camping and more.",
+    "duration": "3 Days",
+    "days": 3,
+    "nights": 2,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/r/e/resized_370x500.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/the_palace_at_dakhla_oasis.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/a/palace_at_dakhla_osis_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/the_palace_at_dakhla_osis1.webp"
+    ],
+    "highlights": [
+        "Luxor to Kharga Oasis – Dakhla Oasis",
+        "Dakhla Oasis to Kharga Oasis",
+        "Kharga Oasis to Luxor"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Luxor to Kharga Oasis – Dakhla Oasis",
+            "icon": "flight",
+            "description": "Ibis Egypt Tours representative will Pick up from your hotel in Luxor at 5:30 A.M, Drive by Four-wheel Jeep to Kharga Oases, driving around 350-KM, Lunch will be served on route, then start your tour to Temple of Hibis& Nadora ( Outside Visiting ) , then proceed to El Bagawat Cemetery which was early Christian Cemetery . At the end of your tour transfer to Dakhla Oasis and enjoy amazing time at a marvelous Dakhla Oasis style hut with communal showers and basic facilities . Dinner and overnight in Dakhla Oasis. Meals: Lunch, Dinner"
+        },
+        {
+            "time": "Day 2",
+            "title": "Dakhla Oasis to Kharga Oasis",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast, and then start an amazing adventure tour to visit The Roman Temple of Deir El Hagar, Proceed to visit Muzzawaka. Then you will have amazing tour to Islamic Village of Al Qasr then about 35km from Mut houses ruins of Ayubid mosque. Then transfer to Kharga Oasis and enjoy Overnight Camping in Kharga Oasis. Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 3",
+            "title": "Kharga Oasis to Luxor",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your Camp and finally Ibis Egypt Tours guide will escort you back to your hotel in Luxor. In Luxor you will find many things to do through our unique Luxor tours if you want to add more adventures to your itinerary."
+        }
+    ],
+    "inclusions": [
+        "Expert English speaking representative will Pick you up from your hotel in Luxor",
+        "01 night at Dakhla Oasis Style Hut, Dehoos Lodge on half board basis.",
+        "Camping for 01 Night in Kharga on Full board basis including equipments , Sleeping bags and tents including breakfast and dinner",
+        "03 days Air-conditioned four-wheel-drive Jeep",
+        "03 Days Professional English Speaking tour Guide",
+        "Entrance Fees at the above mentioned sites mentioned at the above itinerary",
+        "Lunch during sightseeing tours.",
+        "Permissions required for the Safari desert adventure tour",
+        "Three bottles of mineral water per person per day",
+        "One soft drink per person per day",
+        "Salty and Sweaty snacks are available in your jeep",
+        "Service charges and all taxes",
+        "Portage when needed",
+        "Drive back to your hotel in Luxor"
+    ],
+    "exclusions": [
+        "Personal expenses or any extras at the hotels or during the tour",
+        "Optional tours if required.",
+        "Meals except where included in the itinerary."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/luxor-tours-kharga-dakhla-oases.html"
+}

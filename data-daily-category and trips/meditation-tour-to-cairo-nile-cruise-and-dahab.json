@@ -1,0 +1,125 @@
+{
+    "slug": "meditation-tour-to-cairo-nile-cruise-and-dahab",
+    "name": "Meditation Tour to Cairo, Nile Cruise and Dahab",
+    "category": "spiritual-tours-to-egypt",
+    "tour_type": "spiritual-tours-to-egypt",
+    "destination": "cairo",
+    "destination_label": "Cairo, Nile Cruise & Dahab",
+    "description": "Join our Spiritual Meditation Tour to Cairo, Nile Cruise and Dahab, Experience Meditation tour to Cairo, Nile Cruise and Dahab, Amuse your soul by visiting King Chamber of Cheops, be ready for your Nile Cruise and discover all sites between Aswan and Luxor, relax and unleash your spirit at the amazing atmosphere at Dahab.",
+    "overview": "Join our Spiritual Meditation Tour to Cairo, Nile Cruise and Dahab, Experience Meditation tour to Cairo, Nile Cruise and Dahab, Amuse your soul by visiting King Chamber of Cheops, be ready for your Nile Cruise and discover all sites between Aswan and Luxor, relax and unleash your spirit at the amazing atmosphere at Dahab.",
+    "duration": "11 Days",
+    "days": 11,
+    "nights": 10,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/1/4/145.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/3/2344.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/6/1684679929_polinka-top-p-garmoniya-kartinki-krasivo-28_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "High Dam, Philae temple and Kom Ombo",
+        "Visit Edfu Temple and Luxor Temple",
+        "Valley of the Kings, Hatshepsut Temple, Karnak Temple",
+        "Luxor / Cairo",
+        "Meditation at King Chamber Of Giza Pyramids"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo Airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, he will transfer you to Cairo domestic airport, catch your flight to Aswan, meet & assist at Aswan Airport, transfer to your Nile Cruise, and have dinner. Overnight on board."
+        },
+        {
+            "time": "Day 2",
+            "title": "High Dam, Philae temple and Kom Ombo",
+            "icon": "map",
+            "description": "Breakfast on Board, AT 09:00 AM transfer to Visit the High Dam & Philae Temple, at 14:00 pm. Sail to Kom Mombo, Visit the Temple Shared by The Two Gods Sobek & Haroeris, Sail to Edfu, have lunch & dinner on board. Overnight on board your Cuise"
+        },
+        {
+            "time": "Day 3",
+            "title": "Visit Edfu Temple and Luxor Temple",
+            "icon": "map",
+            "description": "Breakfast on Board, AT 07:00 AM transfer to Visit Edfu Temple, Back To Cruise Sail towards Esna Lock, continue Sailing To Luxor, By Afternoon 16:00 transfer To Visit Luxor Temple. Then get back to your Cruise to have lunch and dinner on board. Overnight on board your Cuise"
+        },
+        {
+            "time": "Day 4",
+            "title": "Valley of the Kings, Hatshepsut Temple, Karnak Temple",
+            "icon": "map",
+            "description": "Breakfast on Board, Visit the The West Bank, Visit the Neccropolis of Tehbes, Valley of kings, The Temple of Queen Hatshepsut and the Colossi of Memnon, Back To Cruise for Lunch, By 15:00 pm Visit Karnak Temple, Back To Cruise for Dinner On Board. (BLD) By Evening 22:00 pm. transfer to To Luxor Airport With Breakfast Box Fly To Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 5",
+            "title": "Luxor / Cairo - Visit Egyptian Museum",
+            "icon": "map",
+            "description": "Very early in the morning Arrive Cairo Airport Transfer to Hotel For Check-in, overnight in Cairo. At 10:00 am, Visit Cairo Museum, Lunch at local restaurant, Evening Enjoy Sound & Light Show, Dinner at local restaurant. Overnight in Cairo"
+        },
+        {
+            "time": "Day 6",
+            "title": "Meditation at King Chamber Of Giza Pyramids",
+            "icon": "map",
+            "description": "Early Morning Proceed for Meditation at Kings Chamber & Queens Chamber of Giza Pyramid, Packed Breakfast at Pyramid Complex, Free time for Photography at Pyramid Complex, Lunch at local Restaurant, transfer To Hotel For Relax after Meditation, By Evening Dinner at your Hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 7",
+            "title": "Cairo / Dahab",
+            "icon": "map",
+            "description": "Breakfast at Hotel, then drive by air-conditioned vehicle from Cairo to Dahab, 595 KM, Lunch box. at your vehicle, arrive Dahab, Check-in, and have dinner. Overnight in Dahab"
+        },
+        {
+            "time": "Day 8",
+            "title": "Day at leisure in Dahab",
+            "icon": "map",
+            "description": "Breakfast at Hotel, then have the day at leisure in Dahab. Enjoy delicious dinner. Overnight in Dahab"
+        },
+        {
+            "time": "Day 9",
+            "title": "The Blue Hole Tour",
+            "icon": "map",
+            "description": "Early breakfast at your hotel, then transfer By Ibis Travel vehicle to the blue hole, at the end of your tour back to Dahab, then have dinner. Overnight in Dahab"
+        },
+        {
+            "time": "Day 10",
+            "title": "Dahab / Cairo",
+            "icon": "map",
+            "description": "Breakfast at hotel, then drive by air-conditioned vehicle from Dahab To Cairo, 595 KM., Lunch Box included, Arrive Cairo, check into your hotel, then have dinner. Overnight in Cairo"
+        },
+        {
+            "time": "Day 11",
+            "title": "Final departure",
+            "icon": "map",
+            "description": "Breakfast at hotel, transfer to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport + transfer to hotel by air-conditioned vehicle",
+        "All Transfers & Sightseeing as per itinerary",
+        "04 nights Accommodation at 5 stars Nile Cruise (ASW- Luxor) on Full Board basis",
+        "03 Nights Accommodation at Cairo including breakfast",
+        "03 Nights Accommodation at Dahab including breakfast and dinner",
+        "All meals as per itinerary During the tour",
+        "All entrance fees Mentioned at the itinerary",
+        "02 Hrs. Exclusive meditation at Kings Chamber",
+        "02 Bottle of Mineral water per pax per day ON BUS During The TOUR ONLY",
+        "English Speaking guide",
+        "All Service charges and taxes",
+        "Assist and transfer to Cairo International airport on final departure.",
+        "Domestic flight Cairo / Aswan - Luxor / Cairo"
+    ],
+    "exclusions": [
+        "International flight ticket",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Optional Tours not mentioned at the Itinerary",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/spiritual-tours-to-egypt/meditation-tour-to-cairo-nile-cruise-and-dahab.html"
+}

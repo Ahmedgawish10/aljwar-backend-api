@@ -1,0 +1,58 @@
+{
+    "slug": "cairo-to-ain-el-sokhna-tour",
+    "name": "Ain El Sokhna Tour from Cairo",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo & Ain El Sokhna",
+    "description": "Escape the Crowds with this wonderful Cairo to Ain El Sokhna Trip in best memorable and interesting Cairo Tours with Ibis Egypt Tours, Chill Out and Spend unforgettable time in Al Ain Sokhna to touch beauty of the Red Sea and to enjoy Pure blue water and Sunny and Sandy beach and more Cairo things to do with Ibis Egypt tours.",
+    "overview": "Escape the Crowds with this wonderful Cairo to Ain El Sokhna Trip in best memorable and interesting Cairo Tours with Ibis Egypt Tours, Chill Out and Spend unforgettable time in Al Ain Sokhna to touch beauty of the Red Sea and to enjoy Pure blue water and Sunny and Sandy beach and more Cairo things to do with Ibis Egypt tours.",
+    "duration": "2 Days",
+    "days": 2,
+    "nights": 1,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/r/o/robert-baker-ohmpa0ywm0o-unsplash.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/5/95670436.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/4/34101620931594.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/movenpick-resort-el-sokhna-ain-sukhna-exterior_1_.webp"
+    ],
+    "highlights": [
+        "Cairo",
+        "Goodbye to Ain El Sokhna"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Cairo - Ain El Sokhna",
+            "icon": "flight",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo at 7:30 am to Ain El Sokhna in Suez government, approximately 120 km east of Cairo, Drive towards Ain El Sokhna Hotel to enjoy magnificent tour to relax on the beach to bask under the sun with listening to wonderful sound of the waves and enjoy Swimming in Pure blue water to touch beauty and nature of Red Sea. Dinner. Overnight at Ain El Sokhna"
+        },
+        {
+            "time": "Day 2",
+            "title": "Goodbye to Ain El Sokhna",
+            "icon": "map",
+            "description": "Today we will say goodbye to Ain El Sokhna, once you enjoy your tasty breakfast at your Hotel , Ibis Egypt tours representative will escort you to Cairo Hotel ."
+        }
+    ],
+    "inclusions": [
+        "Pick up from Cairo Hotel",
+        "Private Air-conditioned Vehicle Cairo / Ain sokhna Hotel / Cairo",
+        "Overnight in Ain El Sokhna Hotel includes ( Breakfast –dinner )",
+        "A bottle of Mineral water to each person",
+        "Services charges and all taxes"
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Optional tours not mentioned at the above itinerary",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/cairo-to-ain-el-sokhna-tour.html"
+}

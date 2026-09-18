@@ -1,0 +1,62 @@
+{
+    "slug": "overnight-minya-tours-from-cairo",
+    "name": "Overnight Minya Tour From Cairo",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo & Minya",
+    "description": "Enjoy wonderful Overnight Minya Tours From Cairo in memorable Cairo Tours with Ibis Egypt Tours, Scout to Tuna El Gabal, feast your eyes with Amarna tombs decorations and Visit Beni Hassan tombs and more with unforgettable Overnight Minya Tours from Cairo",
+    "overview": "Enjoy wonderful Overnight Minya Tours From Cairo in memorable Cairo Tours with Ibis Egypt Tours, Scout to Tuna El Gabal, feast your eyes with Amarna tombs decorations and Visit Beni Hassan tombs and more with unforgettable Overnight Minya Tours from Cairo",
+    "duration": "2 Days",
+    "days": 2,
+    "nights": 1,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/-/a-wonderful-shot-of-the-tomb-of-petosiris-from-minya.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-wonderful-shot-of-one-of-the-archaeological-sites-in-minya.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-wonderful-shot-of-one-of-the-memorial-places-in-minya-egypt.webp"
+    ],
+    "highlights": [
+        "Cairo",
+        "Minya"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Cairo - Minya",
+            "icon": "flight",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned vehicle to Minya around four hours driving from Cairo to Tuna El Gabal where you have the Chance to explore The Plain of King Akhnaton where the King received his divine inspiration to build Amarna City (Akhetaton) , Lunch will be Served at restaurant at El Minya then Prepare yourself to explore Tuna El Gabal Tombs Like Tomb of Petosiris the great Priest of god Thoth (the god of Wisdom) after that visit tomb of Ibis the sacred animal of god Thoth then to Isadora tomb which has beautiful decoration as well as Greek text . Overnight in El Minya"
+        },
+        {
+            "time": "Day 2",
+            "title": "Minya - Cairo",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in El Minya Prepare yourself to enjoy wonderful tours to explore Bani Hassan tombs, it is including different kind of tombs for the middle and old kingdom, you will See tomb of Bakhet III which Contains depiction of wrestling techniques , Khaty Tomb who was governor in 11 dynasty also you will explore Khnumhotep tomb who was governor through Middle Kingdom Lunch will be served at restaurant, enjoy a special tour to Tell Al Amarna the capital city which established by Pharaoh Akhnaton, in Tell Al Amarna you will explore Ahmose Tomb that located in the northern group of private tombs of Tel Al Amarna after that explore tomb of Huya was the steward of Queen Tiyi the mother of Akhenaton that Contains reliefs of Akhenaton’s new capital on the walls of the tomb at the end of your tours Ibis Egypt tours representative will escort you back to Cairo."
+        }
+    ],
+    "inclusions": [
+        "Pick up from your hotel in Cairo",
+        "Accommodation at 4* hotel including bed and breakfast",
+        "Tours to Minya sites as mentioned in the above itinerary",
+        "2 Lunches at a restaurant at El Minya",
+        "A Bottle of Mineral Water to Each person",
+        "English speaking guide at your day tour",
+        "Entry fees to the sites mentioned in the above itinerary",
+        "Air-conditioned vehicle Cairo / Minya / Cairo",
+        "Transfer back to your hotel once your tour concluded",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Optional tours not mentioned in the above itinerary",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/overnight-minya-tours-from-cairo.html"
+}

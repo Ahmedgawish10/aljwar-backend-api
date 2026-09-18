@@ -1,0 +1,101 @@
+{
+    "slug": "bahariya-oasis-white-desert-tours-from-cairo",
+    "name": "Bahariya Oasis, White and Black Desert Tour from Cairo",
+    "category": "desert-safari",
+    "tour_type": "desert-safari",
+    "destination": "cairo",
+    "destination_label": "Bahariya Oasis, White & Black Desert",
+    "description": "Combine between history and adventure in one tour with Ibis Egypt Tours, With Safari Egypt experience Bahariya Oasis Tour from Cairo, feast your eyes with the breathtaking view of Black and White Desert, gazed upon the amazement of Alexander the Great Temple and more charming with Egypt Safari Holidays.",
+    "overview": "Combine between history and adventure in one tour with Ibis Egypt Tours, With Safari Egypt experience Bahariya Oasis Tour from Cairo, feast your eyes with the breathtaking view of Black and White Desert, gazed upon the amazement of Alexander the Great Temple and more charming with Egypt Safari Holidays.",
+    "duration": "6 Days",
+    "days": 6,
+    "nights": 5,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/-/a-wonderful-shot-of-a-tourist-in-the-black-desert-in-bahariya-oasis.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-wonderful-shot-of-a-tourist-in-the-black-desert-in-bahariya-oasis-egypt.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/o/wonderful-shot-of-a-person-from-the-white-desert-in-the-bahariya-oasis.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour",
+        "Bahariya Oasis Tour",
+        "Black and White Desert Tour",
+        "Back to Cairo",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo Airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo."
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour",
+            "icon": "map",
+            "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and the Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Enjoy Lunch at local restaurant in Cairo, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, at the end of your day tour back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Bahariya Oasis Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, then start to drive by air-conditioned Vehicle to Bahariya Oasis, it is around 370 km., once you arrive Bahariya, check into your hotel, refresh for some time, then head out towards Alexander the great Temple, the nobles Tombs, next tour to the Museum of the Golden Mummies, proceed to Ain El-Mephtella, lunch will be served on route, at the end of your tour drive back to your hotel, dinner. Overnight at Bahariya Oasis"
+        },
+        {
+            "time": "Day 4",
+            "title": "Black and White Desert Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, drive by Jeep 4x4 to the Black Desert, around 160 km., scout the Black Desert, visit the crystal mountain, the desert roses and the arch, continue driving to the White Desert, watch the formations, the wind carved sculptures that sympathize both human and animal faces, lunch will be served on route. Continue driving to explore the formations that resemble the surface of a different planet, dinner. Overnight camping at the White Desert"
+        },
+        {
+            "time": "Day 5",
+            "title": "Back to Cairo",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your Camp, then Ibis Egypt tours representative will escort you back to Bahariya Oasis, then drive by air-conditioned vehicle back to Cairo around 370 km., once you arrive Cairo, check into your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 6",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned vehicle",
+        "Accommodation for 03 Nights in Cairo including breakfast and all taxes",
+        "Accommodation for 01 Night at Bahariya at hotel including breakfast and dinner at El Beshmo Lodge or similar",
+        "Camping for 01 Night at the White Desert including tents, blankets, sleeping bags and all necessary equipments",
+        "One day tour in Cairo as mentioned at the above itinerary including English speaking guide",
+        "4X4 jeep with driver for 02 days at your Safari tour",
+        "Tours at the White Desert as mentioned in program",
+        "One Lunch at local restaurant in Cairo",
+        "Three Lunches (Picnic/Restaurant) at your Safari tour",
+        "Three bottles of Mineral water per person per day and extra 3 bottles of water per night camping",
+        "English-speaking desert expert for 03 days at your safari tour",
+        "Permissions required for desert Safari",
+        "First Aid Kit during your Safari tour",
+        "Entrance fees to the above mentioned sites in Cairo and Bahariya Oasis",
+        "transfer to Cairo International airport for final departure.",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Entry visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Soft/Snacks",
+        "Any alcoholic drinks or any personal expenses during at safari tour or at hotels",
+        "Optional tours if required.",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/desert-safari/bahariya-oasis-white-desert-tours-from-cairo.html"
+}

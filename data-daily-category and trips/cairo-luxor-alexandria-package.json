@@ -1,0 +1,99 @@
+{
+    "slug": "cairo-luxor-alexandria-package",
+    "name": "Cairo Luxor Alexandria Tour Package",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo, Luxor & Alexandria",
+    "description": "With our Cairo Luxor Alexandria Tour Package, indulge yourself in the rich history and enchanting culture of Egypt as you begin your adventure in Cairo, the bustling capital city. Continue to Luxor, the open-air museum of Egypt. Proceed the adventure with the coastal charm of Alexandria, a city steeped in history and Mediterranean beauty.",
+    "overview": "With our Cairo Luxor Alexandria Tour Package, indulge yourself in the rich history and enchanting culture of Egypt as you begin your adventure in Cairo, the bustling capital city. Continue to Luxor, the open-air museum of Egypt. Proceed the adventure with the coastal charm of Alexandria, a city steeped in history and Mediterranean beauty.",
+    "duration": "6 Days",
+    "days": 6,
+    "nights": 5,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 1090,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/c/5/c5625a65f166f266cdf7018874bb516c_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/y/pyramids-of-giza_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/a/karnak2_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Pyramids – Sakkara",
+        "Egyptian Museum – Old Cairo",
+        "Cairo – Luxor-Cairo",
+        "Cairo"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Pyramids – Sakkara - Memphis",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned Vehicle to make Memphis tours, pyramid tours to visit three Pyramids of Cheops, Chephren, and Mykerinus, next stop will be to the Panorama area, enjoy fabulous photos for the three Pyramids, short camel ride with an extra fees available on request, move towards the Sphinx, visit the Valley Temple. Continue driving to the Step Pyramid of Sakkara ( King Zoser Pyramid ), the oldest major stone in the world, Lunch will be served at a quality oriental restaurant, the last stop will be to Memphis City with an incredible visit to the open-air museum contains a Huge statue of Ramses II, Shopping available to buy souvenirs to your family and friends, at the end of your tour Ibis Egypt tours will escort you back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Egyptian Museum – Old Cairo",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, embrace Cairo culture by visiting The Egyptian Museum, it is one of the most famous museums in the world, Lunch will be served at quality restaurant then drive towards Citadel of Salah El-Dein, visit the Alabaster Mosque of Mohamed Ali, with its alabaster walls from inside and outside, then walk through the Old Coptic Cairo, visit The Hanging Church, Abu Serga Church, your last stop will be to Ben Ezra Synagogue, finally Ibis Egypt tours representative will escort you back to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 4",
+            "title": "Cairo – Luxor-Cairo",
+            "icon": "map",
+            "description": "Breakfast, move to airport to transfer to Luxor by flight. Arrive & transfer to your hotel in Luxor. Start your full day tour visit The West Bank (Valley of the Kings, Colossal of Memnon and Hatshepsut temple) Excursion to the Necropolis of Thebes, on the Western bank. Crossing the Nile, drive to the Valley of Kings; visit the tombs of various Dynasties, The Temple of Deir El Bahari. On the return journey stop at the Colossi of Memnon which are two gigantic sitting statues representing Amenophis III facing the Nile and visit the Temple of Queen Hatshepsut, Lunch will be served at quality restaurant then visit The East Bank (Luxor & Karnak Temple) Excursion to the Luxor Temple to see its courtyard and the granite statues of Ramses the Great Proceed by carriage or bus to Karnak, which is a serious of temples built in different reigns. Starting by the Avenue of Sphinxes visit the Unfinished Propylon, the Hypostyle Hall with its 134 gigantic columns, the Obelisks of Queen Hatshepsut and Tutomosis III , the temple of Amon adorned with lotus and papyrus designs, and the Sacred Lake. Fly back to Cairo, you will find our representative is waiting for you , transfer to your hotel in Cairo Overnight in Cairo."
+        },
+        {
+            "time": "Day 5",
+            "title": "Cairo - Alexandria – Cairo",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you to Alexandria by air-conditioned Vehicle, start Cairo to Alexandria day trip, scout Alexandria the pearl of the Mediterranean sea, prepare to be blown away by the magnificence of different culture while visiting Catacomb of Kom El-Shokafa, Qaitbay Citadel, and Alexandria Library from outside, walk through the magnificent Montazah Palace, amuse your eyes by visiting Roman amphitheatre ( If visit was allowed ), manage to relax by having lunch at oriental restaurant in Alexandria, then Ibis Egypt tours representative will escort you back to Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 6",
+            "title": "Cairo - Departure",
+            "icon": "map",
+            "description": "Breakfast at the hotel, our representative will transfer you to the airport and assist you at the airport through final departure formalities."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to the hotel and Sightseeing by air-conditioned modern Vehicle.",
+        "Accommodation for 05 Nights in Cairo on Bed & Breakfast.",
+        "Full day tour Cairo: Giza Pyramids – Sakkara – Memphis.",
+        "Full day tour Cairo: Egyptian Museum, Cairo Citadel & Cairo Coptic District.",
+        "Full day tour Alexandria City.",
+        "Sightseeing Tours at Luxor attractions.",
+        "Entrance fees to the above-mentioned Excursions as mentioned in the itinerary.",
+        "Excellent Private English Speaking Guide during the sightseeing tour.",
+        "2 Lunch in a quality restaurant in Cairo.",
+        "1 Lunch in a quality restaurant in Luxor.",
+        "1 Lunch in a quality restaurant in Alexandria.",
+        "A Bottle of Mineral Water to each person.",
+        "Luggage handling at airports and hotels.",
+        "All taxes & service charge."
+    ],
+    "exclusions": [
+        "Egypt tourist visa.",
+        "International Airfare.",
+        "Domestic flight Cairo / Luxor / Cairo.",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Tips",
+        "Drinks, Beverages & Mineral water during all the meals.",
+        "Any Personal expenses.",
+        "Entry fee for any of the Pyramids"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/cairo-luxor-alexandria-package.html"
+}

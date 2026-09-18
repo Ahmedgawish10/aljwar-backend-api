@@ -1,0 +1,84 @@
+{
+    "slug": "cairo-easter-vacation-deals",
+    "name": "Cairo Easter Vacation Deal",
+    "category": "easter-holiday-deals",
+    "tour_type": "easter-holiday-deals",
+    "destination": "cairo",
+    "destination_label": "Cairo",
+    "description": "Cairo Easter Vacation deals with Ibis Egypt Tours, Choose Cairo Easter Package and scout Cairo with its marvelous sites, Book Cairo Easter Holidays offers and enjoy our special prices, visit Pyramids of Giza Egyptian Museum and more with Cairo Easter offers.",
+    "overview": "Cairo Easter Vacation deals with Ibis Egypt Tours, Choose Cairo Easter Package and scout Cairo with its marvelous sites, Book Cairo Easter Holidays offers and enjoy our special prices, visit Pyramids of Giza Egyptian Museum and more with Cairo Easter offers.",
+    "duration": "5 Days",
+    "days": 5,
+    "nights": 4,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/5/c/5ce68e5a7e5b80db9c4ead0167a776ac_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/u/sultan_hassan.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/g/egyptian-museum-.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Easter Tour",
+        "Day at Leisure In Cairo",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo, to enjoy your Cairo Easter Vacation. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Easter Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned Vehicle to Start your Cairo Easter Vacation, visit three Pyramids of Cheops, Chephren and Mykerinus, next stop will be to the Panorama area, enjoy fabulous photos for the three Pyramids, short camel ride with an extra fees available on request, move towards the Sphinx, visit the Valley Temple, continue your Cairo Tour Package driving to the Step Pyramid of Sakkara ( King Zoser Pyramid ), the oldest major stone in the world, Lunch will be served at local restaurant, the last stop will be to Memphis City with an incredible visit to the open air museum contains a Huge statue of Ramses II, Shopping available to buy souvenirs to your family and friends, at the end of your tour Ibis Egypt tours will escort you back to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Cairo Easter Tour",
+            "icon": "map",
+            "description": "After Enjoying the relish of your breakfast at hotel, Ibis Egypt tours representative will pick you up from your hotel, Embrace the culture of Cairo by visiting the greatest highlights, start to visit the Egyptian Museum, explore Citadel of Salah El-Dein and the Alabaster Mosque of Mohamed Ali, manage to relax by having Lunch at local restaurant, then walk through the Old Coptic Cairo, visit the Hanging Church, Abu Serga Church, and Ben Ezra Synagogue, finally have a remarkable visit to Khan El-Khalili, then transfer back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 4",
+            "title": "Day at Leisure In Cairo",
+            "icon": "map",
+            "description": "Breakfast at hotel, it is your relaxing day in Cairo, optional excursion to visit Alexandria city where you can taste different culture at Cata Comb of Kom El-Shokafa, Qaitbai Citadel, and Alexandria Library, walk through the magnificent Montazah Palace, or try to amuse your eyes by visiting Roman amphitheatre ( If visit was allowed ), other different activities allowed at night between Dinner Cruise on the magic Nile River where you can enjoy watching real Belly Dancer and watching Folklore show, it is really different experience you have to try. Overnight in Cairo"
+        },
+        {
+            "time": "Day 5",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation in Cairo for 04 Nights on Bed & Breakfast",
+        "Excursions in Cairo for 02 Days as mentioned at the above itinerary",
+        "02 Lunches at local restaurant in Cairo while enjoying your tours",
+        "A Bottle of Mineral Water to each person",
+        "English speaking guide in Cairo",
+        "Entrance fees to the above mentioned sites as mentioned in the Itinerary",
+        "transfer to Cairo International airport on your final departure.",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Optional tours if required",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/easter-holiday-deals/cairo-easter-vacation-deals.html"
+}

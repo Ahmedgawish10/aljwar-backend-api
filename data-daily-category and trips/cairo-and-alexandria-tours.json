@@ -1,0 +1,87 @@
+{
+    "slug": "cairo-and-alexandria-tours",
+    "name": "Cairo and Alexandria Tour Package",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo & Alexandria",
+    "description": "Experience Cairo and Alexandria Tour Package with Ibis Egypt Tours. Relish a wide range of attractions and visit the Pyramids of Giza, The Egyptian Museum, then head to Alexandria and go to Qaitbay Citadel, Catacombs of el Shoqqafa and more with Ibis Tours.",
+    "overview": "Experience Cairo and Alexandria Tour Package with Ibis Egypt Tours. Relish a wide range of attractions and visit the Pyramids of Giza, The Egyptian Museum, then head to Alexandria and go to Qaitbay Citadel, Catacombs of el Shoqqafa and more with Ibis Tours.",
+    "duration": "5 Days",
+    "days": 5,
+    "nights": 4,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 445,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/4/a/4a5e9da4e729973e3de152cc9889558a_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/5/258578305_593127225336070_198668306192931761_n.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/7/f784d7dd7ffb5546c49005b7b69e945c.webp"
+    ],
+    "highlights": [
+        "Arrive in Cairo",
+        "Cairo Tour",
+        "Alexandria Tour",
+        "Day at Leisure in Cairo",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive in Cairo - A Warm Egyptian Welcome",
+            "icon": "flight",
+            "description": "As you step foot in Cairo, the vibrant energy of the city envelops you. Our friendly guide will be waiting at the airport to greet you with a warm smile and assist you with a seamless transfer to your hotel. Take a moment to relax and soak in the anticipation of the incredible experiences that lie ahead. Overnight in Cairo."
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Tour - Unveiling the Mysteries",
+            "icon": "map",
+            "description": "After a delicious breakfast, your knowledgeable guide eagerly awaits to show you the treasures of Cairo. Prepare to be awestruck as you visit the legendary Pyramids of Giza. Stand in the presence of the towering pyramids of Cheops, Chephren, and Mykerinus, capturing breathtaking photos against the backdrop of these ancient marvels. Marvel at the enigmatic Sphinx, guarding the secrets of the past. Your journey continues to the Valley Temple, where the pharaohs were prepared for their eternal journey. Next, immerse yourself in history at the Egyptian Museum, home to a vast collection of artifacts that span thousands of years. Discover the awe-inspiring treasures, including the captivating golden mask of Tutankhamun. Let the stories of ancient civilizations come alive as you explore the halls of this renowned museum. As the day winds down, indulge in a delicious lunch at a traditional Egyptian restaurant. In the evening, the city offers an array of magical experiences, from enchanting Nile River dinner cruises with mesmerizing belly dancers to captivating sound and light shows at the pyramids. Choose your evening adventure and create unforgettable memories. Overnight in Cairo."
+        },
+        {
+            "time": "Day 3",
+            "title": "Alexandria Tour - A Coastal Escape",
+            "icon": "map",
+            "description": "Today, prepare for an exciting change of scenery as you embark on a day trip to the coastal city of Alexandria. Feel the refreshing sea breeze as you explore its fascinating landmarks. Descend into the Catacombs of Kom El-Shokafa, an underground burial complex that showcases the fusion of Egyptian and Greco-Roman influences. Visit the magnificent Qaitbay Citadel, a medieval fortress standing proudly by the Mediterranean Sea. While at the citadel, marvel at the panoramic views and imagine the history that unfolded within its walls. Pass by the impressive Alexandria Library, a symbol of knowledge and enlightenment. Enjoy a delightful lunch at a local restaurant, savoring the flavors of Egyptian cuisine. As the day comes to a close, return to Cairo, reminiscing about the coastal charm and cultural wonders you experienced. Overnight in Cairo."
+        },
+        {
+            "time": "Day 4",
+            "title": "Day at Leisure in Cairo - Your Choice, Your Adventure",
+            "icon": "map",
+            "description": "Today is yours to enjoy at your leisure in Cairo. Take this opportunity to explore the captivating ruins of Memphis City, the ancient capital of Egypt, or visit the Step Pyramid of Sakkara, a mesmerizing testament to the architectural prowess of the ancient Egyptians. Alternatively, indulge in a relaxing day of shopping in Cairo's bustling markets or treat yourself to a rejuvenating spa experience. As night falls, embrace the vibrant energy of Cairo with a dinner cruise along the Nile River, where you'll be enchanted by belly dancers and traditional folklore performances. Alternatively, immerse yourself in the mystical atmosphere of the Pyramids Sound and Light Show, where history comes alive through captivating storytelling and stunning visual effects. The choice is yours, and the memories created will be cherished. Overnight in Cairo."
+        },
+        {
+            "time": "Day 5",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation in Cairo for 04 Nights on Bed & Breakfast",
+        "01 Day excursion in Cairo as mentioned at the above itinerary",
+        "01 Day excursion in Alexandria as mentioned at the above itinerary",
+        "01 Lunch at local restaurant in Cairo",
+        "01 Lunch at local restaurant in Alexandria",
+        "English speaking guide in Cairo",
+        "English speaking guide in Alexandria",
+        "A Bottle of Mineral Water to each person",
+        "Air-conditioned modern vehicle Cairo / Alexandria / Cairo",
+        "Entrance fees to the above-mentioned sites in Cairo and Alexandria as mentioned at the above itinerary",
+        "Service charges and all taxes",
+        "transfer to Cairo International airport on final departure."
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Any other optional tours if required",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/cairo-and-alexandria-tours.html"
+}

@@ -1,0 +1,126 @@
+{
+    "slug": "abu-simbel-festival-tours",
+    "name": "Egypt Package with Abu Simbel Tour",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "aswan",
+    "destination_label": "Cairo, Luxor, Aswan & Abu Simbel",
+    "description": "Our specially curated Abu Simbel Tour allows you to witness the incredible event of Abu Simbel Festival. The highlight of the festival is the mesmerizing phenomenon that occurs twice a year on February 22nd and October 22nd. As the sun rises, its rays penetrate the inner sanctuary of the Great Temple of Ramses II, illuminating the statue of the pharaoh while leaving the statue of the god Ptah in darkness. This awe-inspiring sight is a testament to the remarkable engineering and astronomical knowledge of the ancient Egyptians.",
+    "overview": "Our specially curated Abu Simbel Tour allows you to witness the incredible event of Abu Simbel Festival. The highlight of the festival is the mesmerizing phenomenon that occurs twice a year on February 22nd and October 22nd. As the sun rises, its rays penetrate the inner sanctuary of the Great Temple of Ramses II, illuminating the statue of the pharaoh while leaving the statue of the god Ptah in darkness. This awe-inspiring sight is a testament to the remarkable engineering and astronomical knowledge of the ancient Egyptians.",
+    "duration": "10 Days",
+    "days": 10,
+    "nights": 9,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/e/g/egypt-changed-my-perspective-on-travel-v0-dsxjjr72hyfb1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/_/7_hero.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/_/5.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/_/2.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo (15 October/ February )",
+        "Cairo Tours (16 October / February)",
+        "Karnak and Luxor Tours (17 October / February)",
+        "Valley of the Kings, Hatshepsut Temple (18 October / February)",
+        "Edfu and Kom Ombo Temples (19 October / February)",
+        "High Dam, Unfinished Obelisk, Philae Temple (20 October / February)"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo (15 October/ February )",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Tours (16 October / February)",
+            "icon": "map",
+            "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and The Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Enjoy your yummy Lunch at an oriental restaurant in Cairo , continue your Cairo and Nile Cruise Package by visiting the Egyptian Museum, it is one of the most famous museums in the world, next round will be to Old Cairo including visits to the various Churches there ( Visit maximum 02 churches ), visit Ben Ezra Synagogue, at the end of your day tours back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Karnak and Luxor Tours (17 October / February)",
+            "icon": "map",
+            "description": "After enjoying your breakfast, Ibis Egypt tours representative will pick you up from your hotel then transfer to Cairo domestic airport, catch your flight to Luxor, meet and assist at Luxor airport, transfer to your Nile Cruise by Ibis Egypt tours Air-conditioned van, enjoy a special excursion to visit Karnak Temple and Luxor Temple. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 4",
+            "title": "Valley of the Kings, Hatshepsut Temple (18 October / February)",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board your Nile Cruise, watch life unfold as you sail the Nile, start your round to visit Valley of the Kings, head out towards the Temple of Queen Hatshepsut, finally visit the impressive Colossi of Memnon, Lunch on board your Nile Cruise, sail to Edfu, then have dinner. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 5",
+            "title": "Edfu and Kom Ombo Temples (19 October / February)",
+            "icon": "map",
+            "description": "Breakfast on board, head out towards the Temple of Horus in Edfu, amuse your eyes while Sailing to Kom Ombo, pay a visit to the Temple shared by Two Gods Sobek and Horus, Sail to Aswan while tasting your Lunch on board, then have dinner. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 6",
+            "title": "High Dam, Unfinished Obelisk, Philae Temple (20 October / February)",
+            "icon": "map",
+            "description": "Breakfast on board, today taste unforgettable excursions to the High Dam, head towards the Unfinished Obelisk, amuse your eyes while visiting Philae Temple, Belongs to Isis and Hathor goddesses, Lunch on board your Nile Cruise, then have dinner. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 7",
+            "title": "Disembarkation - Aswan free day (21 October / February)",
+            "icon": "map",
+            "description": "Breakfast in Nile Cruise and disembarkation from the Nile Cruise. Ibis Egypt tours representative will escort you to Aswan hotel, check in the hotel, the rest of the free of leisure. Optional tour to sound and light show in Philae Temple. Overnight in Aswan"
+        },
+        {
+            "time": "Day 8",
+            "title": "Abu Simbel Sun festival (22 October / February)",
+            "icon": "map",
+            "description": "Breakfast box from your hotel, Ibis Egypt tours representative will pick you up from your Aswan hotel at 12:00 AM-midnight, transfer to Abu Simbel (Road takes around 4 hours). Ibis Egypt tours Tour guide will explain the Abu Simbel Sun Festival and celebrate the combination of Sun Festival in Abu Simbel and Human festival in Abu Simbel. The rays of the sun align on the king Ramses II twice per year on 22 October (The day of his birthday) and 22 February (The day of being a King and take the throne) with miraculous astrological unmatched on the earth. The sun aligns in a small room with four statues (Ptah, Amun-Ra, Ramses II, and Ra-Horakhty). Also, you will enjoy the folkloric shows and Nubian group dancing festive Abu Simbel Sun festival. At the end of your tour in Abu Simbel drive back to your hotel in Aswan around 11 AM. Rest of the day free of leisure. Overnight in Aswan"
+        },
+        {
+            "time": "Day 9",
+            "title": "Aswan – Cairo (23 October / February)",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast in hotel, today is your flight back to Cairo, Ibis Egypt tours representative will escort you to Aswan airport, catch your flight back to Cairo, meet & assist at Cairo domestic Airport, transfer to hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 10",
+            "title": "Final Departure (24 October / February)",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation for 03 Nights in Cairo on Bed & Breakfast",
+        "Accommodation for 02 Night in Aswan Hotel with breakfast",
+        "Accommodation for 04 Nights at 05 stars Nile Cruise on Full board including breakfast, Lunch, Dinner.",
+        "01 Day Excursion in Cairo as mentioned at the above itinerary",
+        "English speaking guide in Cairo during your sightseeing tours",
+        "01 Lunch at an oriental restaurant in Cairo",
+        "A Bottle of Mineral Water to each person",
+        "Sightseeing Tours on board the Nile Cruise including visits to :",
+        "Karnak and Luxor Temples",
+        "Valley of the Kings, Hatshepsut Temple, and Colossi of Memnon",
+        "Edfu and Kom Ombo Temples.",
+        "The High Dam, Unfinished Obelisk, and Philae Temple",
+        "All Entrance fees to the above-mentioned Excursions as mentioned at the itinerary",
+        "English speaking guide at the Nile Cruise",
+        "Service charges and all taxes",
+        "Transfer to Cairo International airport for your final departure.",
+        "Domestic flight Cairo / Luxor – Aswan / Cairo"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Any optional tours if required",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/abu-simbel-festival-tours.html"
+}

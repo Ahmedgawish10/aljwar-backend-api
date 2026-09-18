@@ -1,0 +1,80 @@
+{
+    "slug": "nile-cruise-from-cairo-to-luxor-and-aswan",
+    "name": "4 Days Nile Cruise Trip to Luxor And Aswan",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "luxor",
+    "destination_label": "Luxor & Aswan",
+    "description": "Feel ravishing with the spectacular landmarks of Nile River banks with Ibis Egypt Tours, Experience Nile Cruise from Cairo to Luxor and Aswan and date back to the ancient time, enjoy walkthrough Valley of the Kings, stare at the amazement of Unfinished Obelisk, then head out towards Philae Temple and more.",
+    "overview": "Feel ravishing with the spectacular landmarks of Nile River banks with Ibis Egypt Tours, Experience Nile Cruise from Cairo to Luxor and Aswan and date back to the ancient time, enjoy walkthrough Valley of the Kings, stare at the amazement of Unfinished Obelisk, then head out towards Philae Temple and more.",
+    "duration": "4 Days",
+    "days": 4,
+    "nights": 3,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 575,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/m/amwaj-living-stone-nile-cruise-1_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/r/3rfdsdfsd.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/y/eye_on_egypt_2585585.webp"
+    ],
+    "highlights": [
+        "Arrive Aswan",
+        "Kom Ombo Temples Tour",
+        "Visit Edfu Temple & East Bank of Luxor",
+        "Valley of the Kings and Hatshepsut Temple & Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Aswan - Aswan Sightseeing",
+            "icon": "flight",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned vehicle to Cairo airport, catch your flight to Aswan, meet and assist at Aswan airport, transfer to Five stars Nile Cruise, check into your Nile Cruise, taste your unforgettable excursions to the High Dam, head towards the Unfinished Obelisk, amuse your eyes while visiting Philae Temple, Belongs to Isis and Hathor goddesses, Lunch and dinner will be served on board your Nile Cruise. Overnight ion board your Nile Cruise"
+        },
+        {
+            "time": "Day 2",
+            "title": "Kom Ombo Temples Tour",
+            "icon": "map",
+            "description": "Breakfast on board, enjoy the scenic sailing to Kom Ombo, and explore the Temple dedicated to the two gods Sobek and Horus. Afterward, continue sailing towards Edfu, where you will have lunch on board. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 3",
+            "title": "Visit Edfu Temple & East Bank of Luxor",
+            "icon": "map",
+            "description": "Enjoy your breakfast on-board. Try a new adventure by a horse-drawn carriage to visit the Edfu Temple of God Horus. Then return to the Nile Cruise, and continue sailing to Luxor via Esna lock. Once the cruise arrives in Luxor, visit Luxor Temple and Karnak complex on the east bank of Luxor. After that, you will go back to your cruise. Enjoy your dinner on-board. In the evening, enjoy the Galabia Party on the cruise. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 4",
+            "title": "Valley of the Kings and Hatshepsut Temple & Final Departure",
+            "icon": "map",
+            "description": "Enjoy your breakfast on board before disembarking at 08:00 AM; today we will say goodbye to the Nile Cruise, as today is your final departure day from your cruise. Our Egyptology tour guide will join you to visit Hatshepsut temple, Colossi of Memnon & Valley of the Kings. , once your tour concluded Ibis Egypt tours will escort you to Luxor airport for your flight back to Cairo, meet and assist at Cairo Airport, transfer to hotel."
+        }
+    ],
+    "inclusions": [
+        "Pick up from your hotel in Cairo",
+        "Three Nights’ accommodation at 05 stars Nile Cruise including breakfast, Lunch, Dinner",
+        "Excursions on board your Nile Cruise to visit :",
+        "The High Dam, Unfinished Obelisk, and Philae Temple",
+        "Kom Ombo and Edfu Temples.",
+        "Valley of the Kings, Hatshepsut temple, and Colossi of Memnon",
+        "Karnak and Luxor Temples.",
+        "English speaking Escort will Meet and assist at Cairo, Aswan, and Luxor airports",
+        "English speaking guide on board your Nile Cruise",
+        "Entry fees to sites mentioned in the above itinerary.",
+        "Transfers in Cairo, Aswan, and Luxor by air-conditioned vehicle",
+        "Transfer back to your hotel in Cairo once your tour concluded",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Optional tours not mentioned in the above itinerary",
+        "Domestic flight Cairo / Aswan – Luxor / Cairo",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/nile-cruise-from-cairo-to-luxor-and-aswan.html"
+}

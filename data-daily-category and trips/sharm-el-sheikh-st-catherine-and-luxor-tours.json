@@ -1,0 +1,107 @@
+{
+    "slug": "sharm-el-sheikh-st-catherine-and-luxor-tours",
+    "name": "Sharm El Sheikh, St Catherine Monastery and Luxor Tour",
+    "category": "red-sea-tours",
+    "tour_type": "red-sea-tours",
+    "destination": "sharm-el-sheikh",
+    "destination_label": "Sharm El Sheikh, St Catherine & Luxor",
+    "description": "Don't miss this opportunity to enjoy a breathtaking Sharm El Sheikh, St Catherine Monastery and Luxor Tour with our Red Sea Holiday. Feast your soul at Sharm El Sheikh with its variety of activities and Luxor with its booming Pharaonic monuments, Walkthrough Colored Canyon Egypt, hike to visit St Catherine Monastery and more with Red Sea Tours.",
+    "overview": "Don't miss this opportunity to enjoy a breathtaking Sharm El Sheikh, St Catherine Monastery and Luxor Tour with our Red Sea Holiday. Feast your soul at Sharm El Sheikh with its variety of activities and Luxor with its booming Pharaonic monuments, Walkthrough Colored Canyon Egypt, hike to visit St Catherine Monastery and more with Red Sea Tours.",
+    "duration": "8 Days",
+    "days": 8,
+    "nights": 7,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/g/s/gsdfsfc_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/h/sharm-el-sheik-13.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/saint-catherines-monastery-and-mount-moses.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/moses-mountains.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/t/st.-catherine_s-monastery-in-egypt.webp"
+    ],
+    "highlights": [
+        "Arrive Sharm El Sheikh",
+        "Ras Mohammed Snorkeling (Group Tour)",
+        "St Catherine Monastery",
+        "Day at leisure in Sharm",
+        "Karnak and Luxor Temples Tour",
+        "West Bank of Luxor Tour"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Sharm El Sheikh",
+            "icon": "flight",
+            "description": "Once your flight landing at sharm Airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in sharm, manage to relax. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 2",
+            "title": "Ras Mohammed Snorkeling (Group Tour)",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, then start to scout the magic of sharm, Drive towards Ras Mohammed National Park, it is around 20 minutes, ride your boat for dazzling snorkeling trip, start sailing among coral area for snorkeling, swimming is available as well, you will have 2-3 stops at remarkable pints to watch the coral reefs, explore the under magical world of the Red sea, finally back to the dock, then Ibis Egypt tours representative will escort you back to your hotel, manage to relax and refresh, Then around 09:30 pm. We will pick you up from hotel to start your unforgettable trip to St. Catherine by air-conditioned vehicle."
+        },
+        {
+            "time": "Day 3",
+            "title": "St Catherine Monastery",
+            "icon": "map",
+            "description": "Arrive St. Catherine around 02:00 am, it is your chance to escape the crowds, try different adventure while climbing Moses mountain, enjoy the sun rising over Sinai Mountains, then come down for a magical visit to St. Catherine Monastery, passing by Room of the Skulls, the last point will be to the famous burning bush, at the end of your tour drive back to sharm. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 4",
+            "title": "Day at leisure in Sharm",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at the hotel, day at leisure in Sharm, it is your chance to escape the crowds, manage to relax at the stunning beaches of Sharm El-Sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Desert Safari at the heart of Sinai Desert from Sharm. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 5",
+            "title": "Karnak and Luxor Temples Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, then Ibis Egypt tours representative will escort you to Sharm airport, catch your flight to Luxor (Via Cairo), meet and assist at Luxor airport, transfer to your hotel, manage to relax and refresh for some time, then start to Embrace the culture of Luxor by visiting the magnificent temples Karnak and Luxor Temples, back to hotel, at night optional to the Sound and light show at Karnak Temple. Overnight in Luxor"
+        },
+        {
+            "time": "Day 6",
+            "title": "West Bank of Luxor Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, start to explore the West Bank of Luxor, walkthrough Valley of the Kings ( Visit 03 Tombs only ), watch the glory of Hatshepsut Temple, your last stop at the west Bank will be to Colossi of Memnon, then transfer to Luxor Airport, fly back to Sharm, meet & assist at Sharm airport, transfer to hotel. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 7",
+            "title": "Day at Leisure of Sharm El Sheikh",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of sharm El-Sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Desert Safari at the heart of Sinai Desert from Sharm. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 8",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Sharm airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Sharm Airport Plus transfer to hotel by air-conditioned Vehicle",
+        "Accommodation for 06 Nights at Sharm including Breakfast and all taxes",
+        "Accommodation for 01 Night in Luxor including breakfast",
+        "One day Group tour to Ras Mohammad with English speaking escort",
+        "Excursion to St. Catherine & Moses Mountain with English speaking guide",
+        "Two days excursion in Luxor as mentioned at the above itinerary including entrance fees & English speaking guide",
+        "English speaking escort at Sharm excursions",
+        "All transfers by air-conditioned van",
+        "Assist & transfer to Sharm Airport for final departure",
+        "Services charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Domestic flight Sharm / Luxor / Sharm",
+        "Visa to Egypt",
+        "Any Personal Expenses",
+        "Optional tours not mentioned in the above itinerary",
+        "Tips."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/red-sea-tours/sharm-el-sheikh-st-catherine-and-luxor-tours.html"
+}

@@ -1,0 +1,110 @@
+{
+    "slug": "sharm-el-sheikh-holidays-petra-package",
+    "name": "Sharm El Sheikh and Petra Package",
+    "category": "egypt-and-jordan-tours",
+    "tour_type": "egypt-and-jordan-tours",
+    "destination": "sharm-el-sheikh",
+    "destination_label": "Sharm El Sheikh & Petra",
+    "description": "Chill out and be more than happy with Ibis Egypt Tours through wonderful Red Sea Packages, get this exciting Sharm El Sheikh holidays and Petra package. Enjoy sharm Holiday with many activities and things to do, prepare yourself to enjoy memorable tours from Sharm To Petra City and more",
+    "overview": "Chill out and be more than happy with Ibis Egypt Tours through wonderful Red Sea Packages, get this exciting Sharm El Sheikh holidays and Petra package. Enjoy sharm Holiday with many activities and things to do, prepare yourself to enjoy memorable tours from Sharm To Petra City and more",
+    "duration": "8 Days",
+    "days": 8,
+    "nights": 7,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/5/6/565a189c85b0236ff0507cad57b2346a.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/3/234324_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/l/al-deir-monastery-petra-jordan-3a_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/e/female-traveler-at-jerash-ruins-in-jordan-1200x853.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/6/16715491177123.webp"
+    ],
+    "highlights": [
+        "Arrive Sharm El Sheikh",
+        "Ras Mohammed Snorkeling (Group Tour)",
+        "Day tour to St.Catherine",
+        "Day at leisure in Sharm El Sheikh",
+        "Sharm El Sheikh to Petra (Group Tour)",
+        "Day at Leisure in Sharm El Sheikh"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Sharm El Sheikh",
+            "icon": "flight",
+            "description": "Once your flight landing at sharm Airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, and then he will transfer you to your hotel in sharm, manage to relax. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 2",
+            "title": "Ras Mohammed Snorkeling (Group Tour)",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, then start to scout the magic of sharm, Drive towards Ras Mohammed National Park, it is around 20 minutes, ride your boat for dazzling snorkeling trip, start sailing among coral area for snorkeling, swimming is available as well, enjoy ( Lunch and Soft drinks onboard )you will have 2-3 stops at remarkable pints to watch the coral reefs, explore the under magical world of the Red sea, finally back to the dock, then Ibis Egypt tours representative will escort you back to your hotel. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 3",
+            "title": "Day tour to St.Catherine - Moses Mountain (Group Tour)",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will Pick you up early from your hotel in Sharm El Sheikh to St. Catherine around 02:00 am, it is your chance to escape the crowds, try different adventure while climbing Moses mountain, enjoy the sun rising over Sinai Mountains, then come down for a magical visit to St. Catherine Monastery, passing by Room of the Skulls, the last point will be to the famous burning bush, then have Lunch at quality restaurant at the end of your tour drive back to sharm. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 4",
+            "title": "Day at leisure in Sharm El Sheikh",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of sharm El-Sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Parasailing in Sharm El Sheikh. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 5",
+            "title": "Day at leisure in Sharm El Sheikh",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of sharm El-Sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Parasailing in Sharm El Sheikh. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 6",
+            "title": "Sharm El Sheikh to Petra (Group Tour)",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up early from your hotel in Sharm at. he will escort you to Nuweiba Marina by air-conditioned vehicle, ride your ferry boat to Aqaba, once you arrive Aqaba Port, Ibis Tour Egypt representative will help you to get your visa, and start trips from sharm el sheikh to Petra, today you will enjoy a remarkable tour to Petra which was constructed by Nabatean Arab, during the Ptolemaic era in Egypt, Petra was the center for trading for caravans, nowadays Petra considered one of the seven wonders of the world, scout Petra and gain the magic experience for this hidden city, go though long narrow siq, take a deep breath from the natural beauty, scout the human hands carved buildings, horseback riding is waiting for you at the entrance of the canyon, riding a camel is available as well with an extra fees inside Petra city, and then continue along the facades street to the beautiful Roman theatre, royal tombs, the roman colonnaded street, Qasr al-bent and The archaeological museum. lunch will be served at local restaurant in Petra, at the end of your tour Ibis Egypt tours will escort you back to Aqaba Port, take your Ferry boat back to Taba, Arrive Taba Marina, then transfer back to your hotel in Sharm. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 7",
+            "title": "Day at Leisure in Sharm El Sheikh",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of sharm El-Sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Parasailing in Sharm El Sheikh. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 8",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Sharm airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Sharm Airport Plus transfer to hotel by air-conditioned Vehicle",
+        "Accommodation for 07 Nights at Sharm on FB basis",
+        "One day Group tour to Ras Mohamed",
+        "Excursion to St. Catherine & Moses Mountain (Group Tour)",
+        "Excursion From Sharm to Petra (Group Tour)",
+        "Ferry Boat ticket Horse riding in Petra for short time",
+        "Short horse riding in Petra",
+        "04 Lunches In quality restaurant Sharm El Sheikh",
+        "01 Lunch at a quality restaurant in Petra",
+        "English speaking Tour Leader at Sharm excursions",
+        "All entrance fees for the sights are mentioned in the program",
+        "All transfers by air-conditioned van",
+        "Assist & transfer to Sharm Airport for final departure",
+        "Services charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Any Personal Expenses",
+        "Optional tours not mentioned in the above itinerary",
+        "Tips."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-and-jordan-tours/sharm-el-sheikh-holidays-petra-package.html"
+}

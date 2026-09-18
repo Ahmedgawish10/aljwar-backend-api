@@ -1,0 +1,68 @@
+{
+    "slug": "3-days-siwa-oasis-tour-from-cairo",
+    "name": "3 Days Siwa Oasis Tour from Cairo",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo & Siwa Oasis",
+    "description": "Discover the magic of Siwa Oasis on this 3-day adventure from Cairo with Ibis Egypt Tours. Explore historic sites like El Alamein and the Shali Fortress, relax at Cleopatra’s spring, and experience an exhilarating 4×4 desert safari across the Great Sand Sea. Immerse yourself in Egypt’s desert beauty, ancient history, and unique oasis culture on this unforgettable journey.",
+    "overview": "Discover the magic of Siwa Oasis on this 3-day adventure from Cairo with Ibis Egypt Tours. Explore historic sites like El Alamein and the Shali Fortress, relax at Cleopatra’s spring, and experience an exhilarating 4×4 desert safari across the Great Sand Sea. Immerse yourself in Egypt’s desert beauty, ancient history, and unique oasis culture on this unforgettable journey.",
+    "duration": "3 Days",
+    "days": 3,
+    "nights": 2,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/o/a/oasis_egypt.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/c/ecqtsyusu18.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/c/scale_1200.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/u/2/u2a9100.webp"
+    ],
+    "highlights": [
+        "Cairo – El Alamein – Marsa Matruh – Siwa Oasis",
+        "Explore Siwa Oasis – Mountain of the Dead & Cleopatra’s Spring",
+        "Siwa – Marsa Matruh – Return to Cairo"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Cairo – El Alamein – Marsa Matruh – Siwa Oasis",
+            "icon": "flight",
+            "description": "Your Ibis Egypt Tours representative and professional guide will pick you up from your hotel in Cairo to begin your unforgettable 3-day adventure. Travel along Egypt’s northwestern desert road toward El Alamein, the historic site of the Second Battle of El Alamein during World War II. Continue along the Mediterranean coast to Marsa Matruh, known for its turquoise waters and pristine beaches. Stop for a relaxing lunch before driving through the desert to the tranquil Siwa Oasis. Upon arrival, explore the historic Shali Fortress, an ancient mud-brick citadel at the heart of the oasis. Enjoy dinner and overnight in Siwa. Meals: Lunch – Dinner Overnight in Siwa"
+        },
+        {
+            "time": "Day 2",
+            "title": "Explore Siwa Oasis – Mountain of the Dead & Cleopatra’s Spring",
+            "icon": "map",
+            "description": "Enjoy your breakfast, your Ibis Egypt Tours guide will take you on a full-day exploration of Siwa Oasis. Begin with the Mountain of the Dead, famous for its Greco-Roman rock-cut tombs. Visit the Temple of the Oracle of Amun, where Alexander the Great once consulted the oracle. Then stop at Cleopatra’s Spring, a refreshing natural pool perfect for relaxation. In the afternoon, Have your Lunch and then enjoy an exhilarating 4×4 desert safari, exploring the surrounding dunes and salt lakes. Witness a breathtaking sunset over the Great Sand Sea before returning to your hotel for dinner and overnight stay in Siwa. Meals: Breakfast – Lunch – Dinner Overnight in Siwa"
+        },
+        {
+            "time": "Day 3",
+            "title": "Siwa – Marsa Matruh – Return to Cairo",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast, begin the return journey to Cairo, Ibis Egypt Tours representative will escort you back to your Cairo hotel, concluding your unforgettable Siwa Oasis adventure. Meals: Breakfast"
+        }
+    ],
+    "inclusions": [
+        "Accommodation for 2 nights in Siwa Oasis on half-board basis (breakfast and dinner)",
+        "2 lunches during day tours",
+        "Entrance fees to all sites mentioned in the itinerary,",
+        "Private air-conditioned vehicle for Cairo – Siwa – Cairo",
+        "4×4 Jeep desert safari in Siwa as per the itinerary",
+        "English-speaking Professional tour guide",
+        "Bottled mineral water per person during the tour",
+        "All service charges and taxes"
+    ],
+    "exclusions": [
+        "Personal expenses or extras at the hotels or at the tour",
+        "Optional tours if required",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/3-Days-Siwa-Oasis-Tour-from-Cairo.html"
+}

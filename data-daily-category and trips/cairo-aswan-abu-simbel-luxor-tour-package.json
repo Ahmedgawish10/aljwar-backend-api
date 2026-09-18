@@ -1,0 +1,113 @@
+{
+    "slug": "cairo-aswan-abu-simbel-luxor-tour-package",
+    "name": "Cairo, Luxor, Aswan, and Abu Simbel Tour Package",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo, Luxor, Aswan & Abu Simbel",
+    "description": "Hurry up! Join our Cairo Luxor Aswan Tour and explore Ancient Egyptian Civilization with our Egyptology expert tour guides. Visit the major attractions of Cairo, Giza, and Ancient Thebes Luxor, which has always been known as the biggest open-air museum in the world. Overland tour to Aswan and visit the magnificent temple of Abu Simbel.",
+    "overview": "Hurry up! Join our Cairo Luxor Aswan Tour and explore Ancient Egyptian Civilization with our Egyptology expert tour guides. Visit the major attractions of Cairo, Giza, and Ancient Thebes Luxor, which has always been known as the biggest open-air museum in the world. Overland tour to Aswan and visit the magnificent temple of Abu Simbel.",
+    "duration": "8 Days",
+    "days": 8,
+    "nights": 7,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 1170,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/f/b/fb_img_1692486748160.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/-/2-days-luxor-abu-simbel-tour-from-soma-bay-egypt-tours-portal.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abo_s_gallery.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/f/ef8db94a2188d767d6a0747ca0295b7c_3.webp"
+    ],
+    "highlights": [
+        "Arrive in Cairo",
+        "Cairo Sightseeing Tour",
+        "Aswan Sightseeing Tour",
+        "Abu Simbel Sightseeing Tour",
+        "Karnak and Luxor Temples Tour",
+        "West Bank of Luxor Tour (Valley of The Kings)"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive in Cairo - A Warm Egyptian Welcome",
+            "icon": "flight",
+            "description": "As you step foot in Cairo, the vibrant energy of the city envelops you. Our friendly guide will be waiting at the airport to greet you with a warm smile and assist you with a seamless transfer to your hotel. Take a moment to relax and soak in the anticipation of the incredible experiences that lie ahead. Overnight in Cairo."
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Sightseeing Tour - Secrets of the Pyramids and More",
+            "icon": "map",
+            "description": "Awaken to a new day filled with anticipation and a hearty breakfast to fuel your exploration. Your expert guide awaits, ready to lead you on a mesmerizing journey through the ages. Our first stop is the iconic Giza Plateau, where the legendary Pyramids of Cheops, Chephren, and Mykerinus stand tall against the horizon. As you approach these ancient wonders, their magnitude and mystique take your breath away. Capture the perfect snapshot and immerse yourself in the rich history that envelopes these colossal structures. Next, we venture to the Panorama area, offering a panoramic view of the pyramids that will leave you in awe. The enigmatic Sphinx awaits, guarding the secrets of the past as you stand in its presence. A visit to the Valley Temple completes this part of our adventure, allowing you to connect with the ancient rituals and traditions of the pharaohs. After working up an appetite, we invite you to savor a delicious lunch at one of Cairo's recommended restaurants, where you can indulge in the flavors of Egyptian cuisine. Energized and ready for more, we continue our tour with a visit to the Egyptian Museum, a treasure trove of antiquities that holds the key to unlocking Egypt's incredible past. Lose yourself in the captivating stories of pharaohs and queens as you marvel at the vast collection of artifacts. As the day draws to a close, we escort you to Giza train station, where you'll board the sleeping train south to Aswan. Enjoy a delightful dinner on board as the rhythmic motion of the train lulls you into a peaceful slumber. Overnight on a sleeping train heading to Aswan."
+        },
+        {
+            "time": "Day 3",
+            "title": "Aswan Sightseeing Tour - Unveiling the Jewel of the Nile",
+            "icon": "map",
+            "description": "Awake to the gentle sway of the train as it arrives at Aswan train station. Our representative is there to greet you, ready to guide you to your hotel. Take a moment to refresh and rejuvenate before setting off on an enchanting excursion through Aswan's treasures. Our first stop is the High Dam, an engineering marvel that tamed the mighty Nile River and transformed the landscape. Marvel at its grandeur and learn about its significance in modern Egypt. Next, we visit the Unfinished Obelisk, a testament to the ambitious craftsmanship of ancient Egypt. Witness the colossal size of this abandoned masterpiece, imagining the awe-inspiring sight it would have been if completed. Our journey continues to the famous Philae Temple, nestled on the picturesque Isis Island. Step into a world of ancient gods and goddesses as you explore this magnificent temple complex. Feel the spiritual energy that permeates the air and learn about the myths and legends that surround this sacred place. After working up an appetite exploring Aswan's wonders, we invite you to savor a delicious lunch at an oriental restaurant, immersing yourself in the local flavors and aromas. The remainder of the day is yours to enjoy at your leisure. You may choose to relax and soak up the tranquil atmosphere of Aswan, or join an optional tour to experience the mesmerizing Sound and Light show at Philae Temple. As the sun sets, the temple comes to life, telling the stories of ancient Egypt through a captivating spectacle of lights and sound. Overnight in Aswan."
+        },
+        {
+            "time": "Day 4",
+            "title": "Abu Simbel Sightseeing Tour - Unveiling Ancient Splendor",
+            "icon": "map",
+            "description": "Today, an unforgettable adventure awaits as we embark on a journey to Abu Simbel, a UNESCO World Heritage site that will leave you in awe. Rise early and grab your breakfast box from the hotel reception, for we have an early start to witness the magnificence of these ancient temples. Guided by our knowledgeable Egyptologist, we explore the Temple of Ramses II and the Temple of Queen Nefertari. Marvel at the intricate carvings, colossal statues, and architectural brilliance that have withstood the test of time. As you delve into the history and stories behind these temples, a deeper appreciation for the ancient world unfolds before your eyes. After our immersive experience at Abu Simbel, we return to Aswan for a well-deserved lunch. The rest of the day is yours to enjoy at your leisure, allowing you to bask in the beauty of Aswan and reflect on the wonders you have witnessed. Overnight in Aswan."
+        },
+        {
+            "time": "Day 5",
+            "title": "Karnak and Luxor Temples Tour - Unveiling the Majesty of Ancient Luxor",
+            "icon": "map",
+            "description": "Start your day with a delightful breakfast at your hotel in Aswan, as we prepare for an unforgettable journey to Luxor. Our knowledgeable guide and private air-conditioned vehicle await, ready to transport you to the land of ancient wonders. As we arrive in Luxor, a city steeped in history and grandeur, prepare to be transported back in time. Our first stop is the awe-inspiring Karnak Temple complex, a testament to the power and architectural brilliance of ancient Egypt. Next, indulge in a delicious lunch at an oriental restaurant in Luxor. Savor the flavors of Egyptian cuisine, fueling your energy for the next leg of our adventure. Our journey continues to Luxor Temple, an enchanting site that comes alive as the sun sets. As dusk descends, the temple is bathed in a magical glow, creating a captivating ambiance. As the day comes to a close, we transfer you to your hotel in Luxor, where you can unwind, relax, and reflect on the awe-inspiring experiences of the day. For those seeking an extra touch of enchantment, an optional Sound and Light show at Karnak Temple awaits, where ancient tales are narrated through a symphony of light and sound. Overnight in Luxor."
+        },
+        {
+            "time": "Day 6",
+            "title": "West Bank of Luxor Tour (Valley of The Kings)",
+            "icon": "map",
+            "description": "After enjoying a delicious breakfast at your hotel, we embark on a journey to the West Bank of Luxor, a treasure trove of archaeological wonders. Cross the majestic Nile River, as the landscape changes, and a sense of mystique fills the air. Our first destination is the legendary Valley of the Kings, where pharaohs were laid to rest in elaborate tombs. Step into the realm of the afterlife as we explore these ancient burial chambers, adorned with intricate artwork and hieroglyphics. Next, we visit the Mortuary Temple of Queen Hatshepsut, an architectural marvel nestled against the cliffs. Marvel at the grandeur and the stories etched into the walls, as you learn about the powerful female pharaoh who defied convention and left an indelible mark in history. Our final stop on the West Bank is the Colossi of Memnon, two colossal statues that have stood the test of time. These imposing guardians of the past offer a glimpse into the grandeur that once adorned the entrance to a long-lost temple. Savor a delicious lunch at an oriental restaurant in Luxor, allowing you to recharge and reflect on the enchanting journey through Luxor's ancient treasures. In the evening, we transfer you to Luxor train station, where you'll board the sleeper train back to Cairo. As the train sets off, enjoy a delightful dinner on board, and let the rhythmic motion of the train carry you into a peaceful night's sleep. Overnight on a sleeping train heading to Cairo."
+        },
+        {
+            "time": "Day 7",
+            "title": "Day at Leisure in Cairo - Your Choice, Your Adventure",
+            "icon": "map",
+            "description": "As the train arrives at Giza train station, our representative is there to greet you, ready to escort you to your Cairo hotel. Today, you have the freedom to explore the vibrant capital at your own pace. Whether you choose to relax and soak in the lively atmosphere of Cairo or embark on an optional excursion to the captivating city of Alexandria, the choice is yours. For those who opt for the Alexandria excursion, prepare to be enchanted by the highlights of this coastal gem. Marvel at the Catacombs of Kom El-Shokafa, a fascinating underground burial complex blending Egyptian, Greek, and Roman influences. Explore the historic Qaitbay Citadel, standing proudly against the Mediterranean backdrop. Visit the magnificent Alexandria Library, a modern marvel paying homage to the ancient Library of Alexandria. Stroll through the beautiful Montazah Palace gardens and discover the remnants of the Roman amphitheater (If the visit is allowed) Overnight in Cairo."
+        },
+        {
+            "time": "Day 8",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we say goodbye to Egypt. After enjoying your tasty breakfast, our representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport.",
+        "Transfer from Cairo airport to the hotel in Cairo by air-conditioned Vehicle.",
+        "Accommodation for 02 nights in Cairo on Bed & Breakfast.",
+        "Accommodation for 01 Night in Luxor on Bed & Breakfast.",
+        "Accommodation for 02 nights in Aswan on Bed & Breakfast.",
+        "Sleeper train Cairo to Aswan – Luxor to Cairo.",
+        "One Day tour to Cairo attractions.",
+        "Two Day tours in Luxor as mentioned in the above itinerary.",
+        "One-day tour to Aswan attraction.",
+        "One day tour to Abu Simbel from Aswan.",
+        "One lunch at a local restaurant in Cairo.",
+        "A Bottle of mineral water during tours.",
+        "English speaking guide during tours in Cairo, Luxor, Aswan & Abu Simbel.",
+        "Air-conditioned vehicle Aswan / Abu Simbel / Aswan.",
+        "Transportation by air-conditioned vehicle Aswan / Luxor.",
+        "Transfer from Cairo hotel to Cairo International airport.",
+        "Service charges and all taxes."
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Optional tours if required",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/cairo-aswan-abu-simbel-luxor-tour-package.html"
+}

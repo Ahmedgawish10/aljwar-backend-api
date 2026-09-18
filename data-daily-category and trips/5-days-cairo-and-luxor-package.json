@@ -1,0 +1,89 @@
+{
+    "slug": "5-days-cairo-and-luxor-package",
+    "name": "5 Days Cairo and Luxor Trip Package",
+    "category": "egypt-holiday-deals",
+    "tour_type": "egypt-holiday-deals",
+    "destination": "cairo",
+    "destination_label": "Cairo & Luxor",
+    "description": "Get Ready to see the most exciting landmarks of Ancient Egypt with our expert tour guides. 5 Days Cairo Luxor Tour Package will take you to gaze upon the amazement of Great Pyramids of Giza, enjoy walking through Old Cairo, explore some of Luxor's historic landmarks when scouting around Karnak and Luxor Temples and more.",
+    "overview": "Get Ready to see the most exciting landmarks of Ancient Egypt with our expert tour guides. 5 Days Cairo Luxor Tour Package will take you to gaze upon the amazement of Great Pyramids of Giza, enjoy walking through Old Cairo, explore some of Luxor's historic landmarks when scouting around Karnak and Luxor Temples and more.",
+    "duration": "5 Days",
+    "days": 5,
+    "nights": 4,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/d/s/dsc08675-683x1024_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/6/a6bdae853d82ecc7acff6f7ed1811f54_4.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2000x2000-0-70-46e28084d46c270a413975743a2c6bb4_3.webp"
+    ],
+    "highlights": [
+        "Arrive in Cairo",
+        "Cairo Day Tour",
+        "West Bank of Luxor Tour",
+        "Karnak and Luxor Temples Tour",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive in Cairo - A Warm Egyptian Welcome",
+            "icon": "flight",
+            "description": "As you step foot in Cairo, the vibrant energy of the city envelops you. Our friendly guide will be waiting at the airport to greet you with a warm smile and assist you with a seamless transfer to your hotel. Take a moment to relax and soak in the anticipation of the incredible experiences that lie ahead. Overnight in Cairo."
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour - Unveiling the Secrets of the Pharaohs",
+            "icon": "map",
+            "description": "Wake up to a mouthwatering breakfast that tantalizes your taste buds and energizes you for a day of exploration. Your Ibis Egypt Tours guide, a fountain of knowledge, will be at your side as you embark on an exhilarating journey through time. First stop: the legendary Pyramids of Giza. Stand before the colossal structures of Cheops, Chephren, and Mykerinus, and let the magnitude of their presence wash over you. From the Panorama area, capture a photograph that forever captures the awe-inspiring sight of these ancient marvels. But the adventure continues! Marvel at the enigmatic Sphinx and delve into the mysteries of the Valley Temple. As your appetite grows, indulge in a delectable lunch at a local restaurant in Cairo. Refueled and ready, it's time to explore the Egyptian Museum, a treasure trove of artifacts that tell the story of a civilization that once ruled the world. To end the day, wander through the enchanting streets of Old Cairo, visit historic churches, and step foot in the sacred Ben Ezra Synagogue. With a heart full of wonder, return to your hotel, where dreams of Egypt's ancient wonders will dance in your head. Overnight in Cairo."
+        },
+        {
+            "time": "Day 3",
+            "title": "West Bank of Luxor Tour - Unveiling Ancient Tombs and Temples",
+            "icon": "map",
+            "description": "Savor a delicious breakfast that fuels your anticipation for what lies ahead. Your Ibis Egypt tours representative will escort you to the airport, where a short flight takes you to Luxor, the gateway to ancient wonders. The West Bank beckons, and you answer the call. Step foot in the Valley of the Kings, where pharaohs were laid to rest in breathtaking tombs. The Temple of Queen Hatshepsut awaits, a testament to the power and ambition of a remarkable ruler. And don't forget to pay your respects to the mighty Colossi of Memnon, guardians of the past. After an enlightening day of exploration, savor a delicious lunch at a local restaurant, savoring the flavors of Egypt. Return to your hotel in Luxor, where you can reflect on the mysteries you've uncovered and prepare for the next chapter of your journey. Overnight in Luxor."
+        },
+        {
+            "time": "Day 4",
+            "title": "Karnak and Luxor Temples Tour - Where Gods and Pharaohs Converge",
+            "icon": "map",
+            "description": "Rise and shine to a breakfast fit for pharaohs, knowing that another day of wonders awaits you. Today, cross the Nile to Luxor's East Bank and immerse yourself in the grandeur of Karnak and Luxor Temples. Walk in the footsteps of ancient gods and behold the awe-inspiring architecture that has stood the test of time. As the day unfolds, it's time to bid farewell to Luxor and board a flight back to Cairo. Your Ibis Egypt tours representative will guide you every step of the way, ensuring a smooth transition. Return to your hotel in Cairo, where you can relish in the memories of Luxor while preparing for the final leg of your Egyptian adventure. Overnight in Cairo."
+        },
+        {
+            "time": "Day 5",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we say goodbye to Egypt. After enjoying your tasty breakfast, our representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned Vehicle",
+        "Accommodation for 03 nights in Cairo on Bed & Breakfast",
+        "Accommodation for 01 Night in Luxor on Bed & Breakfast",
+        "One Day tour in Cairo as mentioned in the above Itinerary",
+        "02 Day tours in Luxor as mentioned in the above itinerary",
+        "Two Lunch at a local restaurant in Cairo & Luxor",
+        "English speaking guide in Cairo",
+        "English speaking guide during in Luxor",
+        "A Bottle of Mineral Water to each person",
+        "Entrance fees to the above-mentioned sites in Cairo & Luxor",
+        "Service charges and all taxes",
+        "Transfer to Cairo International airport for final departure.",
+        "Domestic flight Cairo / Luxor / Cairo"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Any other optional tours if required",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-holiday-deals/5-Days-Cairo-and-Luxor-Package.html"
+}

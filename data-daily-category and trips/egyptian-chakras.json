@@ -1,0 +1,109 @@
+{
+    "slug": "egyptian-chakras",
+    "name": "Egyptian Chakras Package",
+    "category": "spiritual-tours-to-egypt",
+    "tour_type": "spiritual-tours-to-egypt",
+    "destination": "cairo",
+    "destination_label": "Cairo",
+    "description": "Try an amazing tour to Cairo, Aswan, Abu Simbel, and Luxor with Ibis Egypt Tours Discover the Egypt Chakras and unleash your inner adventure while staring at the amazement of Pyramids of Giza, walk through the glory of Abu Simbel, moreover feast your eyes with the fascinating finds of Luxor and Aswan and more Spiritual Tours of Egypt.",
+    "overview": "Try an amazing tour to Cairo, Aswan, Abu Simbel, and Luxor with Ibis Egypt Tours Discover the Egypt Chakras and unleash your inner adventure while staring at the amazement of Pyramids of Giza, walk through the glory of Abu Simbel, moreover feast your eyes with the fascinating finds of Luxor and Aswan and more Spiritual Tours of Egypt.",
+    "duration": "8 Days",
+    "days": 8,
+    "nights": 7,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/2/5/25151952.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/3/131889714_843128476540901_7923257027359554457_n.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/6/1684679929_polinka-top-p-garmoniya-kartinki-krasivo-28.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Fly to Luxor – Karnak & Luxor Temples Temple –Root & Sacral Chakra",
+        "Tour to Dendara and Abydos Luxor – Nile Cruise- Centers of teachings of love & initiation",
+        "Valley of the Kings, Hatshepsut Temple",
+        "Edfu and Kom Ombo Temples- Solar Plexus & Heart Chakra",
+        "Abu Simbel Temple"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Fly to Luxor – Karnak & Luxor Temples Temple –Root & Sacral Chakra",
+            "icon": "map",
+            "description": "After enjoying your breakfast, Ibis Egypt tours representative will pick you up from your hotel then transfer to Cairo domestic airport, catch your flight to Luxor, meet and assist at Luxor airport, transfer to Karnak & Luxor Temples to connect and activate your root and sacral chakras with dive into the teachings of Sekhmet and Ptah Then transfer to Luxor Hotel for Check-in. Overnight on board your Nile Cruise Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 3",
+            "title": "Tour to Dendara and Abydos Luxor – Nile Cruise- Centers of teachings of love & initiation",
+            "icon": "map",
+            "description": "By Early Morning 06:00am Ibis Egypt tours Guide will pick you up from your hotel in Luxor with breakfast Box, he will escort you to Seti I Temple (Known as Abydos Temple), it was constructed by the King Seti I, and completed by Ramses II, The Pharaohs believed that the god of underworld buried at Abydos Temple, Abydos Temple located in Sohag city around 135 km. from Luxor, The best paintings for Pharaohs and Gods already on the walls of Osiris Temple at Abydos, Lunch in Local restaurant, then move towards Dendara Temple (The Temple of Hathor), Hathor was the God for Love and joy, Dendara Temple around 60 km. from Luxor, obverse Qena Town, Dendara Temple was constructed at the Roman period, it is considered the one of the latest Temples in Egypt, Dendara Temple decoration was combined with the Roman Emperor and the Egyptian Gods, At the end of your tour transfer back to Luxor for Check-in to your Nile Cruise by Ibis Egypt tours, Dinner on Board. Overnight on board your Nile Cruise Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 4",
+            "title": "Valley of the Kings, Hatshepsut Temple",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board your Nile Cruise, watch life unfolds as you sail the Nile, start your round to visit Valley of the Kings so-called house of souls head out towards the Temple of Queen Hatshepsut, finally visit the impressive Colossi of Memnon, Lunch on board your Nile Cruise, sail to Edfu, and have dinner. Overnight on board your Nile Cruise Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 5",
+            "title": "Edfu and Kom Ombo Temples- Solar Plexus & Heart Chakra",
+            "icon": "map",
+            "description": "Breakfast on board, head out towards the Temple of Horus in Edfu, amuse your eyes while Sailing to Kom Ombo, pay a visit to the Temple shared by Two Gods Sobek and Horus, Sail to Aswan while tasting your Lunch and dinner on board. Overnight on board your Nile Cruise Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 6",
+            "title": "Abu Simbel Temple - Philae, Throat Chakra- High Dam, Unfinished Obelisk",
+            "icon": "map",
+            "description": "By Early Morning Meet by Ibis Egypt tours representative will pick you up from your Nile Cruise in Aswan with your Breakfast Box, he will escort you by air-conditioned vehicle towards the magnificent Temple of Abu Simbel, it is one of the best sights you have ever seen, Walkthrough Temple of Ramses II, and the Temple of Nefertari, both temples were endangered by submersion in Lake Nasser because of the construction of the High Dam, but the Egyptian government agreed with the rescue operation of the UNESCO for Abu Simbel Temple, Finally once your tour concluded Ibis Egypt tours representative will escort you back to your Nile Cruise in Aswan. By Afternoon Lunch on board; today taste an unforgettable excursion to the Philae Temple Throat Chakra - High Dam, head towards the Elephantine temple, Lunch and dinner on board your Nile Cruise. Overnight onboard your Nile Cruise Meals: Breakfast, Lunch & Dinner"
+        },
+        {
+            "time": "Day 7",
+            "title": "Fly Back to Cairo – Sakkara & Memphis Tours- Center of Energy",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board your Nile Cruise, today is your flight back to Cairo, Ibis Egypt tours representative will escort you to Aswan airport, catch your flight back to Cairo, meet & assist at Cairo domestic Airport By Ibis Egypt tours Guide, he will escort you by Private air-conditioned Vehicle to the Step Pyramid of Sakkara ( King Zoser Pyramid ), the oldest major stone in the world, Lunch will be served at quality local restaurant, the last stop will be to Memphis City with an incredible visit to the open air museum contains a Huge statue of Ramses II, Shopping available to buy souvenirs to your family and friends, at the end of your tour Ibis Egypt tours Guide will escort you to your hotel For Check-in in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 8",
+            "title": "Giza Pyramids Tours - Final Departure – Crown Chakra",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel after enjoying the relish of your breakfast & Check-out, enjoy your sightseeing tours to Pyramids of Giza, start your tour by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Then Ibis Egypt tours representative will escort you to Cairo International airport for final departure. Meals: Breakfast"
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation for 02 Nights in Cairo on Bed & Breakfast",
+        "Accommodation for 01 Night in Luxor on Bed & Breakfast",
+        "Accommodation for 04 Nights at 05 stars Nile Cruise on Full board including breakfast, Lunch, Dinner.",
+        "02 Days Excursions in Cairo as mentioned in the above itinerary",
+        "03 Days Excursions in Luxor as mentioned in the above itinerary",
+        "01 Day Excursion in Aswan as mentioned in the above itinerary",
+        "Private English-speaking Egyptology guide during all your sightseeing tours in Cairo and Nile Cruise",
+        "02 Lunches in Cairo serve In Quality Local Oriental Restaurants",
+        "01 Lunch in Danadar & Abydos Day Trip Serve in Quality Local Oriental Restaurants",
+        "A Bottle of Mineral Water for each person",
+        "Sightseeing Tours on board the Nile Cruise including",
+        "All Entrance fees to the above-mentioned Excursions as mentioned in the itinerary",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "International flight",
+        "Any optional tours if required",
+        "Domestic flight Cairo / Luxor – Aswan / Cairo",
+        "Tipping Optional"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/spiritual-tours-to-egypt/egyptian-chakras.html"
+}

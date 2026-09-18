@@ -1,0 +1,62 @@
+{
+    "slug": "st-catherine-monastery-tours-from-cairo",
+    "name": "2 Days st Catherine Monastery Tour from Cairo",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo & St Catherine",
+    "description": "Amuse yourself as much as possible with this fascinating day tour to St. Catherine from Cairo, feel astonishment at the Room of Skulls, Burning Bush, then head out towards climbing Moses Mountain and you can try other Cairo tours.",
+    "overview": "Amuse yourself as much as possible with this fascinating day tour to St. Catherine from Cairo, feel astonishment at the Room of Skulls, Burning Bush, then head out towards climbing Moses Mountain and you can try other Cairo tours.",
+    "duration": "2 Days",
+    "days": 2,
+    "nights": 1,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/-/a-wonderful-shot-of-st.-catherine_s-monastery-in-sinai.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-wonderful-shot-of-st.-catherine_s-monastery-with-mount-moses.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-wonderful-shot-of-the-bells-of-st.-catherine_s-monastery-in-sinai.webp"
+    ],
+    "highlights": [
+        "Arrive St. Catherine",
+        "Moses Mountains, St. Catherine Monastery"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive St. Catherine",
+            "icon": "flight",
+            "description": "Ibis Egypt Tours tour guide will pick you up from your hotel in Cairo, he will escort you by air-conditioned vehicle to unforgettable trip to St. Catherine, passing by Moses Eyes, continue driving till arrive to the seven daughters Monastery, have a short visit to the seven Daughters Monastery, continue driving till arrive to St. Catherine, check in, manage to relax at hotel, enjoy the relish of your dinner at hotel. Overnight in St. Catherine"
+        },
+        {
+            "time": "Day 2",
+            "title": "Moses Mountains, St. Catherine Monastery",
+            "icon": "map",
+            "description": "Wake up call at 01:30 am., A cup of tea will be offered to each person for free, around 02:00 am, it is your chance to escape the crowds, try different adventure while climbing Moses mountain, enjoy the sun rising over Sinai Mountains, then come down for a magical visit to St. Catherine Monastery, passing by Room of the Skulls, the last point will be to the famous burning bush, at the end of your tour drive back to Cairo."
+        }
+    ],
+    "inclusions": [
+        "Pick up from your hotel in Cairo",
+        "One Night accommodation at Morgen Land Village in St. Catherine including breakfast and Dinner",
+        "Trip to St. Catherine Monastery as mentioned at the above itinerary",
+        "A Bedouin guide upon climbing Moses Mountain",
+        "A Bottle of Mineral Water to Each person daily",
+        "02 days English speaking guide",
+        "Entry fees to the National Park of St. Catherine",
+        "Transfers by air-conditioned vehicle",
+        "Transfer back to your hotel once your tour concluded",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Optional tours not mentioned at the above itinerary",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/st-catherine-monastery-tours-from-cairo.html"
+}

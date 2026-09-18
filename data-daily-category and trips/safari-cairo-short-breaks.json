@@ -1,0 +1,92 @@
+{
+    "slug": "safari-cairo-short-breaks",
+    "name": "Safari and Cairo Short Break",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo & Desert Safari",
+    "description": "Enjoy amazing Short adventures in Egypt with Ibis Egypt Tours through our best Egypt Short Tours .Immerse yourself with Safari and Cairo Short Breaks to touch the magic of Pharaoh with unique Short Breaks to Cairo and prepare yourself for amazing adventure through our wonderful Short Safari Holidays and more.",
+    "overview": "Enjoy amazing Short adventures in Egypt with Ibis Egypt Tours through our best Egypt Short Tours .Immerse yourself with Safari and Cairo Short Breaks to touch the magic of Pharaoh with unique Short Breaks to Cairo and prepare yourself for amazing adventure through our wonderful Short Safari Holidays and more.",
+    "duration": "5 Days",
+    "days": 5,
+    "nights": 4,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/_/a_wonderful_shot_of_a_tourist_in_front_of_the_giza_pyramids.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_wonderful_shot_of_a_couple_in_front_of_the_giza_pyramids.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_wonderful_shot_of_a_tourist_from_inside_khan_el_khalili.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour (Giza Pyramids – Egyptian Museum – Khan El Khalili Bazaar)",
+        "Cairo- Bahariya Oasis",
+        "White Desert",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo Airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour (Giza Pyramids – Egyptian Museum – Khan El Khalili Bazaar)",
+            "icon": "map",
+            "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and the Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Enjoy Lunch at local restaurant in Cairo, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, then you will have amazing time for Shopping in Khan el Khalili Bazaar at the end of your day tour back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Cairo- Bahariya Oasis",
+            "icon": "map",
+            "description": "Pick Up early from your hotel at 7:00 A.m, then transfer to Bahariya Oasis, it is around 370 km and takes 5 Hours, take a rest and have Lunch , Prepare yourself to explore Golden Mummies Museum ,then you will touch the beauty of The Black Desert . Scout the Black Desert, visit the crystal mountain, the desert roses and the arch, and continue driving to the White Desert. Overnight camping at the White Desert"
+        },
+        {
+            "time": "Day 4",
+            "title": "White Desert - Cairo",
+            "icon": "map",
+            "description": "Enjoy your breakfast , drive by Jeep 4x4 in Old and White Desert, watch the formations, the wind carved sculptures that sympathize both human and animal faces Like Camel ,Chicken with eggs , Mushrooms and a lot of magnificent formations . Also you will explore a magic Spring then you will have Lunch at Ein Khudra . Prepare yourself to visit Hot and Cold Springs, English Mountain, amazing Bahariya Lake .Then Ibis Egypt tours representative will escort you back to Cairo, transfer to Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 5",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned vehicle",
+        "Accommodation for 03 Nights in Cairo including breakfast and all taxes",
+        "Camping for 01 Night at the White Desert including tents, blankets, sleeping bags and all necessary equipments",
+        "One day tour in Cairo as mentioned at the above itinerary including English speaking guide",
+        "4X4 jeep with driver for your Safari tour",
+        "Permissions required for desert Safari",
+        "Tours at the White Desert as mentioned in program",
+        "First Aid Kit during your Safari tour",
+        "One Lunch at local restaurant in Cairo",
+        "Two Lunches (Picnic/Restaurant) at your Safari tour",
+        "Bottles of Mineral water per person per day",
+        "English-speaking desert expert at your safari tour",
+        "Entrance fees to the above mentioned sites",
+        "Transfer to Cairo International airport for final departure.",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Entry visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Soft/Snacks",
+        "Optional tours if required.",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/safari-cairo-short-breaks.html"
+}

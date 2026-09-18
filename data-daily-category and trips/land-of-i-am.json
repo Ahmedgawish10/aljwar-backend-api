@@ -1,0 +1,145 @@
+{
+    "slug": "land-of-i-am",
+    "name": "Land of I Am",
+    "category": "spiritual-tours-to-egypt",
+    "tour_type": "spiritual-tours-to-egypt",
+    "destination": "cairo",
+    "destination_label": "Egypt",
+    "description": "Experience Egyptian Spirituality with Ibis Egypt Tours through amazing and wonderful Egypt Spiritual Tours , enjoy meditation in Egypt through wonderful Aswan Nile Cruise and discover the healing energies while visiting Isis Temple , Satat Temple , Edfu and Kom Ombo Temple , Valley of The Kings and Valley of Queens, Fill your Soul with energy while Pyramid meditation in Giza , Saqqara and Dahshour and feast your eyes with the gleaming view of Cairo over the highest point at Cairo Tower also unleash your inner while visiting Fayoum Oasis and more with spiritual Egypt tours with Ibis Egypt tours.",
+    "overview": "Experience Egyptian Spirituality with Ibis Egypt Tours through amazing and wonderful Egypt Spiritual Tours , enjoy meditation in Egypt through wonderful Aswan Nile Cruise and discover the healing energies while visiting Isis Temple , Satat Temple , Edfu and Kom Ombo Temple , Valley of The Kings and Valley of Queens, Fill your Soul with energy while Pyramid meditation in Giza , Saqqara and Dahshour and feast your eyes with the gleaming view of Cairo over the highest point at Cairo Tower also unleash your inner while visiting Fayoum Oasis and more with spiritual Egypt tours with Ibis Egypt tours.",
+    "duration": "14 Days",
+    "days": 14,
+    "nights": 13,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/7/a/7a69a2d9344c87c798cd282b734b2f50.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc00582-1024x683.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/20.-mygood-miages-shutterstock-2048x1365.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo, Egypt",
+        "Fly to Aswan",
+        "Isis Temple (Throat Chakra)",
+        "Aswan Crown Chakra",
+        "Day 5: Satet Temple",
+        "Day 6:Kom Ombo and Edfu Temple"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo, Egypt",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo Airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, transfer to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Fly to Aswan",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel after enjoying the relish of your breakfast, he will escort you to Cairo domestic airport, fly to Aswan, pick you up from Aswan Airport, , then he will transfer you to your hotel. Overnight in Aswan Hotel"
+        },
+        {
+            "time": "Day 3",
+            "title": "Isis Temple (Throat Chakra)",
+            "icon": "map",
+            "description": "Be ready for your Spiritual Meditation Tours and prepare yourself to make your Throat Chakra in balance to express what you think and what you Feel through wonderful visiting Isis Temple in early morning , enjoy mediation in this great temple which dedicated to Egyptian goddess Isis ( The giver of life ) then transfer to your hotel in Aswan. Overnight in Aswan"
+        },
+        {
+            "time": "Day 4",
+            "title": "Aswan Crown Chakra",
+            "icon": "map",
+            "description": "Enjoy Convoy 6 hours round trip bus ride in Aswan Experience and discover benefits of Crown Chakra and Five state of Consciousness with ibis Egypt tours in best Mediation In Egypt , transfer to your hotel. Overnight in Aswan"
+        },
+        {
+            "time": "Day 5",
+            "title": "Day 5: Satet Temple",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel after enjoying the relish of your breakfast , experience meditation in an Ancient Egyptian temple ( satet Temple ) that locates on the island of Elephantine dedicated to Satet goddess of the Nile floods. Then Complete the adventure and Check in your Nile Cruise. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 6",
+            "title": "Day 6:Kom Ombo and Edfu Temple",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast on board, amuse your eyes while Sailing to Kom Ombo it is considered the godly basis at the center of Chakra , pay a visit to the Temple shared by Two Gods Sobek Master of Fear and Horus The Protector , Kom Ombo Holding energy of Atlantean, then sail towards Edfu, we are still at the Center of Chakra, head out to visit the Temple of Horus in Edfu, where you will have the chance to have connection with your hidden emotions, sail towards Esna while tasting your lunch on board, and have dinner. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 7",
+            "title": "Luxor - West Bank",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, then Ibis Egypt tours representative will pick you up from your hotel in Luxor, he will escort you to explore west Bank of Luxor, walkthrough Valley of the Kings that contains large amout of tombs for Kings, Nobles from 18th Dynasty to 21 dynasty and head out towards Valley of the Queens where wives of Pharaohs were buried in ancient times , will escort you to your hotel in Luxor. Overnight in Nile Cruise"
+        },
+        {
+            "time": "Day 8",
+            "title": "Luxor - Local Market",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board; today we will say good bye to the Nile Cruise, today is your final departure day, disembarkation from Nile Cruise after breakfast, transfer to your hotel overnight in Luxor hotel , Visit the local market in the evening then to your hotel. Overnight in Luxor"
+        },
+        {
+            "time": "Day 9",
+            "title": "Luxor - Workers Village - Valley of Kings",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, then Ibis Egypt tours representative will pick you up from your hotel in Luxor unleash your inner by visiting Workers Village in Deir el-Medina which was a Village for artesian and workmen who worked in tombs of Valley of the Kings , head out towards the Temple of queen Hatshepsut then to your hotel. Overnight in Luxor"
+        },
+        {
+            "time": "Day 10",
+            "title": "Fly Back to Cairo",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, then Ibis Egypt tours representative will pick you up from your hotel in Luxor, he will escort you to Luxor Airport. Fly back to Cairo , meet & assist at Cairo domestic airport, transfer to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 11",
+            "title": "Cairo - Dahshur",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, feast your eyes soul by visiting the Step Pyramid of Sakkara and Dahshur Pyramid, Ibis Egypt tours tour guide will escort you first to Dahshur, visit Red and Bent Pyramid belongs to King Sneferu, once you enter the resonance chambers the energies of the Red Pyramid will be activated, Lunch will be served at local restaurant, continue visiting the step Pyramid of Sakkara ( Center Of Energy ) , discover the healing energies of the ancient which is still active at Sakkara, at the end of your tour back to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 12",
+            "title": "Cairo - The Pyramids",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel and be ready to balance Root Chakra ( I AM ) to have energy , Feel calm and self-confidence while exploring energy of Pyramids of Giza , move towards the great Pyramid of Cheops, Entrance inside the great pyramid of Cheops included, enjoy private meditation at the King Chamber of Cheops Pyramid , continue visiting Chephren and Mykerinus, next stop will be to the Panorama area, enjoy fabulous photos for the three Pyramids, short camel ride with an extra fees available on request, your last stop will be at the mighty Sphinx, Lunch will be served at local restaurant then feast your eyes with the gleaming view of Cairo over the highest point at Cairo Tower, which lies at Gezira Island , that is built in the shape of the most important plant in the lives of the ancient Egyptians, the lotus , at the end of your tour Ibis Egypt tours will escort you back to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 13",
+            "title": "Fayoum Oasis",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo at 06:00 am. Start an amazing day tour to Fayoum Oasis from Cairo Approx. 95 Km. driving from Cairo, arrive Fayoum start to scout Karanis, the ruins of the old city with its monuments belongs to Coptic, Roman and the early Islamic period, continue your tour to visit the famous Water Wheels in Fayoum, it is still found since the Ptolemaic Period, then move to Qaroun lake, one of the natural and oldest lakes in the world , Lunch will be served at local restaurant in Fayoum, continue driving to Qaroun Palace it is far from Fayoum City approx. 55 km., it is considered one of the remains of Graeco Roman City also you will explore Whale Valley ( wadi El Hitan ) which is paleontological site and designated as World Heritage Site by UNESCO , finally at the end of your Fayoum tours Ibis Egypt tours representative will escort you back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 14",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned vehicle",
+        "05 Nights Accommodation in Cairo on Bed & Breakfast",
+        "03 nights Accommodation in Aswan on Bed & Breakfast",
+        "02 Night Accommodation in Luxor including breakfast and all taxes",
+        "03 nights Accommodation at 5 stars Nile Cruise (ASW- Luxor) on Full Board basis",
+        "English speaking guide",
+        "02 Lunches at local restaurants in Cairo",
+        "01 Lunch at Local restaurant in Fayoum",
+        "A Bottle of Mineral Water to each person",
+        "One day tour to visit Fayoum Oasis with an English speaking guide",
+        "All transfers in Cairo / Luxor / Aswan / Fayoum by air-conditioned vehicle.",
+        "All service charges and taxes",
+        "Transfer to Cairo International airport on final departure.",
+        "Domestic flight Cairo / Aswan and Luxor \\ Cairo"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Meditation inside the Great Pyramid of Cheops",
+        "Any other optional tours if required",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/spiritual-tours-to-egypt/land-of-i-am.html"
+}

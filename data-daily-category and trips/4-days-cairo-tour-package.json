@@ -1,0 +1,80 @@
+{
+    "slug": "4-days-cairo-tour-package",
+    "name": "4 Days Cairo Tour Package",
+    "category": "egypt-holiday-deals",
+    "tour_type": "egypt-holiday-deals",
+    "destination": "cairo",
+    "destination_label": "Cairo",
+    "description": "Get ready to dig deep on our 4-Day Cairo Tour Package and enjoy a getaway that will introduce you to a bevy of booming cultures. Explore the history of Egypt and visit the Giza Pyramids, Saladin Citadel, and more.",
+    "overview": "Get ready to dig deep on our 4-Day Cairo Tour Package and enjoy a getaway that will introduce you to a bevy of booming cultures. Explore the history of Egypt and visit the Giza Pyramids, Saladin Citadel, and more.",
+    "duration": "4 Days",
+    "days": 4,
+    "nights": 3,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/5/c/5ce68e5a7e5b80db9c4ead0167a776ac_4_2.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/6/36808cairo_khan_bazaar_2_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/e/depositphotos_1589729_l-2015_1_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/asfgsa_a_9_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/e/gettyimages-179401783_5_2.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour",
+        "Day at Leisure in Cairo",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight lands at Cairo airport, an Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, and then he will transfer you to your hotel in Cairo, overnight in Cairo. Meal Plan: (No Meals)"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour",
+            "icon": "map",
+            "description": "Enjoy a tasty breakfast at your hotel, then an Ibis tour guide will escort you to the Pyramids of Giza and the Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren, and Mykerinus, then move to the Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, continue your Cheap Holidays to Cairo by visiting the Egyptian Museum, it is one of the most famous museums in the world, at the end of your day tour back to your hotel, overnight in Cairo. Meal Plan: (Breakfast)"
+        },
+        {
+            "time": "Day 3",
+            "title": "Day at Leisure in Cairo",
+            "icon": "map",
+            "description": "Breakfast at the hotel, it is your relaxing day in Cairo, Optional: excursion to visit Alexandria city where you can taste different cultures at the Catacombs of Kom El-Shokafa, Qaitbai Citadel, and Alexandria Library, walk through the magnificent Montazah Palace (If visit was allowed), or try to amuse your eyes by visiting Roman amphitheater, other different activities allowed at night between Dinner Cruise on the magic Nile River where you can enjoy watching real Belly Dancer and watching Folklore show, it is a different experience you have to try, overnight in Cairo. Meal Plan: (Breakfast)"
+        },
+        {
+            "time": "Day 4",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, an Ibis Egypt Tours representative will escort you to Cairo International Airport for final departure. Meal Plan: (Breakfast)"
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation in Cairo for 03 Nights on Bed & Breakfast.",
+        "Excursions in Cairo for 01 Day as mentioned in the above itinerary.",
+        "01 Lunch at a local restaurant in Cairo while enjoying your tour.",
+        "A Bottle of Mineral Water for each person.",
+        "English-speaking guide in Cairo.",
+        "Entrance fees to the above-mentioned sites as mentioned in the Itinerary.",
+        "transfer to Cairo International Airport on your final departure.",
+        "Service charges and all taxes."
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Optional tours if required",
+        "Tipping"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-holiday-deals/4-days-cairo-tour-package.html"
+}

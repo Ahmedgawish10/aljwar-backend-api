@@ -1,0 +1,109 @@
+{
+    "slug": "cairo-alexandria-siwa-oasis-safari-tours",
+    "name": "Cairo, Alexandria and Siwa Oasis Tour",
+    "category": "desert-safari",
+    "tour_type": "desert-safari",
+    "destination": "cairo",
+    "destination_label": "Cairo, Alexandria & Siwa Oasis",
+    "description": "If you are looking for experience the real adventure, Cairo, Alexandria and Siwa Oasis Safari Egypt Tours will achieve your dream, find out the secret of Giza Pyramids, walkthrough Catacombs of el Shoqafa, and then with Egypt Desert Safari stare at the old Siwan village of Shali and more with Ibis Egypt Tours.",
+    "overview": "If you are looking for experience the real adventure, Cairo, Alexandria and Siwa Oasis Safari Egypt Tours will achieve your dream, find out the secret of Giza Pyramids, walkthrough Catacombs of el Shoqafa, and then with Egypt Desert Safari stare at the old Siwan village of Shali and more with Ibis Egypt Tours.",
+    "duration": "7 Days",
+    "days": 7,
+    "nights": 6,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/-/a-wonderful-shot-of-the-couple-from-the-salt-lakes-in-siwa.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-wonderful-shot-of-a-tourist-from-the-salt-lakes-in-siwa.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_wonderful_shot_of_a_child_in_front_of_the_giza_pyramids.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour",
+        "Alexandria Tour",
+        "Alexandria to Siwa Oasis",
+        "Siwa Oasis Tour",
+        "Siwa Oasis Tour / Back to Cairo"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at cairo Airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour",
+            "icon": "map",
+            "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and the Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Enjoy Lunch at local restaurant in Cairo, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, at the end of your day tour back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Alexandria Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, Today is different day, as you will visit Alexandria city located at the the Mediterranean Sea by air-conditioned vehicle, where you can taste different culture by visiting Cata Comb of Kom El-Shokafa, Qaitbai Citadel, and Alexandria Library from outside, walk through the magnificent Montazah Palace, or try to amuse your eyes by visiting Roman amphitheatre ( If visit was allowed ), manage to realx by having lunch at local restaurant, then transfer to your hotel in Alexandria, check in. Overnight in Alexandria"
+        },
+        {
+            "time": "Day 4",
+            "title": "Alexandria to Siwa Oasis",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, then drive by 4x4 jeep to Alamein, around 60 km., explore Museum of the World war II, enjoy watching the war memorial, proceed to Marsa Matrouh, continue driving till arrive to Siwa Oasis, once you arrive Siwa Oasis, today you will discover the hidden secrets of the Egyptian Safari, discover the old Siwan village of Shali, finally transfer to your hotel, Dinner. Overnight at Siwa Dream Lodge or similar"
+        },
+        {
+            "time": "Day 5",
+            "title": "Siwa Oasis Tour",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, try different experience for tour around the city by Donkey drawn-car, Lunch will be served on route, then proceed to the Great Sand Sea, around 17 km., have some rest at the hot spring of Bir Wahid, then back to hotel, dinner. Overnight in Siwa Dream Lodge or similar"
+        },
+        {
+            "time": "Day 6",
+            "title": "Siwa Oasis Tour / Back to Cairo",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, discover the secrets of Siwa Oasis, visit the Spring of Cleopatra, then move to the Mountain of the Dead, next tour to Alexander The Great Temple ( Known as Oracle Temple ), finally drive back to Cairo, around 800-km, lunch will be served on route, arrive Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 7",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned vehicle",
+        "Accommodation for 03 Nights in Cairo including breakfast and all taxes",
+        "Accommodation for 01 Night in Alexandria including breakfast and all taxes.",
+        "Accommodation for 02 Nights in Siwa at Siwa Dream Lodge or similar on Half Board Basis",
+        "One day tour in Alexandria as mentioned at the above itinerary including English speaking guide",
+        "Three days 4x4 jeep with driver at the desert tour (Starting in Alex. till ending in Cairo)",
+        "One day tour in Cairo as mentioned at the above itinerary including English speaking guide",
+        "One Lunch at local restaurant in Cairo",
+        "One Lunch at local restaurant in Alexandria",
+        "Three lunches at the desert tour (Picnic/Restaurant)",
+        "Three bottles of mineral water per person per day plus one Soft drink per person per day",
+        "Three days English-speaking Desert Expert",
+        "Air-conditioned vehicle Cairo / Alexandria",
+        "Entrance fees to the above mentioned sites as mentioned at the above itinerary",
+        "Salty & sweet snacks available on the car during your desert tour",
+        "All required permissions for desert tour.",
+        "Assist and transfer to Cairo International airport on final departure",
+        "All Service charges and taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Entry visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Personal expenses or extras at the hotels or at the tour",
+        "Any of alcoholic drinks",
+        "Optional tours if required",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/desert-safari/cairo-alexandria-siwa-oasis-safari-tours.html"
+}

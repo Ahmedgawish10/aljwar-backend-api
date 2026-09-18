@@ -1,0 +1,108 @@
+{
+    "slug": "luxor-and-hurghada-holidays-2",
+    "name": "Hurghada and Luxor Holiday",
+    "category": "red-sea-tours",
+    "tour_type": "red-sea-tours",
+    "destination": "hurghada",
+    "destination_label": "Hurghada & Luxor",
+    "description": "Try the captivating Hurghada and Luxor Holiday, enjoy Hurghada Isles were made to sail like Mahmya and Tiran Island snorkeling trip with Red Sea Holidays, moreover head out towards Luxor where you will be able to stare at the amazement of Karnak Temple, walkthrough Valley of The Kings and more with Red Sea Travel.",
+    "overview": "Try the captivating Hurghada and Luxor Holiday, enjoy Hurghada Isles were made to sail like Mahmya and Tiran Island snorkeling trip with Red Sea Holidays, moreover head out towards Luxor where you will be able to stare at the amazement of Karnak Temple, walkthrough Valley of The Kings and more with Red Sea Travel.",
+    "duration": "8 Days",
+    "days": 8,
+    "nights": 7,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 950,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/q/j/qj5xfh2efh0.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/7/47ltom0p6fuooww0k44444kw0.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/g/egypt-desert-trips-1024x683.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a-picture-of-a-visitor-in-front-of-the-temple-of-hatshepsut.webp"
+    ],
+    "highlights": [
+        "Arrive Hurghada",
+        "Mahmya Island Tour (Optional Tour)",
+        "Giftun Island (Group Tour)",
+        "Karnak and Luxor Temples Tour",
+        "West Bank of Luxor Tour",
+        "Sindbad Submarine Tour (Group Tour)"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Hurghada",
+            "icon": "flight",
+            "description": "Once your flight landing at Hurghada Airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Hurghada. Overnight in Hurghada"
+        },
+        {
+            "time": "Day 2",
+            "title": "Mahmya Island Tour (Optional Tour)",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, Then Ibis Egypt tours representative will escort you to Hurghada Marina catch your boat for wonderful tour to mahmya Island, water activities are waiting for you including swimming, gorgeous snorkeling, lunch as well as soft drinks are served on board your boat, finally sail back to Hurghada Marina, then transfer back to your hotel. Overnight in Hurghada"
+        },
+        {
+            "time": "Day 3",
+            "title": "Giftun Island (Group Tour)",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, Then Ibis Egypt tours representative will escort you to Hurghada Marina, catch your cruise for a fascinating trip to Giftun Island the magnificent national park, your cruise will drop you to isolated beach, Take a leisurely snorkeling and swimming, enjoy the relish of your lunch on board your boat, at the end of your tour drive back to your hotel in Hurghada. Overnight in Hurghada"
+        },
+        {
+            "time": "Day 4",
+            "title": "Karnak and Luxor Temples Tour",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, then drive towards Luxor, ( Driving around 03 Hours ), once you arrive Luxor start to explore The glory of Karnak Temple with its inconceivable pillars, then move towards Luxor Temple which was established by Amenhotep III and Ramses II, have free time to enjoy shopping, Lunch is served at local restaurant, at the end of your tour transfer to your hotel for a check in. Overnight in Luxor"
+        },
+        {
+            "time": "Day 5",
+            "title": "West Bank of Luxor Tour",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, start to scout the West Bank of Luxor, walkthrough Valley of the Kings (Visit 03 tombs only ), head out towards Hatshepsut temple, your last stop at the west Bank will be to Colossi of Memnon, Lunch will be served at local restaurant in Luxor, at the end of your tour drive back to Hurghada. Overnight in Hurghada"
+        },
+        {
+            "time": "Day 6",
+            "title": "Sindbad Submarine Tour (Group Tour)",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, then around 09:00 am. Ibis Egypt tours representative will escort you to enjoy unforgettable Sindbad Submarine, it is guided tour below the Red Sea level around 25 Meters, scout the underwater magic with its landscapes and dazzling coral reefs, at the end of your tour transfer back to your hotel. Overnight in Hurghada"
+        },
+        {
+            "time": "Day 7",
+            "title": "Day at Leisure in Hurghada",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of Hurghada, plenty of water activities are waiting for you, swimming, diving or snorkeling are available, or enjoy an optional night to ALF LIELA W LIELA SHOW. Overnight in Hurghada"
+        },
+        {
+            "time": "Day 8",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Hurghada Airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Hurghada Airport plus transfer to hotel by air-conditioned Van",
+        "Accommodation for 06 Nights in Hurghada on Full Board Basis",
+        "Accommodation for 01 Nights in Luxor On Bed and Breakfast",
+        "One day tour to Giftun Island",
+        "Snorkeling equipments at Giftun Island",
+        "Two day excursion in Luxor as mentioned at the above itinerary",
+        "English speaking escort at the excursions in Hurghada",
+        "English speaking guide at Luxor excursions",
+        "Entrance fees for the above mentioned sites as mentioned in the itinerary",
+        "All transfers with private and air conditioned Vehicle",
+        "Air-conditioned vehicle Hurghada / Luxor / Hurhagda",
+        "transfer to Hurghada Airport for final departure.",
+        "Services charges and all taxes."
+    ],
+    "exclusions": [
+        "International flight",
+        "Entry visa to Egypt",
+        "Personal Expenses",
+        "Optional tours not mentioned at the above itinerary",
+        "Tips"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/red-sea-tours/luxor-and-hurghada-holidays-2.html"
+}

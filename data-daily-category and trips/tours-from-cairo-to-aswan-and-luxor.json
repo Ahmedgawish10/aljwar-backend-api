@@ -1,0 +1,116 @@
+{
+  "slug": "tours-from-cairo-to-aswan-and-luxor",
+  "name": "Luxor Aswan Tour from Cairo",
+  "category": "egypt-classic-tours",
+  "tour_type": "egypt-classic-tours",
+  "tour_type_label": "Private",
+  "destination": "luxor",
+  "destination_label": "Luxor, Aswan",
+  "description": "Explore The Land of Pharaohs with Ibis Egypt Tours through our Luxor Aswan Tour from Cairo. Visit many highlights of High Dam, Philae Temple, Abu Simbel Temple, Karnak Temple and more.",
+  "overview": "Explore The Land of Pharaohs with Ibis Egypt Tours through our Luxor Aswan Tour from Cairo. Visit many highlights of High Dam, Philae Temple, Abu Simbel Temple, Karnak Temple and more.",
+  "duration": "2 days / 1 Nights",
+  "days": 2,
+  "nights": 1,
+  "duration_hours": 48,
+  "duration_key": "multiDay",
+  "run": "Daily",
+  "group_size": "Private",
+  "pickup_time": "03:00 AM",
+  "languages": "English",
+  "tour_code": "33",
+  "rating": 0,
+  "review_count": 0,
+  "best_seller": 0,
+  "price": {
+    "amount": 410,
+    "currency": "USD"
+  },
+  "image": "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/hero.webp",
+  "image_url": "https://ibisegypttours.com/media/catalog/product/a/6/a6bdae853d82ecc7acff6f7ed1811f54_1.webp",
+  "gallery": [
+    "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/hero.webp",
+    "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/kings-valley.webp",
+    "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/hatshepsut-temple.webp",
+    "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/philae-temple.webp"
+  ],
+  "gallery_urls": [
+    "https://ibisegypttours.com/media/catalog/product/a/6/a6bdae853d82ecc7acff6f7ed1811f54_1.webp",
+    "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/i/king_s_valley_tomb_luxor.webp",
+    "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/a/hatshebust_temple1.webp",
+    "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/h/philae_temple_night.webp"
+  ],
+  "highlights": [
+    "High Dam in Aswan",
+    "Philae Temple",
+    "Valley of the Kings (3 tombs)",
+    "Hatshepsut Temple (El-Deir El-Bahary)",
+    "Colossi of Memnon",
+    "Karnak Temple"
+  ],
+  "itinerary": [
+    {
+      "time": "Day 1",
+      "title": "Cairo - Aswan - Luxor",
+      "icon": "flight",
+      "description": "At 03:00 am Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned vehicle to Cairo airport to catch your flight to Aswan (flight should be at 5:00 am), arrive at Aswan airport at approx (06:30 am) meet & assist by our representatives and Transfer to the High Dam, taste your unforgettable excursion to the High Dam that was constructed on 1960, it was built to provide Egypt with electricity and irrigation, moreover to protect Egypt from the Nile River flood, then head towards Philae Temple, Belongs to Isis and Hathor goddesses. Finally Ibis Egypt tours representative will transfer you by an air-conditioned Vehicle to your hotel in Luxor."
+    },
+    {
+      "time": "Day 2",
+      "title": "Luxor - Cairo",
+      "icon": "temple_buddhist",
+      "description": "After enjoying a delicious breakfast at your hotel, Ibis Egypt tours representative will pick you up from your hotel in Luxor, he will escort you by air-conditioned Vehicle to Luxor's west bank, walkthrough Valley of the Kings (Visit 03 Tombs only), Then move towards Hatshepsut temple, its particular decoration and design make it one of the characteristic temples, it was established by the architect Senimut for Queen Hatshepsut, the Temple was called before “Northern monastery”, Hatshepsut temple called now El-Deir El-Bahary, your last stop at the west Bank will be to Colossi of Memnon. Then transfer to the east bank of Luxor and enjoy visiting the magnificent Temple of Karnak with its large hall containing a lot of amazing Pillars, then transfer to Luxor Airport to catch your domestic flight to Cairo. Once your flight landed at Cairo Airport, Ibis Egypt tours representative will escort you back to your hotel."
+    }
+  ],
+  "inclusions": [
+    "Pick up from your hotel in Cairo plus transfer to Cairo domestic Airport.",
+    "Meet and assist at Aswan Airport upon arrival.",
+    "01 night in Luxor on Bed & Breakfast.",
+    "Excursion in Luxor as mentioned in the above itinerary.",
+    "Excursion in Aswan as mentioned in the above itinerary.",
+    "Entry fees to sites as mentioned in the above itinerary.",
+    "English-speaking guide.",
+    "A Bottle of Mineral Water for Each person.",
+    "Transfers in Cairo, Aswan, and Luxor by air-conditioned vehicle.",
+    "Service charges and all taxes.",
+    "Transfer back to your hotel in Cairo once your tour concluded."
+  ],
+  "exclusions": [
+    "Visa to Egypt.",
+    "Domestic flight (Cairo/Aswan) - (Luxor/Cairo).",
+    "Optional tours not mentioned in the above itinerary.",
+    "Tip."
+  ],
+  "accommodation": [
+    {
+      "tier": "Golden Accommodation",
+      "location": "Luxor",
+      "name": "Steigenberger Nile Palace",
+      "image": "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/steigenberger-nile-palace.webp",
+      "image_url": "https://ibisegypttours.com/media/EgyProTech/TravJexPackages/productaccommodation/image/pa47/s/t/steigenberger_nile_palace.webp",
+      "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g294205-d302600-Reviews-Steigenberger_Nile_Palace-Luxor_Nile_River_Valley.html"
+    },
+    {
+      "tier": "Silver Accommodation",
+      "location": "Luxor",
+      "name": "Iberotel Luxor",
+      "image": "/tours/packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor/iberotel-luxor.webp",
+      "image_url": "https://ibisegypttours.com/media/EgyProTech/TravJexPackages/productaccommodation/image/pa46/i/b/iberotel_luxor.webp",
+      "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g294205-d583301-Reviews-Iberotel_Luxor-Luxor_Nile_River_Valley.html"
+    }
+  ],
+  "prices": {
+    "golden": {
+      "single": 795,
+      "double": 470,
+      "triple": 410,
+      "currency": "USD"
+    }
+  },
+  "seo": {
+    "title": "Cairo Luxor Alexandria Tour | Ibis Tours",
+    "description": "With our Cairo Luxor Alexandria Tour, get to witness the charms of the Pyramids, Hatshepsut Temple, Karnak Temple, Qaitbay Citadel, and more.",
+    "keywords": "Luxor Aswan Tour From Cairo, Two day trip from Cairo to Luxor and Aswan",
+    "canonical": "https://ibisegypttours.com/en/tours-from-cairo-to-aswan-and-luxor.html"
+  },
+  "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/tours-from-cairo-to-aswan-and-luxor.html"
+}

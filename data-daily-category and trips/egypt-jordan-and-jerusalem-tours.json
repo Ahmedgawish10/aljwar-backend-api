@@ -1,0 +1,154 @@
+{
+    "slug": "egypt-jordan-and-jerusalem-tours",
+    "name": "Egypt Jordan and Jerusalem Tour",
+    "category": "egypt-and-jordan-tours",
+    "tour_type": "egypt-and-jordan-tours",
+    "destination": "cairo",
+    "destination_label": "Egypt, Jordan & Jerusalem",
+    "description": "Experience exciting Combined Tours with Ibis Egypt Tours and be ready to explore The Land of Pharaohs with best Cairo and Nile Cruise tour. Fill your eyes with beauty of Jordan in wonderful Petra and Wadi Rum tours and Travel to Jerusalem where you will explore many attractions and Sightseeing.",
+    "overview": "Experience exciting Combined Tours with Ibis Egypt Tours and be ready to explore The Land of Pharaohs with best Cairo and Nile Cruise tour. Fill your eyes with beauty of Jordan in wonderful Petra and Wadi Rum tours and Travel to Jerusalem where you will explore many attractions and Sightseeing.",
+    "duration": "14 Days",
+    "days": 14,
+    "nights": 13,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/9/e/9e65c5a5832b2ec162433c6f0c3754d6.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/4/441544671_770024911903057_3836714322160527857_n_1_.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/3/23443_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0090_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/6/868dd64d9d20992254faa6b2c51d-large_2.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/3/332_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Pyramids tour",
+        "Cairo tour – Fly to Aswan",
+        "Aswan to Abu Simbel Tour",
+        "Aswan Nile Cruise Tours",
+        "Kom Ombo and Edfu Temples"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo, Welcome Drink. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Pyramids tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned Vehicle to Start amazing Combined tours ,embrace Cairo culture by visiting great Pyramids of Giza, the three Pyramids of Cheops, Chephren and Mykerinus, next stop will be to the Panorama area, enjoy fabulous photos for the three Pyramids, short camel ride with an extra fees available on request, then move towards the Sphinx, your last stop will be to the Valley Temple Lunch will be served at quality restaurant, then drive forward to scout the Step Pyramid of Sakkara ( King Zoser Pyramid ), the oldest major stone in the world. Then move to Memphis the ancient Capital of Egypt and famous Necropolis. , at the end of your tour Ibis Egypt tours representative will escort you back to your hotel. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 3",
+            "title": "Cairo tour – Fly to Aswan",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, embrace Cairo culture by visiting The Egyptian Museum, it is one of the most famous museums in the world, it contains rare collection of Treasures for gold and jewelry for King Tutankhamen which was discovered on his tomb, ( visit the mummy room at the Egyptian Museum will be with extra fees ), then drive towards Citadel of Salah El-Dein, visit the Alabaster Mosque of Mohamed Ali, with its alabaster walls from inside and outside, explore our tours to Coptic Cairo where you will Visit The Hanging Church , Ben Ezra Synagogue then enjoy Shopping at Khan el Khalili Market , finally Ibis Egypt tours representative will escort you to Cairo Airport , Fly to Aswan. Overnight in Aswan Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 4",
+            "title": "Aswan to Abu Simbel Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Aswan, he will escort you by air-conditioned vehicle towards the magnificent Temple of Abu Simbel, it is one of the best sights you have ever seen, Walk through Temple of Ramses II, and the Temple of Nefertari, both temples were endanger by submersion in Lake Nasser because of the construction of the High Dam, but the Egyptian government agreed the rescue operation of the UNESCO for Abu Simbel Temple, Finally once your tour concluded Ibis Egypt tours representative will escort you back to your hotel . Overnight Aswan Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 5",
+            "title": "Aswan Nile Cruise Tours",
+            "icon": "map",
+            "description": "Enjoy your breakfast at your hotel then transfer to your Nile Cruise by Ibis Egypt tours Air-conditioned van, Check in before lunch, Lunch will be served on board, Start to embrace Aswan culture, Visit the High Dam, Philae Temple, and Unfinished Obelisk of queen Hatshepsut , Dinner on board. Overnight aboard your cruise Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 6",
+            "title": "Kom Ombo and Edfu Temples",
+            "icon": "map",
+            "description": "Tasty breakfast is waiting for you on board, Sail to Kom Ombo, scout the Temple shared by two gods Sobek & Haeroris in Kom Ombo, Sail to Edfu, explore Edfu Temple , lunch will be served on board your Cruise , enjoy your tea during sailing to Esna Dinner on board, Overnight aboard your cruise Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 7",
+            "title": "Luxor Nile Cruise",
+            "icon": "map",
+            "description": "Enjoy Tasty breakfast while Sailing to Luxor , visit west bank attractions is waiting for you on board, sail to Luxor , Visit Valley of the Kings, (visit only 03 tombs), next excursion to Queen Hatshepsut temple, known as El-Deir El-Bahari, explore Colossi of Memnon . Lunch will be served onboard, Dinner onboard. Overnight aboard your cruise Meals: Breakfast, Lunch, Dinner"
+        },
+        {
+            "time": "Day 8",
+            "title": "Luxor Nile Cruise - Fly to Sharm El Sheikh",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board; today we will say good bye to the Nile Cruise, today is your final departure day, disembarkation from Nile Cruise after breakfast, , unleash your inner by excursion towards the East Bank to visit ( Karnak and Luxor Temples ), afternoon tea, transfer to Luxor airport , fly to sharm El Sheikh ( Most Flights are indirect via Cairo Airport then to Sharm ) , Once you arrive Sharm El Sheikh Hotel ,Ibis Egypt tours representative will escort you to your hotel. Overnight in Sharm El Sheikh Meals: Breakfast"
+        },
+        {
+            "time": "Day 9",
+            "title": "Sharm El Sheikh Holidays",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of sharm El-Sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Parasailing in Sharm El Sheikh. Overnight in Sharm El-Sheikh Meals: Breakfast"
+        },
+        {
+            "time": "Day 10",
+            "title": "Jordan Tour to Wadi Rum",
+            "icon": "map",
+            "description": "Get Box Breakfast From your the hotel, Ibis Egypt tours representative will pick you up by our air conditioned vehicle and drive to Wadi Rum by 4*4 Jeep, the journey will take about 3 hours to Taba borders ,then transfer from Taba border to Arava Border to Cross the Jordanian by Taxi ( Fees will be Paid by yourself ), arrive the Jordanian side where you will met by another representative who will assist you in immigration , enjoy amazing landscape of Wadi rum desert, Scout to Wadi Rum and amuse your eyes by discover canyons, sand dunes, Nabatean inscriptions and a rock bridge also explore The Bedouin Life style , enjoy visiting the Wadi Um Eshreen, the Moving Sand, Al Khazali, Abu Aineh and Rum Mountain. Amuse your eyes with of Lawrence of Arabia and the famous Red Mountains. Then transfer your hotel. Overnight in Petra City. Meals: Breakfast"
+        },
+        {
+            "time": "Day 11",
+            "title": "Petra Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel. transfer by air conditioned vehicle to Petra (Red Rose city), enjoy a remarkable tour to Petra the beautiful City , nowadays Petra considered as one of the seven wonders of the world, scout Petra and gain the magic experience for this hidden city, go though long narrow siq, explore Petra ,riding a camel is available as well with an extra fees , at the end of your tour Ibis Egypt tours will escort you to Amman. Overnight in Amman Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 12",
+            "title": "Jerusalem Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will Pick you up from your hotel in Amman , head to Allenby Bridge to Leave Jordan , our tour Leader will be waiting for you , arrive Jerusalem , begin our tour to top of Mount of Olives where you will enjoy amazing view over mount temple and The Old city. descend the mountain then you will visit Gethsemane where you will see 2,000 year old Olive trees that date back to the time of Jesus where it is said that Jesus prayed and spent the night before his arrest . Then to the Western Wall- The holiest site in Judaism and one of the original walls that retained the Temple will walk via the Armenian & Jewish Quarter to the Western Wall on Muslim Quarter to the Via Dolorosa then you will arrive to Church of the Holy Sepulcher where Jesus Christ was Crucified and buried .Finally Ibis Egypt tours representative will transfer you to your hotel. Overnight in Amman Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 13",
+            "title": "Amman City Tours",
+            "icon": "map",
+            "description": "Enjoy your breakfast at Amman Hotel then prepare yourself for wonderful Amman City tour , Explore The Roman Theatre , experience Archaeological Folklore and mosque of king Abdullah , then process to explore Jerash that is the best example of a Roman Provincial City in the Middle east. Also you will explore Nymphaeum , North theatre , South Theatre ,Temple of Artemis , St.Cosmos and Demeanors Church ,at the end of your tour you transfer back to your hotel. Overnight in Amman Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 14",
+            "title": "Amman – Final Departure",
+            "icon": "map",
+            "description": "Enjoy your breakfast, our representative will escort you to Amman international airport (Queen Alia’s airport) for Final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation for 2 Nights in Cairo on Bed & Breakfast",
+        "Accommodation for 2 Night in Aswan including Breakfast",
+        "Accommodation for 3 Night in Nile Cruise Full board bases",
+        "Accommodation for 2 Night in Sharm including Breakfast",
+        "Accommodation for 1 Night in Petra including Breakfast",
+        "Accommodation for 3 Nights in Amman on Bed & Breakfast",
+        "All Sightseeing tours in Cairo, Luxor, Aswan, Abu Simbel and sharm as mentioned in the above itinerary",
+        "Amman Day Tour",
+        "2 hours Jeep tour in Wadi Rum (drives & stops).",
+        "Lunch meals through your tours in Cairo ,Abu Simbel ,Petra, Jerusalem and Amman",
+        "A Bottle of Mineral Water to each person",
+        "English Speaking guide in Egypt , Jordan and Jerusalem",
+        "All Entrance fees to the above mentioned Excursions as mentioned at the itinerary",
+        "All transfers in Egypt, Jordan, Jerusalem by air conditioned car",
+        "Domestic flights (Cairo/Aswan - Luxor/Sharm).",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt, Jordan and Israel",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Border taxes",
+        "Any optional tours if required",
+        "Israeli departure taxes via Arava Border (about 37 USD)",
+        "Israeli departure taxes at King Hussein Border.",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-and-jordan-tours/egypt-jordan-and-jerusalem-tours.html"
+}

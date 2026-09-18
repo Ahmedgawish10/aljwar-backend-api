@@ -1,0 +1,105 @@
+{
+    "slug": "cairo-and-sharm-el-sheikh-package",
+    "name": "Cairo and Sharm El Sheikh Package",
+    "category": "red-sea-tours",
+    "tour_type": "red-sea-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo & Sharm El Sheikh",
+    "description": "Start Cairo and Sharm El Sheikh Package with Ibis Egypt Tours, With Red Sea Holidays amuse yourself with Sharm El Sheikh rolling coastline and natural wonders, variety of tours with Red Sea Vacations in Sharm El-Sheikh like Ras Mohammed snorkeling tour, Desert Safari at the heart of Sinai Desert, then explore Cairo twinkling city and more with Ibis Egypt Tours.",
+    "overview": "Start Cairo and Sharm El Sheikh Package with Ibis Egypt Tours, With Red Sea Holidays amuse yourself with Sharm El Sheikh rolling coastline and natural wonders, variety of tours with Red Sea Vacations in Sharm El-Sheikh like Ras Mohammed snorkeling tour, Desert Safari at the heart of Sinai Desert, then explore Cairo twinkling city and more with Ibis Egypt Tours.",
+    "duration": "7 Days",
+    "days": 7,
+    "nights": 6,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 1110,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/2/3/2344_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/3/234324_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/r/armorx11pro-bg-17_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0046.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/0/10737795072_img_0693_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/145_14.webp"
+    ],
+    "highlights": [
+        "Arrive Sharm El Sheikh(Group Tour)",
+        "Ras Mohammed Snorkeling (Group Tour)",
+        "St Catherine Monastery (Group Tour)",
+        "Day at Leisure in Sharm",
+        "Cairo Day Tour",
+        "Day at Leisure in Sharm El Sheikh"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Sharm El Sheikh(Group Tour)",
+            "icon": "flight",
+            "description": "Once your flight landing at Sharm airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in sharm, manage to relax. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 2",
+            "title": "Ras Mohammed Snorkeling (Group Tour)",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at hotel, then start to scout the magic of sharm, Drive towards Ras Mohammed National Park, it is around 20 minutes, ride your boat for dazzling snorkeling trip, start sailing among coral area for snorkeling, swimming is available as well, you will have 2-3 stops at remarkable points to watch the coral reefs, explore the under magical world of the Red sea, finally back to the dock, then Ibis Egypt tours representative will escort you back to your hotel, manage to relax - at night optional to visit Alf Lila Wa Lila. Overnight in Sharm El-Sheikh"
+        },
+        {
+            "time": "Day 3",
+            "title": "St Catherine Monastery (Group Tour)",
+            "icon": "map",
+            "description": "Breakfast box from your hotel, then at 06:00 am. drive by air-conditioned modern van to St. Catherine, arrive St. Catherine, enjoy a magical visit to St. Catherine Monastery, passing by Room of the Skulls,continue visiting the famous burning bush, then watch Napoleon wall and Moses Well, at the end of your tour drive to Dahab, watch The Golden Calf on the way, enjoy Lunch in Dahab, then back to sharm, Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 4",
+            "title": "Day at Leisure in Sharm",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of Sharm El-sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Desert Safari at the heart of Sinai Desert from Sharm. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 5",
+            "title": "Cairo Day Tour",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, then Ibis Egypt tours representative will escort you to Sharm Airport, Catch your flight to Cairo, arrive Cairo domestic airport, start to Embrace Cairo culture by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Enjoy Lunch at oriental restaurant in Cairo, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, your last stop will be at Khan El-Khalili market, at the end of your tour transfer to Cairo domestic airport, Fly back to Sharm El Sheikh, meet & assist at Sharm Airport, transfer to hotel. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 6",
+            "title": "Day at Leisure in Sharm El Sheikh",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast at your hotel, it is your chance to escape the crowds, manage to relax at the stunning beaches of Sharm El-sheikh, different water activities are waiting for you including swimming, diving or snorkeling, optional to try Desert Safari at the heart of Sinai Desert from Sharm. Overnight in Sharm El Sheikh"
+        },
+        {
+            "time": "Day 7",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Sharm International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Sharm El Sheikh Airport plus transfer to hotel by air-conditioned vehicle",
+        "Accommodation for 06 Nights in Sharm El Sheikh including Breakfast and Dinner",
+        "(Group Tour) to Sharm El Sheikh with English speaking escort",
+        "One day Group snorkeling trip to Ras mohamed by Boat as mentioned at the itinerary",
+        "Group tour to St. Catherine as mentioned at the above itinerary",
+        "One day tour in Cairo as mentioned at the above itinerary",
+        "English speaking guide in St. Catherine and Cairo",
+        "All transfers in Sharm, St. Catherine and Cairo by private air conditioned Vehicle",
+        "Entrance fees to the above sites as mentioned in the itinerary",
+        "Assist & transfer to Sharm El Sheikh Airport for final departur",
+        "Services charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Domestic flight Sharm / Cairo / Sharms",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Any Personal Expenses",
+        "Optional tours not mentioned in the program",
+        "Tips"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/red-sea-tours/cairo-and-sharm-el-sheikh-package.html"
+}

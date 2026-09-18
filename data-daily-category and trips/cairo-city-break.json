@@ -1,0 +1,72 @@
+{
+    "slug": "cairo-city-break",
+    "name": "Cairo City Break Tour Package",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo",
+    "description": "Treat yourself to be amazed while try Cairo City Break where you will be able to stare at the Pyramids of Giza, walk-through at the Egyptian Museum and more with Short Breaks to Egypt, amuse your eyes with the ravishing Citadel of Salah el Din and more gleaming finds of Egypt Short Tours you will explore with Cairo Short Breaks",
+    "overview": "Treat yourself to be amazed while try Cairo City Break where you will be able to stare at the Pyramids of Giza, walk-through at the Egyptian Museum and more with Short Breaks to Egypt, amuse your eyes with the ravishing Citadel of Salah el Din and more gleaming finds of Egypt Short Tours you will explore with Cairo Short Breaks",
+    "duration": "3 Days",
+    "days": 3,
+    "nights": 2,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 245,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/5/7/574cac1ebcde8083b04af3fbe2ee5bb3.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/0/5062875426808befb6e7edf31f61a048.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/a/hand-made-traditional-egyptian-lamps-at-khan-el-khalili-market-in-cairo-egypt.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour",
+            "icon": "map",
+            "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and the Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren, and Mykerinus, proceed to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, lunch will be served at local restaurant, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, next round will be to Old Cairo including visits to the various Churches there ( Visit maximum 02 churches ), visit Ben Ezra Synagogue, enjoy your lunch at an oriental restaurant at the end of your day tour back to your hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned modern vehicle",
+        "Accommodation for 02 Nights in Cairo including Breakfast and all taxes",
+        "One day excursion in Cairo as mentioned in the above itinerary",
+        "One Lunch at an oriental restaurant in Cairo",
+        "A bottle of Mineral Water to each person",
+        "English speaking guide at Cairo excursion",
+        "Entrance fees to the above-mentioned sites as mentioned in the above itinerary",
+        "Transfers in Cairo by air-conditioned vehicle",
+        "Transfer to Cairo International airport for final departure.",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Entry Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Optional tours not mentioned at the above itinerary",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/cairo-city-break.html"
+}

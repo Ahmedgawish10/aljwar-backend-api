@@ -1,0 +1,105 @@
+{
+    "slug": "cairo-to-jordan-travel",
+    "name": "Road from Cairo to Jordan Travel",
+    "category": "egypt-and-jordan-tours",
+    "tour_type": "egypt-and-jordan-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo & Jordan",
+    "description": "Are you ready for new adventure Travel? get the Chance and try amazing Egypt and Jordan travel Packages with Ibis Egypt Tours, experience Egypt history with Cairo tours and prepare yourself for marvelous Jordan Holidays full of wonderful tours to Jordan attractions and more with Ibis Egypt tours.",
+    "overview": "Are you ready for new adventure Travel? get the Chance and try amazing Egypt and Jordan travel Packages with Ibis Egypt Tours, experience Egypt history with Cairo tours and prepare yourself for marvelous Jordan Holidays full of wonderful tours to Jordan attractions and more with Ibis Egypt tours.",
+    "duration": "7 Days",
+    "days": 7,
+    "nights": 6,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/3/b/3b55ba6b0b7447affddf9fcca5e1ae70.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/5/058_kl_1_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/6/868dd64d9d20992254faa6b2c51d-large_3.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0062_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo- Welcome to the Land of The History",
+        "Pyramids Tour",
+        "Cairo Tour",
+        "Cairo to Amman",
+        "Madaba / Mt. Nebo / Dead Sea",
+        "Petra Tour"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo- Welcome to the Land of The History",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo, and have your welcome drink. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Pyramids Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned Vehicle to Start amazing Combined tours ,embrace Cairo culture by visiting great Pyramids of Giza, the three Pyramids of Cheops, Chephren and Mykerinus, next stop will be to the Panorama area, enjoy fabulous photos for the three Pyramids, short camel ride with an extra fees available on request, then move towards the Sphinx, your last stop will be to the Valley Temple Lunch will be served at quality restaurant, then drive forward to scout the Step Pyramid of Sakkara ( King Zoser Pyramid ), the oldest major stone in the world. Then move to Memphis the ancient Capital of Egypt and famous Necropolis. , at the end of your tour Ibis Egypt tours representative will escort you back to your hotel. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 3",
+            "title": "Cairo Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, embrace Cairo culture by visiting The Egyptian Museum, it is one of the most famous museums in the world, then drive towards Citadel of Salah El-Dein, visit the Alabaster Mosque of Mohamed Ali, with its alabaster walls from inside and outside, explore our tours to Coptic Cairo where you will Visit The Hanging Church , Ben Ezra Synagogue then enjoy Shopping at Khan el Khalili Market , finally Ibis Egypt tours representative will escort you to your hotel. Overnight in Cairo Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 4",
+            "title": "Cairo to Amman",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, and then Ibis Egypt tours representative will escort you to Cairo International Airport, catch your flight to Amman, once your flight landing at Queen Alia airport, Ibis Egypt tours representative will escort you to your hotel. Overnight in Amman"
+        },
+        {
+            "time": "Day 5",
+            "title": "Madaba / Mt. Nebo / Dead Sea",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, and then Ibis Egypt tours representative will escort you to Mount Nebo there is a Memorial for Musa (Moses) .then explore The Old Monastery , overlook the Jordan Valley, Dead Sea, Jericho and Jerusalem .Enjoy amazing visit is to Madaba, where the St George's Greek Orthodox Church has a famous mosaic on the floor. The mosaic shows the pilgrimage from the surrounding areas to the Holy Land. You can even find Egypt on this map! Our last stop will be in the Dead Sea, the lowest point on earth, 417 m (1,373 ft.) below sea level and the largest \"Natural Spa\" in the world. The mineral-rich waters and mud flow with natural health and beauty benefits acclaimed globally. You’ll have time for your own. Float on the Dead Sea and make the experience not being able to sink in water. The panoramic view overlooks the Jordan River Valley, the Dead Sea, . Try the beauty effect of the black mud on the shore. Evening, heading back to Amman. Overnight in Amman Hotel Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 6",
+            "title": "Petra Tour",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel; we will begin to explore the Red Rose City Petra. First established sometime around the 06th century BC by Nabataean Arabs, a nomadic tribe who settled in the area and laid the foundations of a commercial empire that extended into Syria. Despite successive attempts by the Seleucid king Antigonus, the Roman emperor Pompey and Herod the Great to bring Petra under the control of their respective empires, Petra remained largely in Nabataean hands until around 100AD, when the Romans took over. It was still inhabited during the Byzantine period, when the former Roman Empire moved its focus east to Constantinople, but declined in importance thereafter. The Crusaders constructed a fort there in the 12th century, but soon withdrew, leaving Petra to the local people until the early 19th century, when it was visited by the Swiss explorer Johann Ludwig Burckhardt. Upon arrival you will begin an unforgettable trip on horseback to the Siq and then by foot until you reach the Treasury. The local guide will give a brief history of the city. You will also see Pharaoh's Castle, the Triumphal Arch, the Amphitheater and Monastery. Late afternoon, we departure to Amman and assist with checking you into your hotel. Overnight in Amman Meals: Breakfast, Lunch"
+        },
+        {
+            "time": "Day 7",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at your hotel, today we will say good bye to Jordan, it is your final departure day, after breakfast, Ibis Egypt tours representative will escort you to Queen Alia Airport for final departure. Meals: Breakfast"
+        }
+    ],
+    "inclusions": [
+        "Meet and assist on arrival and departure by Ibis Egypt tours representatives",
+        "English speaking guide in Cairo",
+        "03 nights’ accommodation in Cairo hotel includes Breakfast",
+        "03 nights’ accommodation in Amman hotel includes Breakfast",
+        "2 day tours in Cairo as mentioned in the above itinerary",
+        "One Day tour in Petra as mentioned at the above itinerary",
+        "Short horse riding in Petra.",
+        "Lunch meals during tours in Giza/Cairo/Petra/Amman",
+        "One Bottle of Mineral Water to each person",
+        "English speaking assistant in Madaba , dead Sea , Mount Nebo",
+        "English tour guide in Petra",
+        "All transfers by Air-conditioned vehicle",
+        "All entrance fees to all sightseeing that mentioned in The Itinerary",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight (Egypt – Jordan)",
+        "Visa to Egypt and Jordan",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Private Expenses",
+        "Optional tours not mentioned at the above itinerary",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-and-jordan-tours/cairo-to-jordan-travel.html"
+}

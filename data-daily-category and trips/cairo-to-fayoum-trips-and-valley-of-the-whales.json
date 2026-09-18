@@ -1,0 +1,60 @@
+{
+    "slug": "cairo-to-fayoum-trips-and-valley-of-the-whales",
+    "name": "2 Days Cairo to Fayoum Trip and Valley of the Whales",
+    "category": "short-breaks",
+    "tour_type": "short-breaks",
+    "destination": "cairo",
+    "destination_label": "Cairo & Fayoum",
+    "description": "Unleash your inner with amazing Cairo to Fayoum Trips and valley of the whales Tours in memorable Cairo Excursions with Ibis Egypt Tours , be ready for many things to do in Fayoum City Like amazing tours to explore Qarun Lake one of oldest lakes in the world and touch the beauty of the nature at Wadi Rayan , enjoy amazing and memorable tour to explore Valley of The Whales ( Wadi Hitan ) and more with Ibis Egypt tours .",
+    "overview": "Unleash your inner with amazing Cairo to Fayoum Trips and valley of the whales Tours in memorable Cairo Excursions with Ibis Egypt Tours , be ready for many things to do in Fayoum City Like amazing tours to explore Qarun Lake one of oldest lakes in the world and touch the beauty of the nature at Wadi Rayan , enjoy amazing and memorable tour to explore Valley of The Whales ( Wadi Hitan ) and more with Ibis Egypt tours .",
+    "duration": "2 Days",
+    "days": 2,
+    "nights": 1,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/1/3/137261513_434113701340718_7674728345891754508_n.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/h/whales-valley-3.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/5/357eddd6ce06f38476d42af39abf3284.webp"
+    ],
+    "highlights": [
+        "Fayoum Day Tour",
+        "Wadi Al Hitan"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Fayoum Day Tour",
+            "icon": "flight",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo at 06:00 am. Start an amazing day tour to Fayoum from Cairo Approx. 95 Km. driving from Cairo; to Qaroun lake, in Egypt where visit Wadi El Rayan the famous Water Wheels in Fayoum , it is still found since the Ptolemaic Period, Lunch will be served at a restaurant in Fayoum, after that visit Wadi El Rayan the wonderful waterfalls then enjoy unforgettable tour to explore Madi City which dates to The Middle Kingdom and contains rains of temples had built by King Amenemhat III and Amenenmhat IV , then move to Wadi Hitan (Valley of the Whales) and enjoy camping at Wadi Hitan. Overnight at Wadi Al Hitan"
+        },
+        {
+            "time": "Day 2",
+            "title": "Wadi Al Hitan - Mudawara Mountain",
+            "icon": "map",
+            "description": "Enjoy breakfast and be ready for Wadi Hitan Tour , explore wadi El Hitan (Whale Valley ) which is paleontological site and designated as World Heritage Site by UNESCO then explore the wonderful Mudawara Mountain through your way to Qaroun Palace which considered as one of the remains of Graeco Roman City, scout Karanis, the ruins of the old city with its monuments belongs to Coptic, Roman and the early Islamic period, finally at the end of your Fayoum trips Ibis Egypt tours representative will escort you back to Cairo."
+        }
+    ],
+    "inclusions": [
+        "Pick up from your hotel in Cairo",
+        "Overnight camping at Wadi Hitan",
+        "Lunch at restaurant in Fayoum",
+        "A Bottle of Mineral Water to Each person",
+        "English speaking guide at the above mentioned sites",
+        "Entry fees to the sites mentioned at the above itinerary",
+        "Air-conditioned Vehicle Cairo / Fayoum / Cairo",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "Visa to Egypt",
+        "Optional tours not mentioned at the above Itinerary",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/short-breaks/cairo-to-fayoum-trips-and-valley-of-the-whales.html"
+}

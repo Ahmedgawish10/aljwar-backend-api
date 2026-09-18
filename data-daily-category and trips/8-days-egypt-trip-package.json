@@ -1,0 +1,110 @@
+{
+    "slug": "8-days-egypt-trip-package",
+    "name": "8 Days Egypt Tour Package: Cairo, Luxor and Aswan by Air",
+    "category": "egypt-holiday-deals",
+    "tour_type": "egypt-holiday-deals",
+    "destination": "cairo",
+    "destination_label": "Cairo, Luxor & Aswan",
+    "description": "Relish the wonders of Egypt with the best Egypt Travel Package. In 8 days, you will visit the highlights of Cairo, Luxor, and Aswan. Discover the secrets of the great Pyramids at Giza and visit the biggest archeological museum in the Middle East, The Egyptian Museum, which is the home of a massive collection of Pharoahnic masterpieces. Cruise the River Nile from Luxor to Aswan and enjoy the mix of relaxation while discovering the famous sites.",
+    "overview": "Relish the wonders of Egypt with the best Egypt Travel Package. In 8 days, you will visit the highlights of Cairo, Luxor, and Aswan. Discover the secrets of the great Pyramids at Giza and visit the biggest archeological museum in the Middle East, The Egyptian Museum, which is the home of a massive collection of Pharoahnic masterpieces. Cruise the River Nile from Luxor to Aswan and enjoy the mix of relaxation while discovering the famous sites.",
+    "duration": "8 Days",
+    "days": 8,
+    "nights": 7,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 1170,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/l/u/luxor_temple_88ii_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/sphinx_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/h/philae_temple_in_aswan_1.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0043_2_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo, Egypt",
+        "Cairo & Giza sightseeing tours",
+        "Cairo Fly to Luxor",
+        "Valley of the Kings, Hatshepsut Temple -Sailing to Edfu",
+        "Nile Cruise Tour: Edfu",
+        "Nile Cruise- High Dam, Unfinished Obelisk, Philae Temple"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo, Egypt",
+            "icon": "flight",
+            "description": "We provide meet & assist services at Cairo airport around the clock. Ibis Egypt Tours REP will be waiting for you at the arrival hall, holding a board reflecting your name. Our REP will help you in finishing the airport formalities, visa, customs, and luggage pick-up. then he will escort you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo & Giza sightseeing tours",
+            "icon": "map",
+            "description": "Enjoy a tasty breakfast at the hotel in Cairo. Your tour guide will pick you up from the reception to start the sightseeing tour of the Pyramids of Giza. Visit the three Pyramids of Cheops, Chephren, and Mykerinus, then move to see the Great Sphinx and the Valley Temple. We serve lunch meals at a high-quality restaurant near the Pyramids. Proceed to the Egyptian Museum, the oldest archaeological museum in the Middle East, which houses the largest collection of Pharaonic antiquities in the world. We conclude the day by visiting Old Cairo's famous Hanging Church, and Ben Ezra synagogue. Drive back to your hotel for an overnight stay. Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Cairo Fly to Luxor - Karnak & Luxor Temples Tour",
+            "icon": "map",
+            "description": "Early check-out after enjoying your breakfast at the hotel in Cairo. Our REP will pick you up from the reception to leave for Cairo Airport, to fly to Luxor. Upon your arrival at Luxor airport, our REP will be waiting for you to transfer to the Nile Cruise. Check-in and lunch meal will be ready at the ship restaurant by 13:00. Around 14:00 our tour guide will be waiting for you at the Nile cruise reception. Start a guided tour of the East bank to see the famous Karnak temple complex and Luxor Temple. Back to the ship for dinner and overnight on board in Luxor. Overnight onboard your Nile River Cruise"
+        },
+        {
+            "time": "Day 4",
+            "title": "Valley of the Kings, Hatshepsut Temple -Sailing to Edfu",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board your Nile Cruise in Luxor. Our tour guide will accompany you on a guided tour to the famous tombs at the Valley of the Kings, and the Temple of Queen Hatshepsut. On your way back to the ship you will visit the massive colossal statues, the Colossi of Memnon. Lunch on board the Nile Cruise while sailing south to Esna onto Edfu. Dinner & overnight onboard the ship in Edfu. Overnight onboard your Nile River Cruise"
+        },
+        {
+            "time": "Day 5",
+            "title": "Nile Cruise Tour: Edfu - Kom Ombo Temples",
+            "icon": "map",
+            "description": "Breakfast on board the cruise in Edfu. A new adventure is waiting for you by a horse-drawn carriage to visit the Temple of God Horus. Back to the ship for lunch while sailing to Kom Ombo. Enjoy tea & coffee while relaxing at the sundeck. Arriving Kom Obo before sunset and again a guided tour to the Temple of Kom Ombo shared by two Gods Sobek and Horus. Back to the Cruise to continue the sailing south to Aswan. Dinner & overnight on board. Overnight onboard your Nile River Cruise"
+        },
+        {
+            "time": "Day 6",
+            "title": "Nile Cruise- High Dam, Unfinished Obelisk, Philae Temple",
+            "icon": "map",
+            "description": "Early morning arrival in Aswan, then we serve the breakfast onboard the ship. We recommend starting the tour as early as possible to avoid the sun heat, especially in Summer. Visit the High Dam, Unfinished Obelisk, and the final stop will be at Philae Temple in Isis Island, dedicated to the two Goddesses Isis and Hathor. We drive back to the ship for lunch. The rest of the day is at leisure on your own in Aswan, as you may be interested to make some extra activities or tours. Dinner & overnight onboard the ship in Aswan. Overnight onboard your Nile River Cruise"
+        },
+        {
+            "time": "Day 7",
+            "title": "Aswan to Cairo",
+            "icon": "map",
+            "description": "Disembark the cruise in Aswan after breakfast. Our REP will escort you to Aswan airport to fly back to Cairo. On arrival at Cairo Airport, Enjoy an optional tour to the National Museum of Egyptian Civilization, located in Fustat city, the first capital of Egypt after the Islamic conquest. The museum was partially opened in 2017, and displays a huge collection of 50.000 artifacts, reflecting the Egyptian Civilization across prehistoric times to the present day. transfer to hotel in Cairo for overnight stay. Overnight in Cairo"
+        },
+        {
+            "time": "Day 8",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will escort you to Cairo International airport for final departure. The pick-up time from the hotel depends on your flight departure time."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport.",
+        "Accommodation for 03 nights in Cairo on bed & breakfast",
+        "Accommodation for 04 nights at 05 stars Nile Cruise on full board.",
+        "01 Day trip to Pyramids, Egyptian Museum and Old Cairo",
+        "English-speaking guide in Cairo during the tours.",
+        "01 Lunch at a good restaurant in Cairo.",
+        "A Bottle of mineral water for each person.",
+        "Sightseeing tours between Luxor & Aswan while cruising the River Nile.",
+        "All entrance fees to the above-mentioned attractions.",
+        "English-speaking guide staying with you aboard the Nile Cruise.",
+        "Transfer to the hotel by air-conditioned modern Van.",
+        "Transfer to Cairo International airport for your final departure.",
+        "Service charges and all taxes."
+    ],
+    "exclusions": [
+        "International flight.",
+        "Domestic flight Cairo to Luxor & Aswan to Cairo.",
+        "Visa to Egypt.",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Any optional tours if required.",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-holiday-deals/8-Days-Egypt-trip-Package.html"
+}

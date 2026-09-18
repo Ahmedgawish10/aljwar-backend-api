@@ -1,0 +1,104 @@
+{
+    "slug": "cairo-luxor-aswan-alexandria-holidays-packages",
+    "name": "Cairo, Luxor, Aswan and Alexandria Tours Package",
+    "category": "egypt-luxury-tours",
+    "tour_type": "egypt-luxury-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo, Luxor, Aswan & Alexandria",
+    "description": "Travel to Egypt and make tours around Egypt with Ibis Egypt Tours, Cairo, Luxor, Aswan, and Alexandria Tours. Enjoy Egypt Luxury Tours and visit the amazing sightseeing in Cairo like Giza Pyramids and Egyptian Museum, then Travel to Luxor and visit Karnak temple and Valley of the Kings, after that move to Aswan to visit Aswan High Dam and beautiful temple, continue to Alexandria and visit Qaitbay Citadel, Alexandria Library, catacombs of Kom El Shokafa and best highlights of Alexandria",
+    "overview": "Travel to Egypt and make tours around Egypt with Ibis Egypt Tours, Cairo, Luxor, Aswan, and Alexandria Tours. Enjoy Egypt Luxury Tours and visit the amazing sightseeing in Cairo like Giza Pyramids and Egyptian Museum, then Travel to Luxor and visit Karnak temple and Valley of the Kings, after that move to Aswan to visit Aswan High Dam and beautiful temple, continue to Alexandria and visit Qaitbay Citadel, Alexandria Library, catacombs of Kom El Shokafa and best highlights of Alexandria",
+    "duration": "7 Days",
+    "days": 7,
+    "nights": 6,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 1565,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/8/8/88888.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/145_3.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/r/3rfdsdfsd_1.webp"
+    ],
+    "highlights": [
+        "Arrival In Cairo",
+        "The Pyramids",
+        "Sakkara",
+        "Cairo",
+        "Luxor"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrival In Cairo",
+            "icon": "flight",
+            "description": "Once your flight lands at Cairo airport, Ibis Egypt tours representative will be waiting for you with a sign with your name on it, then transfer to your hotel in Cairo, accommodation in Cairo. After your flight lands at Cairo airport, Ibis Egypt tours representative will be waiting for you with a sign with your name on it, then transfer to your hotel in Cairo, accommodation in Cairo."
+        },
+        {
+            "time": "Day 2",
+            "title": "The Pyramids - The Egyptian Museum - Khan El Khalili",
+            "icon": "map",
+            "description": "Enjoy a delicious breakfast at your hotel, Ibis Egypt tours guide will accompany you to the Pyramids of Giza and The Egyptian Museum, start your tour visiting the three pyramids of Cheops, Chephren and Mycerinus, then move to the panoramic area, enjoy fabulous photos of the three pyramids, next move to the Sphinx, visit the Valley Temple, enjoy lunch at a local restaurant in Cairo, continue your tour visiting The Egyptian Museum, it is one of the most famous museums in the world, visit the great market of Khan el Khalili, at the end of your day tours return to your hotel, overnight in Cairo. Optional: Dinner tour on Nile Cruise in Cairo."
+        },
+        {
+            "time": "Day 3",
+            "title": "Sakkara - Memphis - The Coptic Quarter",
+            "icon": "map",
+            "description": "Enjoy a delicious breakfast at your hotel, Ibis Egypt tours guide will accompany you to the step pyramid of Sakkara, followed by a visit to the pyramids of Unas and Oser-Kaf. Visit the royal tombs of Ti and Pta-Hotep (carved and painted tombs), Then go to Memphis the ancient capital of Egypt, where the colossal statue of Ramses II and the great alabaster sphinx, then visit the part of Coptic Cairo, as Egypt was one of the first countries to embrace Christianity. We visit the Church of Abu-Serga and St. Barbara, Hanging Church, and we will also visit the ancient Jewish synagogue Ben Ezra synagogue. Overnight in Cairo."
+        },
+        {
+            "time": "Day 4",
+            "title": "Cairo - Luxor",
+            "icon": "map",
+            "description": "Breakfast, transfer to the airport to travel to Luxor. Arrival and transfer to your hotel in Luxor. Start your full day tour visiting the west bank (Valley of the Kings, Colossi of Memnon and the temple of Hatshepsut), drive to the Valley of the Kings, visit the tombs of several dynasties, the temple of Deir El Bahari. On the way back we have a stop to see the Colossi of Memnon which are two gigantic statues depicting Amenophis III facing the Nile and visit the temple of Queen Hatshepsut, then visit the East Bank, excursion to Luxor Temple to see its courtyard and the granite statues of Ramses, a Great proceed by car or bus to Karnak, which is a series of temples built in different kingdoms, starting with the Avenue of the Sphinxes, visit the unfinished Propylon, the hypostyle hall with its 134 gigantic columns, the obelisks of Queen Hatshepsut and Thutmose III, the temple of Amon adorned with lotus and papyrus designs, the granite Scarbeus of Amenophis III and the sacred lake. Overnight in Luxor."
+        },
+        {
+            "time": "Day 5",
+            "title": "Luxor - Aswan",
+            "icon": "map",
+            "description": "Breakfast at the hotel, Ibis Egypt tours guide will meet you at Luxor Hotel. He will transfer you to Aswan by air-conditioned vehicle to start visiting the High Dam, amuse your eyes while visiting the temple of Philae, belongs to Isis and Hathor goddesses, at the end transfer to your hotel in Aswan and overnight."
+        },
+        {
+            "time": "Day 6",
+            "title": "Cairo - Alexandria - Cairo",
+            "icon": "map",
+            "description": "Breakfast at El Hotel, then transfer to Aswan airport to fly to Cairo, arrival in Cairo and transfer to your hotel. Ibis Egypt tours guide will pick you up from your hotel in Cairo, he will escort you to Alexandria by air-conditioned Vehicle. Scout Alexandria the pearl of the Mediterranean sea, prepare to be blown away by the magnificence of different culture while visiting Cata Comb of Kom El-Shokafa, Qaitbai Citadel from outside, and Alexandria Library, walk through the magnificent Montazah Palace, amuse your eyes by visiting Roman amphitheatre ( If visit was allowed ), manage to relax by having lunch at quality restaurant in Alexandria,at the end transfer to Cairo return and overnight at your hotel."
+        },
+        {
+            "time": "Day 7",
+            "title": "Cairo - Departure",
+            "icon": "map",
+            "description": "Breakfast at the hotel, Ibis Egypt tours representative will accompany you to the airport and assist you at the airport before final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel And Sightseeing by air-conditioned modern Vehicle.",
+        "Accommodation for 04 Nights in Cairo on Bed & Breakfast",
+        "Accommodation for 01 Night in Luxor on Bed & Breakfast",
+        "Accommodation for 01 Night in Aswan on Bed & Breakfast",
+        "Full day tour Cairo: Pyramids, Sphinx & Egyptian Museum.",
+        "Full day tour Cairo: Saqqara, Memphis & Cairo Coptic District.",
+        "Full day tour Alexandria: Pompey’s Pillar, Roman Amphitheater, New Alexandria Library, Catacomb’s, Montazah Garden & Qaitbay Fortress (from outside).",
+        "Sightseeing Tours at Luxor & Aswan visits to:",
+        "The High Dam, and Philae Temple, Valley of the Kings, Hatshepsut temple, and Colossi of Memnon, Karnak and Luxor Temples",
+        "A Bottle of Mineral Water to each person",
+        "Excellent Private English Speaking Guide during the sightseeing tour.",
+        "Transportation by air-conditioned vehicle Luxor/Aswan.",
+        "Entrance fees to the above-mentioned Excursions as mentioned in the itinerary"
+    ],
+    "exclusions": [
+        "Egypt tourist visa.",
+        "International & Domestic Airfare.",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Tips for drivers, guides, representatives, hotel, Nile Cruise etc.",
+        "Normal Tipping in Egypt is USD $ 05.00 per person per day.",
+        "Drinks, Beverages & Mineral water during all the meals.",
+        "Any Personal expenses.",
+        "Entry fee for any of the Pyramids & the Mummies Room inside the Egyptian Museum."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-luxury-tours/cairo-luxor-aswan-alexandria-holidays-packages.html"
+}

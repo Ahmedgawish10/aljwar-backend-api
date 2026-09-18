@@ -1,0 +1,83 @@
+{
+    "slug": "5-days-cairo-tour-package",
+    "name": "5 Days Cairo Tour Package",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo",
+    "description": "Get ready to dig deep on our 5 Days Cairo Tour Package and enjoy a getaway that will introduce you to a bevy of booming cultures. Explore the history of Egypt and visit the Giza Pyramids, Saladin Citadel, and more.",
+    "overview": "Get ready to dig deep on our 5 Days Cairo Tour Package and enjoy a getaway that will introduce you to a bevy of booming cultures. Explore the history of Egypt and visit the Giza Pyramids, Saladin Citadel, and more.",
+    "duration": "5 Days",
+    "days": 5,
+    "nights": 4,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 425,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/3/1/311fe6d78c910212a49ba08e663a7434_2.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/0/a0d43b1a-0833-11ee-ba4a-56976f4843f3.1080x810_6.webp"
+    ],
+    "highlights": [
+        "Arrive in Cairo",
+        "Cairo Day Tour",
+        "Day at Leisure in Cairo",
+        "Final Departure"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive in Cairo - A Warm Egyptian Welcome",
+            "icon": "flight",
+            "description": "As you step foot in Cairo, the vibrant energy of the city envelops you. Our friendly guide will be waiting at the airport to greet you with a warm smile and assist you with a seamless transfer to your hotel. Take a moment to relax and soak in the anticipation of the incredible experiences that lie ahead. Overnight in Cairo."
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour - Unveiling Ancient Wonders",
+            "icon": "map",
+            "description": "Awaken your inner explorer as we embark on a journey through time. Our representative will pick you up from your hotel in Cairo in air-conditioned vehicle. Head to the first stop, the legendary Giza Plateau, home to the iconic Pyramids of Giza. Marvel at the sheer grandeur of the Great Pyramid of Khufu, and the mystical allure of the Pyramid of Chefren, and the marvels of the Pyramid of Mykerinus, the enigmatic Sphinx, and the Valley Temple. Prepare to be captivated by the tales of pharaohs and ancient mysteries that echo through these ancient structures. Take fabulous photos, or enjoy short camel ride with an extra fees available on request. Continue your Cairo Tour Package driving to the Step Pyramid of Sakkara (King Zoser Pyramid), the oldest major stone in the world. Lunch will be served at local restaurant, Our last stop will be to Memphis City with an incredible visit to the open air museum. Discover the charms of the statue of Ramses II, shop available to buy souvenirs to your family and friends, at the end of your tour Ibis Egypt Tours will escort you back to your hotel in Cairo. Overnight in Cairo."
+        },
+        {
+            "time": "Day 3",
+            "title": "Cairo Day Tour - Immersion in History and Culture",
+            "icon": "map",
+            "description": "After Enjoying the relish of your breakfast at hotel, Ibis Egypt tours representative will pick you up from your hotel. Venture to the Egyptian Museum, a treasure trove of antiquities. Wander through its hallowed halls and admire the awe-inspiring artifacts. Our first stop is the Citadel of Salah El Din, a majestic fortress that offers panoramic views of the city. Explore the stunning Mosque of Muhammad Ali, a true architectural marvel that boasts intricate designs and a peaceful ambiance. Lunch at local restaurant, then walk through the Old Coptic Cairo. Visit the Hanging Church, Abu Serga Church, and Ben Ezra Synagogue, finally have a remarkable visit to Khan El-Khalili, then transfer back to your hotel. Overnight in Cairo."
+        },
+        {
+            "time": "Day 4",
+            "title": "Day at Leisure in Cairo - Your Choice, Your Adventure",
+            "icon": "map",
+            "description": "Breakfast at hotel. Then enjoy a relaxing day in Cairo at you pace. Take an optional excursion to visit Alexandria city where you will taste different culture at Cata Comb of Kom El-Shokafa, Qaitbai Citadel, and Alexandria Library. Walk through the magnificent Montazah Palace, or try to treat yourself by visiting Roman amphitheatre (If the visit is allowed) Other different activities allowed at night. Dinner Cruise on the magic Nile River where you can enjoy Belly Dancing show and watching Folklore show. Overnight in Cairo."
+        },
+        {
+            "time": "Day 5",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we say goodbye to Egypt. After enjoying your tasty breakfast, our representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned modern Van.",
+        "Accommodation in Cairo for 4 Nights on Bed & Breakfast.",
+        "Excursions in Cairo for 2 Days as mentioned at the above itinerary.",
+        "English speaking guide in Cairo.",
+        "2 Lunches at a local restaurant in Cairo while enjoying your tours.",
+        "A Bottle of Mineral Water to each person.",
+        "Entrance fees to the above-mentioned sites as mentioned in the Itinerary.",
+        "Service charges and all taxes.",
+        "transfer to Cairo International airport on your final departure."
+    ],
+    "exclusions": [
+        "International flight",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Visa to Egypt",
+        "Optional tours if required",
+        "Tipping"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/5-Days-Cairo-Tour-Package.html"
+}

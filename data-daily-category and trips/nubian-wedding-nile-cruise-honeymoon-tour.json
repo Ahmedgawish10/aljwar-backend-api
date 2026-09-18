@@ -1,0 +1,123 @@
+{
+    "slug": "nubian-wedding-nile-cruise-honeymoon-tour",
+    "name": "Cairo, Nile Cruise and Nubian Wedding Honeymoon Package",
+    "category": "honeymoon-packages",
+    "tour_type": "honeymoon-packages",
+    "destination": "cairo",
+    "destination_label": "Cairo, Nile Cruise & Nubian Wedding",
+    "description": "For an unforgettable Honeymoon Packages or a special romantic getaway, Ibis Egypt Tours offering Cairo, Nile Cruise, and Nubian Wedding Honeymoon Package, enjoy the romantic atmosphere of the Luxury Nile river boat, stare at Hatshepsut Temple, and explore the simple life of Nubian People and more with Egypt Honeymoon.",
+    "overview": "For an unforgettable Honeymoon Packages or a special romantic getaway, Ibis Egypt Tours offering Cairo, Nile Cruise, and Nubian Wedding Honeymoon Package, enjoy the romantic atmosphere of the Luxury Nile river boat, stare at Hatshepsut Temple, and explore the simple life of Nubian People and more with Egypt Honeymoon.",
+    "duration": "9 Days",
+    "days": 9,
+    "nights": 8,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/7/3/73a6fca34b95e310673fd5e96dac1c57.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0043.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/e/featured-abu-dhabi_1.webp"
+    ],
+    "highlights": [
+        "Arrive Cairo",
+        "Cairo Day Tour",
+        "Abu Simbel Tour",
+        "Nubia Wedding (Zaffa)",
+        "Aswan Day Tour",
+        "Kom Ombo Temples Tour"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Cairo",
+            "icon": "flight",
+            "description": "Once your flight landing at Cairo airport, Ibis Egypt tours representative will be waiting for you, holding a sign with your name, then he will transfer you to your hotel in Cairo. Overnight in Cairo"
+        },
+        {
+            "time": "Day 2",
+            "title": "Cairo Day Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from your hotel after enjoying the relish of your breakfast, enjoy your sightseeing tours to Pyramids of Giza and the Egyptian Museum, start your tour by visiting the three Pyramids of Cheops, Chephren and Mykerinus, then move to Panorama area, enjoy fabulous photos for the three Pyramids, next move to the Sphinx, visit the Valley Temple, Lunch will be served at local restaurant, continue your tour by visiting the Egyptian Museum, it is one of the most famous museums in the world, at the end of your tour transfer to Giza train station for departure to Aswan by night Sleeper train, and have dinner. Overnight on Sleeper train"
+        },
+        {
+            "time": "Day 3",
+            "title": "Abu Simbel Tour",
+            "icon": "map",
+            "description": "Ibis Egypt tours representative will pick you up from Aswan train station, then he will escort you to your hotel, check in, manage to refresh, then drive towards the magnificent temples of Abu Simbel by air-conditioned vehicle, enjoy a fascinating day tour to Abu Simbel Temple, scout Nefertari and Ramses II Temples, finally our representative will escort you back to Aswan by air-conditioned vehicle. Overnight in Aswan"
+        },
+        {
+            "time": "Day 4",
+            "title": "Nubia Wedding (Zaffa)",
+            "icon": "map",
+            "description": "Enjoy your tasty breakfast at hotel, Then Ibis Egypt tours Representative will escort you to enjoy a felucca ride to the Nubian village, feel the life of Nubian with its simplicity and its nice people, enjoy Nubian celebration ( Zaffa ) where you will be welcomed upon your arrival, listen to the Nubian Music and feel its beauty, finally Ibis Egypt tours will escort you back to Aswan. Overnight in Aswan"
+        },
+        {
+            "time": "Day 5",
+            "title": "Aswan Day Tour",
+            "icon": "map",
+            "description": "Ibisi Tours Egypt representative will pick you up from your hotel in Aswan, then he will escort you to your Nile Cruise, embarkation to your Nile Cruise, Prepare to explore the wonders that await you. Begin with a visit to the majestic High Dam, a marvel of modern engineering. Next, marvel at the Unfinished Obelisk and delve into the history of the mighty Philae Temple, dedicated to the goddesses Isis and Hathor. As the day ends, you'll be escorted to your Nile Cruise, ready to embark on an unforgettable journey from Aswan to Luxor enjoy a delectable dinner onboard your Nile Cruise and spend a restful night as you sail along the Nile's tranquil waters. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 6",
+            "title": "Kom Ombo Temples Tour",
+            "icon": "map",
+            "description": "Breakfast on board, enjoy the scenic sailing to Kom Ombo, and explore the Temple dedicated to the two gods Sobek and Horus. Afterward, continue sailing towards Edfu, where you will have lunch on board. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 7",
+            "title": "Visit Edfu Temple & East Bank of Luxor",
+            "icon": "map",
+            "description": "Enjoy your breakfast on-board. Try a new adventure by a horse-drawn carriage to visit the Edfu Temple of God Horus. Then return to the Nile Cruise, and continue sailing to Luxor via Esna lock. Once the cruise arrives in Luxor, visit Luxor Temple and Karnak complex on the east bank of Luxor. After that, you will go back to your cruise. Enjoy your dinner on-board. In the evening, enjoy the Galabia Party on the cruise. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 8",
+            "title": "West Bank Tour",
+            "icon": "map",
+            "description": "Enjoy your breakfast on board before disembarking at 08:00 AM; today we will say goodbye to the Nile Cruise, as today is your final departure day from your cruise. Our Egyptology tour guide will join you to visit Hatshepsut temple, Colossi of Memnon & Valley of the Kings. Finally today is your flight back to Cairo, Ibis Egypt tours representative will escort you to Luxor airport, catch your flight back to Cairo, meet & assist at Cairo domestic Airport, transfer to hotel. Overnight in Cairo"
+        },
+        {
+            "time": "Day 9",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Today we will say goodbye to Egypt, once you enjoy your tasty breakfast, Ibis Egypt tours representative will escort you to Cairo International airport for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet at Cairo International Airport plus transfer to hotel by air-conditioned Vehicle.",
+        "Two Nights’ accommodation in Cairo including Breakfast and all taxes",
+        "Two Nights’ accommodation in Aswan including Breakfast and all taxes",
+        "Three Nights’ accommodation at 05 stars Nile Cruise with breakfast, Lunch and Dinner.",
+        "One Night Sleeper train Cairo / Aswan, Including breakfast and dinner.",
+        "One day tour in Cairo as mentioned a the above itinerary",
+        "Excursion to Abu Simbel Temple including Entrance fees and English speaking guide",
+        "One Day Wedding excursion at the Nubian Village in Aswan to celebrate your wedding with Nubian music and Nubian band",
+        "Sightseeing Tours at the Nile Cruise including visits to:",
+        "The High Dam, Unfinished Obelisk, and Philae Temple",
+        "Kom Ombo and Edfu Temples",
+        "Valley of the Kings, Hatshepsut temple, and Colossi of Memnon",
+        "Karnak and Luxor Temples",
+        "One Lunch at local restaurant in Cairo",
+        "Entrance fees to the sites mentioned at the above itinerary",
+        "English speaking guide at the sightseeing tours in Cairo",
+        "A Bottle of Mineral Water to each person",
+        "Air-conditioned vehicle Aswan / Abu Simbel / Aswan",
+        "Transfers in Cairo / Aswan / Abu Simbel / Luxor by air-conditioned van",
+        "Transfer to Cairo International airport for final departure.",
+        "Domestic flight Luxor / Cairo",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Optional tours",
+        "Tip."
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/honeymoon-packages/nubian-wedding-nile-cruise-honeymoon-tour.html"
+}

@@ -1,0 +1,86 @@
+{
+    "slug": "st-catherine-cairo-alexandria-holy-land-tours",
+    "name": "Best of Egypt Religious Tour",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "cairo",
+    "destination_label": "Cairo, Alexandria, St Catherine & Taba",
+    "description": "Immerse yourself with the Best of Egypt Religious Tours and enjoy Islamic Cairo, Alexandria, St Catherine, and Taba. Get to visit Saint Catherine Monastery, Mount Sinai, in Alexandria, Morsi Abu Abbas Mosque, Citadel Of Salah El Din, and in Cairo, Amr Ibn El ASS Mosque and more.",
+    "overview": "Immerse yourself with the Best of Egypt Religious Tours and enjoy Islamic Cairo, Alexandria, St Catherine, and Taba. Get to visit Saint Catherine Monastery, Mount Sinai, in Alexandria, Morsi Abu Abbas Mosque, Citadel Of Salah El Din, and in Cairo, Amr Ibn El ASS Mosque and more.",
+    "duration": "5 Days",
+    "days": 5,
+    "nights": 4,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/l/alabaster_mosque_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/t/mt_sinai.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/asfgsa_a_2.webp"
+    ],
+    "highlights": [
+        "Arrive Taba – St, Catherine",
+        "St, Catherine – Cairo",
+        "Pyramids – Museum – Islamic Mosques Tour",
+        "Alexandria Tour",
+        "Departure day"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrive Taba – St, Catherine",
+            "icon": "flight",
+            "description": "Ibis Egypt Tours will meet and assist Taba border, drive to Taba via air conditioned car to your hotel in Saint Catherine Overnight. (Breakfast, Dinner) Overnight in Taba"
+        },
+        {
+            "time": "Day 2",
+            "title": "St, Catherine – Cairo",
+            "icon": "map",
+            "description": "After breakfast visit Saint Catherine Monastery and Mount Sinai and drive to Cairo. On the way visit Ouyon Mousa, Suez Tunnel .Arrive at Cairo. If time permits visit Imam Shafi, Nafeesat al Misriya. Felucca Ride over River Nile in Cairo Overnight in Cairo"
+        },
+        {
+            "time": "Day 3",
+            "title": "Pyramids – Museum – Islamic Mosques Tour",
+            "icon": "map",
+            "description": "After your tasty Breakfast in Hotel, get ready for full day tour in Cairo to visit Pyramids of Giza, Egyptian Museum, the Sphinx and Valley of Temple, at noon visit Muhammad Ali Alabaster Mosque and Lunch in Downtown area. In the afternoon, visit selection of the most famous mosques (Amr Ibn El ASS, Sayeda Zeinab, Al Hussein and Ibn Tulun) Dinner & Overnight in Cairo (Breakfast, Lunch) Note the schedule of visits will be decided by guide as per the situation in Cairo but covers all the places mentioned in the itinerary. Overnight in Cairo"
+        },
+        {
+            "time": "Day 4",
+            "title": "Alexandria Tour",
+            "icon": "map",
+            "description": "After breakfast Over day to the City of Alexandria , Alexandra library ( outside view) Daniel Nabi, Lukhman El Hakeem, Morsi Abu Abbas Mosque , Saad Zaghloul Square , and Outer View of Qaitbay Forte Back to Cairo Overnight. Overnight in Cairo"
+        },
+        {
+            "time": "Day 5",
+            "title": "Departure day",
+            "icon": "map",
+            "description": "After breakfast, then transfer to Cairo international Airport for departure flight. (Breakfast only)."
+        }
+    ],
+    "inclusions": [
+        "Entry Visa to Egypt",
+        "Airport /border meet and assist and transfer to Hotel",
+        "Private transfer Cairo / Saint Catherine / Taba",
+        "Accommodation for 3 Nights in Cairo on Bed & Breakfast",
+        "Accommodation for 1 Night in Four Stars Hotel in Saint Catherine on Breakfast& Dinner",
+        "Full Day Tour in Cairo as per Itinerary",
+        "Over day to Alexandria",
+        "Full Board Meal Plan as per Itinerary",
+        "Private Guide",
+        "Entrance Fees",
+        "Daily Bottle Water per person",
+        "Taxes and Service Charges"
+    ],
+    "exclusions": [
+        "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian Museum: USD 25 per person",
+        "Entrance inside any of the pyramids will be with extra fees (Tickets can be booked on the Spot) -1st Great Pyramids: 35.00 USD$ - 2nd Pyramids OR 3rd Pyramid: 15.00 USD$",
+        "Tipping",
+        "Personal Expenses"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/st-catherine-cairo-alexandria-holy-land-tours.html"
+}

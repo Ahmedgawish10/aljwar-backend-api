@@ -3,36 +3,36 @@
 namespace Database\Seeders;
 
 use App\Models\DailyTourCategory;
+use Database\Seeders\Concerns\MapsDailyTourSeedData;
 use Illuminate\Database\Seeder;
 
 class DailyTourCategorySeeder extends Seeder
 {
+    use MapsDailyTourSeedData;
+
     public function run(): void
     {
-        $path = base_path('data/daily-tours/categories.json');
+        $categories = $this->loadPackageCategories();
 
-        if (! file_exists($path)) {
-            $this->command?->error("Missing seed file: {$path}");
+        if ($categories === []) {
+            $this->command?->error('Missing seed file: data-daily-category and trips/tour-packages.json');
             return;
         }
 
-        $json = json_decode(file_get_contents($path), true);
-        $items = $json['data'] ?? $json;
         $slugs = [];
 
-        foreach ($items as $index => $item) {
-            $attrs = $item['attributes'] ?? $item;
-            $slugs[] = $attrs['slug'];
+        foreach ($categories as $index => $item) {
+            $slugs[] = $item['slug'];
 
             DailyTourCategory::updateOrCreate(
-                ['slug' => $attrs['slug']],
+                ['slug' => $item['slug']],
                 [
-                    'name' => $attrs['name'],
-                    'description' => $attrs['description'] ?? null,
-                    'image' => $attrs['image_url'] ?? $attrs['image'] ?? null,
-                    'icon' => $attrs['icon'] ?? null,
-                    'is_active' => $attrs['is_active'] ?? true,
-                    'sort_order' => $attrs['sort_order'] ?? $index,
+                    'name' => $item['name'],
+                    'description' => $this->shorten($item['description'] ?? $item['overview'] ?? null, 220),
+                    'image' => $item['image_url'] ?? $item['image'] ?? null,
+                    'icon' => $item['icon'] ?? null,
+                    'is_active' => true,
+                    'sort_order' => $item['sort_order'] ?? $index,
                 ]
             );
         }

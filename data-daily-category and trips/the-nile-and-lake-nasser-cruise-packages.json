@@ -1,0 +1,117 @@
+{
+    "slug": "the-nile-and-lake-nasser-cruise-packages",
+    "name": "Nile and Lake Nasser Cruise Package",
+    "category": "egypt-classic-tours",
+    "tour_type": "egypt-classic-tours",
+    "destination": "aswan",
+    "destination_label": "Nile & Lake Nasser",
+    "description": "Don't miss our Nile and Lake Nasser Cruise Package with Ibis Egypt Tours. Feast your eyes with the gleaming treasures of Pharaohs and get to experience the best of Luxor, Aswan and Lake Nasser. Visit the Valley of the kings, Temple of Queen Hatshepsut, Philae Temple, Penout tomb, Wadi El Seboua, and many more attractions.",
+    "overview": "Don't miss our Nile and Lake Nasser Cruise Package with Ibis Egypt Tours. Feast your eyes with the gleaming treasures of Pharaohs and get to experience the best of Luxor, Aswan and Lake Nasser. Visit the Valley of the kings, Temple of Queen Hatshepsut, Philae Temple, Penout tomb, Wadi El Seboua, and many more attractions.",
+    "duration": "10 Days",
+    "days": 10,
+    "nights": 9,
+    "duration_key": "multiDay",
+    "run": "Everyday",
+    "group_size": "Private",
+    "languages": "English",
+    "price": {
+        "amount": 0,
+        "currency": "USD"
+    },
+    "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/n/i/nile_felluca__cairo__egypt_1.webp",
+    "gallery_urls": [
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/o/kom-ombo.webp",
+        "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/d/edfucourt.webp"
+    ],
+    "highlights": [
+        "Arrival Luxor",
+        "Luxor Nile Cruise Excursion",
+        "Edfu and Kom Ombo",
+        "Aswan Nile Cruise Tours",
+        "Abu Simbel Temple",
+        "Kasr Ibrim, Amada, Wadi Es Seboua"
+    ],
+    "itinerary": [
+        {
+            "time": "Day 1",
+            "title": "Arrival Luxor - Nile Cruise",
+            "icon": "flight",
+            "description": "Ibis Tours Egypt representative will assist you at Luxor Airport, then he will escort you by air conditioned Vehicle to 5 Star Nile Cruise for embarkation, enjoy your lunch and spend interesting time, then enjoy your dinner. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 2",
+            "title": "Luxor Nile Cruise Excursion",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board, Start to embrace the culture, walkthrough Valley of the Kings, head out towards the Temple of Queen Hatshepsut, and visit the magnificent Colossi of Memnon, tasting your lunch on board, sailing to Edfu via the Esna Lock. Then have dinner. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 3",
+            "title": "Edfu and Kom Ombo - Sail to Aswan",
+            "icon": "map",
+            "description": "Tasty breakfast is waiting for you on board, scout Horus Temple in Edfu, Lunch will be served on board, next sail to Kom Ombo, Visit the Temple shared by two gods Sobek & Haeroris in Kom Ombo, Sail to Aswan, watch Egyptian Galabya party, Dinner on board, overnight in Aswan. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 4",
+            "title": "Aswan Nile Cruise Tours",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board,. unleash your inner adventure to embrace Aswan culture, taste special excursion to the High Dam, Unfinished Obelisk, amuse your eyes while visiting Philae Temple, Belongs to Isis and Hathor goddesses, Lunch will be served on board, Afternoon tea, Dinner on board, overnight in Aswan. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 5",
+            "title": "Abu Simbel Temple",
+            "icon": "map",
+            "description": "Enjoy the relish breakfast on board , Disembark then you will be transferred by our representative to Aswan airport , Fly to Abu Simbel where you will assisted by our representative , transfer by air Conditioned Vehicle to 5 Star Lake Nile Cruise , enjoy Lunch on board , then Visit Abu Simbel Temple , Dinner & overnight on board your Lake Nasser Cruise. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 6",
+            "title": "Kasr Ibrim, Amada, Wadi Es Seboua",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board, watch life unfold while sailing Lake Nasser towards Kasr Ibrim, watch Kasr Ibrim from the sun deck of your Cruise (Not allowed to enter Kasr Ibrim) lunch served on board, next sail to Amada, enjoy a remarkable visit to Amada Temples and Derr., Embrace the culture by visiting Penout Tomb, continue sailing to Wadi El Seboua, manage to relax at night while enjoying your tasting dinner on board Lake Nasser Cruise, overnight on board. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 7",
+            "title": "Lake Nasser Cruise Tours - Sail to Aswan",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board, head out towards Wadi El Seboua, visit Wadi El Seboua, then proceed to visit the magnificent Dakka Temples and Meharakka, lunch served on board your Cruise, sail to Aswan, one of the best Egyptian sights, enjoy your tasting dinner on board Lake Nasser Cruise, overnight on board. Overnight on board your Nile Cruise"
+        },
+        {
+            "time": "Day 8",
+            "title": "Lake Nasser Cruise - Luxor",
+            "icon": "map",
+            "description": "Enjoy the relish of your breakfast on board, Disembarkation after breakfast, Visit the remarkable kalabsha temple, Beit El Wali, and the magnificent Kiosk of Kertassi, then transfer from Aswan to Luxor by Private A\\C Vehicle. Overnight in Luxor"
+        },
+        {
+            "time": "Day 9",
+            "title": "Karnak and Luxor Temples Tour",
+            "icon": "map",
+            "description": "Enjoy your breakfast; our representative will pick you up to visit the greatest highlights of Luxor, Karnak Temple and Luxor Temple then transfer back to your hotel. Overnight in Luxor"
+        },
+        {
+            "time": "Day 10",
+            "title": "Final Departure",
+            "icon": "map",
+            "description": "Enjoy your breakfast, our representative will pick you up from your hotel in Luxor to Luxor Airport, for final departure."
+        }
+    ],
+    "inclusions": [
+        "Meet & assist at Luxor and Abu Simbel airports",
+        "All transfers by air-conditioned modern Van.",
+        "A Bottle of Mineral Water to each person",
+        "Accommodation of 4 nights on 5* Nile River cruise on full board",
+        "Accommodation of 3 nights on 5* Lake Nasser Cruise on full board",
+        "Accommodation of 2 nights at Luxor Hotel on Bed Breakfast Basis",
+        "Flight from Aswan to Abu Simbel one way by Egypt Air",
+        "Meals as mentioned in the itinerary",
+        "Sightseeing Tours as mentioned in the above Itinerary",
+        "All Entrance fees to all the above-mentioned sites as mentioned in the itinerary",
+        "English speaking guide at Lake Nasser Cruise as well as the Nile Cruise",
+        "Service charges and all taxes"
+    ],
+    "exclusions": [
+        "International flight",
+        "Visa to Egypt",
+        "Optional tours if required",
+        "Tip"
+    ],
+    "sourceUrl": "https://ibisegypttours.com/en/tour-packages/egypt-classic-tours/the-nile-and-lake-nasser-cruise-packages.html"
+}
