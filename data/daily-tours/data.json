@@ -1,566 +1,1301 @@
 {
     "data": [
         {
-            "type": "tour",
-            "id": "giza-museum",
-            "attributes": {
-                "slug": "giza-pyramids-sphinx-egyptian-museum",
-                "name": "Giza Pyramids, Sphinx & Egyptian Museum",
-                "destination": "cairo",
-                "destination_label": "Cairo, Egypt",
-                "description": "Explore the wonders of ancient Egypt with a full-day tour to the Giza Pyramids, the legendary Great Sphinx, and the world-famous Egyptian Museum.",
-                "overview": "Explore the wonders of ancient Egypt with a full-day tour to the Giza Pyramids, the legendary Great Sphinx, and the world-famous Egyptian Museum. Discover thousands of years of history, fascinating artifacts, and breathtaking sights with our expert Egyptologist guide.",
-                "image": "/tours/giza-pyramids.jpg",
-                "hero_image": "/tours/hero-detail.png",
-                "gallery": [
-                    "/tours/giza-pyramids.jpg",
-                    "/tours/hero.png",
-                    "/tours/custom-tours.jpg",
-                    "/tours/abu-simbel.jpg"
-                ],
-                "rating": 4.8,
-                "review_count": 1248,
-                "tour_type": "cultural",
-                "tour_type_label": "Cultural Tours",
-                "tour_code": "AG-DT-001",
-                "duration": "8 Hours",
-                "duration_hours": 8,
-                "duration_key": "fullDay",
-                "run": "Every Day",
-                "group_size": "2 - 20 People",
-                "best_seller": true,
-                "pickup_time": "08:00 AM",
-                "languages": "English, Arabic, German, French",
-                "highlights": [
-                    "Visit the Great Pyramids of Giza",
-                    "See the iconic Great Sphinx up close",
-                    "Explore the Egyptian Museum's treasures",
-                    "Learn from an expert Egyptologist guide",
-                    "Hotel pickup & drop-off included",
-                    "Comfortable transportation"
-                ],
-                "itinerary": [
-                    {
-                        "time": "08:00 AM",
-                        "title": "Hotel Pickup",
-                        "description": "Our representative will pick you up from your hotel in Cairo.",
-                        "icon": "home"
-                    },
-                    {
-                        "time": "08:30 AM",
-                        "title": "Giza Plateau",
-                        "description": "Visit the Pyramids of Cheops, Chephren & Mykerinus.",
-                        "icon": "near_me"
-                    },
-                    {
-                        "time": "10:30 AM",
-                        "title": "The Great Sphinx",
-                        "description": "See the legendary Sphinx and the Valley Temple.",
-                        "icon": "person"
-                    },
-                    {
-                        "time": "12:30 PM",
-                        "title": "Lunch Break",
-                        "description": "Enjoy a delicious lunch at a quality local restaurant.",
-                        "icon": "restaurant"
-                    },
-                    {
-                        "time": "02:00 PM",
-                        "title": "Egyptian Museum",
-                        "description": "Explore the incredible collection of ancient artifacts.",
-                        "icon": "museum"
-                    }
-                ],
-                "inclusions": [
-                    "Hotel pickup & drop-off",
-                    "All transfers by air-conditioned vehicle",
-                    "Professional Egyptologist guide",
-                    "All entrance fees",
-                    "Lunch at local restaurant",
-                    "Bottled water"
-                ],
-                "exclusions": [
-                    "Personal expenses",
-                    "Tips and gratuities",
-                    "Optional activities",
-                    "Drinks during lunch"
-                ],
-                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
-                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
-                "price": {
-                    "amount": 65,
-                    "currency": "USD",
-                    "formatted": "$65",
-                    "per": "person",
-                    "child_amount": 45,
-                    "infant_amount": 0
+            "slug": "tours-from-cairo-to-aswan-and-luxor",
+            "name": "Luxor Aswan Tour from Cairo",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "luxor",
+            "destination_label": "Luxor, Aswan",
+            "description": "Explore the land of Pharaohs on a Luxor and Aswan tour from Cairo. Visit the High Dam, Philae Temple, and Karnak Temple.",
+            "overview": "Explore the land of Pharaohs on a Luxor and Aswan tour from Cairo. Visit the High Dam, Philae Temple, and Karnak Temple.",
+            "duration": "2 days / 1 Nights",
+            "duration_hours": 48,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "pickup_time": "03:00 AM",
+            "languages": "English",
+            "tour_code": "33",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 410,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/a/6/a6bdae853d82ecc7acff6f7ed1811f54_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/a/6/a6bdae853d82ecc7acff6f7ed1811f54_1.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/i/king_s_valley_tomb_luxor.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/a/hatshebust_temple1.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/h/philae_temple_night.webp"
+            ],
+            "highlights": [
+                "High Dam in Aswan",
+                "Philae Temple",
+                "Valley of the Kings",
+                "Karnak Temple"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Cairo - Aswan - Luxor",
+                    "icon": "flight",
+                    "description": "Early pickup from your Cairo hotel for a flight to Aswan. Visit the High Dam and Philae Temple, then transfer to your Luxor hotel."
                 },
-                "is_active": true,
-                "sort_order": 0
-            }
+                {
+                    "time": "Day 2",
+                    "title": "Luxor - Cairo",
+                    "icon": "temple_buddhist",
+                    "description": "Visit the Valley of the Kings, Hatshepsut Temple, Colossi of Memnon, and Karnak Temple, then fly back to Cairo."
+                }
+            ],
+            "inclusions": [
+                "Hotel pickup in Cairo and airport transfers",
+                "1 night in Luxor on bed and breakfast",
+                "English-speaking guide and entry fees",
+                "Air-conditioned transfers in Cairo, Aswan, and Luxor"
+            ],
+            "exclusions": [
+                "Visa to Egypt",
+                "Domestic flights Cairo/Aswan and Luxor/Cairo",
+                "Optional tours",
+                "Tipping"
+            ]
         },
         {
-            "type": "tour",
-            "id": "abu-simbel",
-            "attributes": {
-                "slug": "abu-simbel-day-tour-by-flight",
-                "name": "Abu Simbel Day Tour by Flight",
-                "destination": "aswan",
-                "destination_label": "Aswan, Egypt",
-                "description": "Fly from Aswan to Abu Simbel and discover the magnificent temples of Ramses II and Nefertari.",
-                "overview": "Fly from Aswan to Abu Simbel and discover the magnificent rock-cut temples of Ramses II and Nefertari with an expert Egyptologist guide.",
-                "image": "/tours/abu-simbel.jpg",
-                "hero_image": "/tours/hero-detail.png",
-                "gallery": [
-                    "/tours/abu-simbel.jpg",
-                    "/tours/hero.png",
-                    "/tours/giza-pyramids.jpg",
-                    "/tours/custom-tours.jpg"
-                ],
-                "rating": 4.7,
-                "review_count": 656,
-                "tour_type": "cultural",
-                "tour_type_label": "Cultural Tours",
-                "tour_code": "AG-DT-002",
-                "duration": "10 Hours",
-                "duration_hours": 10,
-                "duration_key": "fullDay",
-                "run": "Every Day",
-                "group_size": "2 - 15 People",
-                "best_seller": false,
-                "pickup_time": "06:00 AM",
-                "languages": "English, Arabic, French",
-                "highlights": [
-                    "Round-trip flight from Aswan to Abu Simbel",
-                    "Visit the temples of Ramses II and Nefertari",
-                    "Expert Egyptologist guide throughout",
-                    "Lunch included"
-                ],
-                "itinerary": [
-                    {
-                        "time": "06:00 AM",
-                        "title": "Aswan Airport Check-in",
-                        "description": "Meet your representative and board the morning flight to Abu Simbel.",
-                        "icon": "flight_takeoff"
-                    },
-                    {
-                        "time": "08:30 AM",
-                        "title": "Temples of Ramses II & Nefertari",
-                        "description": "Explore the monumental rock temples and famous colossi facade.",
-                        "icon": "account_balance"
-                    },
-                    {
-                        "time": "12:30 PM",
-                        "title": "Local Lunch",
-                        "description": "Enjoy a set-menu lunch before returning to the airport.",
-                        "icon": "restaurant"
-                    },
-                    {
-                        "time": "03:00 PM",
-                        "title": "Flight Back to Aswan",
-                        "description": "Board your return flight and conclude your day trip.",
-                        "icon": "flight_land"
-                    }
-                ],
-                "inclusions": [
-                    "Round-trip flight from Aswan",
-                    "Professional Egyptologist guide",
-                    "Temple entry fees",
-                    "Lunch"
-                ],
-                "exclusions": [
-                    "Hotel pickup in Aswan (optional)",
-                    "Gratuities for guide",
-                    "Personal expenses & drinks"
-                ],
-                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
-                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
-                "price": {
-                    "amount": 180,
-                    "currency": "USD",
-                    "formatted": "$180",
-                    "per": "person",
-                    "child_amount": 140,
-                    "infant_amount": 0
+            "slug": "cairo-and-alexandria-tours",
+            "name": "Cairo and Alexandria Tour Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo & Alexandria",
+            "description": "Experience Cairo and Alexandria Tour Package with Ibis Egypt Tours.",
+            "overview": "Experience Cairo and Alexandria Tour Package with Ibis Egypt Tours.",
+            "duration": "5 days / 4 Nights",
+            "duration_hours": 120,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 445,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/4/a/4a5e9da4e729973e3de152cc9889558a_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/5/258578305_593127225336070_198668306192931761_n.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/7/f784d7dd7ffb5546c49005b7b69e945c.webp"
+            ],
+            "highlights": [
+                "Arrive in Cairo",
+                "Cairo Tour",
+                "Alexandria Tour",
+                "Day at Leisure in Cairo"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive in Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
                 },
-                "is_active": true,
-                "sort_order": 1
-            }
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Tour",
+                    "icon": "map",
+                    "description": "After a delicious breakfast, your knowledgeable guide eagerly awaits to show you the treasures of Cairo."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Alexandria Tour",
+                    "icon": "map",
+                    "description": "Today, prepare for an exciting change of scenery as you embark on a day trip to the coastal city of Alexandria."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Day at Leisure in Cairo",
+                    "icon": "map",
+                    "description": "Today is yours to enjoy at your leisure in Cairo."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned.",
+                "Accommodation in Cairo for 04 Nights on Bed & Breakfast",
+                "01 Day excursion in Cairo as mentioned at the above itinerary",
+                "01 Day excursion in Alexandria as mentioned at the above itinerary"
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Any other optional tours if required",
+                "Tip."
+            ]
         },
         {
-            "type": "tour",
-            "id": "luxor-balloon",
-            "attributes": {
-                "slug": "luxor-hot-air-balloon-east-bank",
-                "name": "Luxor Hot Air Balloon & East Bank Tour",
-                "destination": "luxor",
-                "destination_label": "Luxor, Egypt",
-                "description": "Rise above the Nile at sunrise, then explore Luxor's East Bank temples with an expert guide.",
-                "overview": "Rise above the Nile Valley at sunrise in a hot air balloon, then continue with a guided visit to Luxor's East Bank temples.",
-                "image": "/tours/custom-tours.jpg",
-                "hero_image": "/tours/hero-detail.png",
-                "gallery": [
-                    "/tours/custom-tours.jpg",
-                    "/tours/hero.png",
-                    "/tours/giza-pyramids.jpg",
-                    "/tours/abu-simbel.jpg"
-                ],
-                "rating": 4.9,
-                "review_count": 972,
-                "tour_type": "adventure",
-                "tour_type_label": "Adventure Tours",
-                "tour_code": "AG-DT-003",
-                "duration": "6 Hours",
-                "duration_hours": 6,
-                "duration_key": "fullDay",
-                "run": "Every Day",
-                "group_size": "2 - 12 People",
-                "best_seller": false,
-                "pickup_time": "04:30 AM",
-                "languages": "English, Arabic, German",
-                "highlights": [
-                    "Sunrise hot air balloon over Luxor",
-                    "Views of the Nile and West Bank",
-                    "East Bank temple visit",
-                    "Hotel pickup included"
-                ],
-                "itinerary": [
-                    {
-                        "time": "04:30 AM",
-                        "title": "Hotel Pickup",
-                        "description": "Early pickup for transfer to the balloon launch site.",
-                        "icon": "home"
-                    },
-                    {
-                        "time": "05:30 AM",
-                        "title": "Hot Air Balloon Flight",
-                        "description": "Enjoy a breathtaking sunrise flight over Luxor.",
-                        "icon": "flight"
-                    },
-                    {
-                        "time": "08:00 AM",
-                        "title": "East Bank Temples",
-                        "description": "Visit Karnak or Luxor Temple with your guide.",
-                        "icon": "account_balance"
-                    }
-                ],
-                "inclusions": [
-                    "Hotel pickup & drop-off",
-                    "Hot air balloon flight",
-                    "Professional guide",
-                    "Bottled water"
-                ],
-                "exclusions": [
-                    "Temple entry fees (if applicable)",
-                    "Tips and gratuities",
-                    "Personal expenses"
-                ],
-                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund. Balloon flights are weather dependent.",
-                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
-                "price": {
-                    "amount": 75,
-                    "currency": "USD",
-                    "formatted": "$75",
-                    "per": "person",
-                    "child_amount": 55,
-                    "infant_amount": 0
+            "slug": "cairo-luxor-tours",
+            "name": "5 Days Cairo and Luxor Tour Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo & Luxor",
+            "description": "Get Ready to see the most exciting landmarks of Ancient Egypt with our expert tour guides.",
+            "overview": "Get Ready to see the most exciting landmarks of Ancient Egypt with our expert tour guides.",
+            "duration": "5 days / 4 Nights",
+            "duration_hours": 120,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 880,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/d/s/dsc08675-683x1024.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/6/a6bdae853d82ecc7acff6f7ed1811f54.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2000x2000-0-70-46e28084d46c270a413975743a2c6bb4.webp"
+            ],
+            "highlights": [
+                "Arrive in Cairo",
+                "Cairo Day Tour",
+                "West Bank of Luxor Tour",
+                "Karnak and Luxor Temples Tour"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive in Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
                 },
-                "is_active": true,
-                "sort_order": 2
-            }
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "Wake up to a mouthwatering breakfast that tantalizes your taste buds and energizes you for a day of exploration."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "West Bank of Luxor Tour",
+                    "icon": "map",
+                    "description": "Savor a delicious breakfast that fuels your anticipation for what lies ahead."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Karnak and Luxor Temples Tour",
+                    "icon": "map",
+                    "description": "Rise and shine to a breakfast fit for pharaohs, knowing that another day of wonders awaits you."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport plus transfer to hotel by air-conditioned Vehicle",
+                "Accommodation for 03 nights in Cairo on Bed & Breakfast",
+                "Accommodation for 01 Night in Luxor on Bed & Breakfast",
+                "One Day tour in Cairo as mentioned in the above Itinerary"
+            ],
+            "exclusions": [
+                "International flight",
+                "Domestic flight Cairo / Luxor / Cairo",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian."
+            ]
         },
         {
-            "type": "tour",
-            "id": "felucca-aswan",
-            "attributes": {
-                "slug": "felucca-ride-nile-aswan",
-                "name": "Felucca Ride on the Nile in Aswan",
-                "destination": "aswan",
-                "destination_label": "Aswan, Egypt",
-                "description": "Sail the Nile on a traditional felucca and enjoy peaceful views of Aswan's riverbanks and islands.",
-                "overview": "Sail the Nile on a traditional wooden felucca and enjoy peaceful views of Aswan's islands, riverbanks, and desert hills.",
-                "image": "/tours/hero.png",
-                "hero_image": "/tours/hero-detail.png",
-                "gallery": [
-                    "/tours/hero.png",
-                    "/tours/abu-simbel.jpg",
-                    "/tours/custom-tours.jpg",
-                    "/tours/giza-pyramids.jpg"
-                ],
-                "rating": 4.6,
-                "review_count": 654,
-                "tour_type": "cruise",
-                "tour_type_label": "Cruise & Sailing",
-                "tour_code": "AG-DT-004",
-                "duration": "2 Hours",
-                "duration_hours": 2,
-                "duration_key": "halfDay",
-                "run": "Every Day",
-                "group_size": "2 - 10 People",
-                "best_seller": false,
-                "pickup_time": "Flexible",
-                "languages": "English, Arabic",
-                "highlights": [
-                    "Traditional Nile sailing experience",
-                    "Views of Elephantine Island and Aswan scenery",
-                    "Relaxing short cruise",
-                    "Hotel transfer available"
-                ],
-                "itinerary": [
-                    {
-                        "time": "Flexible",
-                        "title": "Dock Pickup",
-                        "description": "Meet your captain at the Nile dock in Aswan.",
-                        "icon": "directions_boat"
-                    },
-                    {
-                        "time": "1–2 hrs",
-                        "title": "Felucca Sail",
-                        "description": "Cruise along the Nile with views of islands and desert hills.",
-                        "icon": "sailing"
-                    }
-                ],
-                "inclusions": [
-                    "Felucca ride",
-                    "Captain",
-                    "Soft drinks",
-                    "Hotel transfer (selected hotels)"
-                ],
-                "exclusions": [
-                    "Tips",
-                    "Personal expenses",
-                    "Meals"
-                ],
-                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
-                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
-                "price": {
-                    "amount": 25,
-                    "currency": "USD",
-                    "formatted": "$25",
-                    "per": "person",
-                    "child_amount": 15,
-                    "infant_amount": 0
+            "slug": "st-catherine-cairo-alexandria-holy-land-tours",
+            "name": "Best of Egypt Religious Tour",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Alexandria, St Catherine & Taba",
+            "description": "Immerse yourself with the Best of Egypt Religious Tours and enjoy Islamic Cairo, Alexandria, St Catherine, and Taba.",
+            "overview": "Immerse yourself with the Best of Egypt Religious Tours and enjoy Islamic Cairo, Alexandria, St Catherine, and Taba.",
+            "duration": "5 days / 4 Nights",
+            "duration_hours": 120,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 0,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/l/alabaster_mosque_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/t/mt_sinai.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/asfgsa_a_2.webp"
+            ],
+            "highlights": [
+                "Arrive Taba – St, Catherine",
+                "St, Catherine – Cairo",
+                "Pyramids – Museum – Islamic Mosques Tour",
+                "Alexandria Tour"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Taba – St, Catherine",
+                    "icon": "map",
+                    "description": "Ibis Egypt Tours will meet and assist Taba border, drive to Taba via air conditioned car to your hotel in Saint Catherine Overnight."
                 },
-                "is_active": true,
-                "sort_order": 3
-            }
+                {
+                    "time": "Day 2",
+                    "title": "St, Catherine – Cairo",
+                    "icon": "map",
+                    "description": "After breakfast visit Saint Catherine Monastery and Mount Sinai and drive to Cairo."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Pyramids – Museum – Islamic Mosques Tour",
+                    "icon": "map",
+                    "description": "After your tasty Breakfast in Hotel, get ready for full day tour in Cairo to visit Pyramids of Giza, Egyptian Museum, the Sphinx and Valley of Temple."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Alexandria Tour",
+                    "icon": "map",
+                    "description": "After breakfast Over day to the City of Alexandria , Alexandra library ( outside view) Daniel Nabi, Lukhman El Hakeem, Morsi Abu Abbas Mosque."
+                }
+            ],
+            "inclusions": [
+                "Entry Visa to Egypt",
+                "Airport /border meet and assist and transfer to Hotel",
+                "Private transfer Cairo / Saint Catherine / Taba",
+                "Accommodation for 3 Nights in Cairo on Bed & Breakfast"
+            ],
+            "exclusions": [
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be.",
+                "Tipping",
+                "Personal Expenses"
+            ]
         },
         {
-            "type": "tour",
-            "id": "luxor-west-bank",
-            "attributes": {
-                "slug": "luxor-west-bank-tour",
-                "name": "Luxor West Bank Tour",
-                "destination": "luxor",
-                "destination_label": "Luxor, Egypt",
-                "description": "Discover the Valley of the Kings, Hatshepsut Temple, and the Colossi of Memnon on Luxor's West Bank.",
-                "overview": "Discover the Valley of the Kings, Hatshepsut Temple, and the Colossi of Memnon on a full guided tour of Luxor's West Bank.",
-                "image": "/tours/giza-pyramids.jpg",
-                "hero_image": "/tours/hero-detail.png",
-                "gallery": [
-                    "/tours/giza-pyramids.jpg",
-                    "/tours/custom-tours.jpg",
-                    "/tours/hero.png",
-                    "/tours/abu-simbel.jpg"
-                ],
-                "rating": 4.8,
-                "review_count": 1105,
-                "tour_type": "cultural",
-                "tour_type_label": "Cultural Tours",
-                "tour_code": "AG-DT-005",
-                "duration": "7 Hours",
-                "duration_hours": 7,
-                "duration_key": "fullDay",
-                "run": "Every Day",
-                "group_size": "2 - 20 People",
-                "best_seller": false,
-                "pickup_time": "07:30 AM",
-                "languages": "English, Arabic, French, German",
-                "highlights": [
-                    "Valley of the Kings",
-                    "Hatshepsut Temple",
-                    "Colossi of Memnon",
-                    "Expert Egyptologist guide"
-                ],
-                "itinerary": [
-                    {
-                        "time": "07:30 AM",
-                        "title": "Hotel Pickup",
-                        "description": "Pickup from your hotel in Luxor.",
-                        "icon": "home"
-                    },
-                    {
-                        "time": "08:30 AM",
-                        "title": "Valley of the Kings",
-                        "description": "Explore royal tombs carved into the desert cliffs.",
-                        "icon": "account_balance"
-                    },
-                    {
-                        "time": "11:00 AM",
-                        "title": "Hatshepsut Temple",
-                        "description": "Visit the stunning terraced mortuary temple.",
-                        "icon": "museum"
-                    },
-                    {
-                        "time": "01:00 PM",
-                        "title": "Colossi of Memnon",
-                        "description": "Stop at the iconic twin statues before returning.",
-                        "icon": "photo_camera"
-                    }
-                ],
-                "inclusions": [
-                    "Hotel pickup & drop-off",
-                    "Air-conditioned vehicle",
-                    "Professional Egyptologist guide",
-                    "Entrance fees"
-                ],
-                "exclusions": [
-                    "Lunch",
-                    "Tips and gratuities",
-                    "Personal expenses"
-                ],
-                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
-                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
-                "price": {
-                    "amount": 55,
-                    "currency": "USD",
-                    "formatted": "$55",
-                    "per": "person",
-                    "child_amount": 35,
-                    "infant_amount": 0
+            "slug": "5-days-cairo-tour-package",
+            "name": "5 Days Cairo Tour Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo",
+            "description": "Get ready to dig deep on our 5 Days Cairo Tour Package and enjoy a getaway that will introduce you to a bevy of booming cultures.",
+            "overview": "Get ready to dig deep on our 5 Days Cairo Tour Package and enjoy a getaway that will introduce you to a bevy of booming cultures.",
+            "duration": "5 days / 4 Nights",
+            "duration_hours": 120,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 425,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/3/1/311fe6d78c910212a49ba08e663a7434_2.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/0/a0d43b1a-0833-11ee-ba4a-56976f4843f3.1080x810_6.webp"
+            ],
+            "highlights": [
+                "Arrive in Cairo",
+                "Cairo Day Tour",
+                "Day at Leisure in Cairo"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive in Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
                 },
-                "is_active": true,
-                "sort_order": 4
-            }
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "Awaken your inner explorer as we embark on a journey through time."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "After Enjoying the relish of your breakfast at hotel, Ibis Egypt tours representative will pick you up from your hotel."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Day at Leisure in Cairo",
+                    "icon": "map",
+                    "description": "Breakfast at hotel."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned.",
+                "Accommodation in Cairo for 4 Nights on Bed & Breakfast.",
+                "Excursions in Cairo for 2 Days as mentioned at the above itinerary.",
+                "English speaking guide in Cairo."
+            ],
+            "exclusions": [
+                "International flight",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be.",
+                "Visa to Egypt"
+            ]
         },
         {
-            "type": "tour",
-            "id": "dendera-abydos",
-            "attributes": {
-                "slug": "dendera-abydos-temples-day-tour",
-                "name": "Dendera & Abydos Temples Day Tour",
-                "destination": "luxor",
-                "destination_label": "Luxor, Egypt",
-                "description": "Visit two of Egypt's best-preserved temple complexes at Dendera and Abydos on a guided day trip from Luxor.",
-                "overview": "Travel from Luxor to visit two of Egypt's best-preserved temple complexes — Dendera and Abydos — with an expert Egyptologist guide.",
-                "image": "/tours/abu-simbel.jpg",
-                "hero_image": "/tours/hero-detail.png",
-                "gallery": [
-                    "/tours/abu-simbel.jpg",
-                    "/tours/giza-pyramids.jpg",
-                    "/tours/hero.png",
-                    "/tours/custom-tours.jpg"
-                ],
-                "rating": 4.7,
-                "review_count": 438,
-                "tour_type": "cultural",
-                "tour_type_label": "Cultural Tours",
-                "tour_code": "AG-DT-006",
-                "duration": "8 Hours",
-                "duration_hours": 8,
-                "duration_key": "fullDay",
-                "run": "Every Day",
-                "group_size": "2 - 15 People",
-                "best_seller": false,
-                "pickup_time": "07:00 AM",
-                "languages": "English, Arabic, French",
-                "highlights": [
-                    "Temple of Hathor at Dendera",
-                    "Temple of Seti I at Abydos",
-                    "Expert Egyptologist guide",
-                    "Lunch included"
-                ],
-                "itinerary": [
-                    {
-                        "time": "07:00 AM",
-                        "title": "Hotel Pickup",
-                        "description": "Depart Luxor by private air-conditioned vehicle.",
-                        "icon": "home"
-                    },
-                    {
-                        "time": "09:00 AM",
-                        "title": "Abydos Temple",
-                        "description": "Explore the Temple of Seti I and its remarkable reliefs.",
-                        "icon": "account_balance"
-                    },
-                    {
-                        "time": "12:30 PM",
-                        "title": "Lunch",
-                        "description": "Enjoy lunch at a local restaurant.",
-                        "icon": "restaurant"
-                    },
-                    {
-                        "time": "02:00 PM",
-                        "title": "Dendera Temple",
-                        "description": "Visit the beautifully preserved Temple of Hathor.",
-                        "icon": "museum"
-                    }
-                ],
-                "inclusions": [
-                    "Hotel pickup & drop-off",
-                    "Air-conditioned vehicle",
-                    "Professional Egyptologist guide",
-                    "Entrance fees",
-                    "Lunch"
-                ],
-                "exclusions": [
-                    "Tips and gratuities",
-                    "Personal expenses",
-                    "Drinks during lunch"
-                ],
-                "cancellation_policy": "Cancel up to 24 hours in advance for a full refund.",
-                "info_voucher": "If you have any additional questions, contact AL-GEWAR Travel at +20 100 123 4567 or info@algewar.com",
-                "price": {
-                    "amount": 60,
-                    "currency": "USD",
-                    "formatted": "$60",
-                    "per": "person",
-                    "child_amount": 40,
-                    "infant_amount": 0
+            "slug": "cairo-luxor-alexandria-package",
+            "name": "Cairo Luxor Alexandria Tour Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Luxor & Alexandria",
+            "description": "With our Cairo Luxor Alexandria Tour Package, indulge yourself in the rich history and enchanting culture of Egypt as you begin your adventure in Cairo.",
+            "overview": "With our Cairo Luxor Alexandria Tour Package, indulge yourself in the rich history and enchanting culture of Egypt as you begin your adventure in Cairo.",
+            "duration": "6 days / 5 Nights",
+            "duration_hours": 144,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 1090,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/c/5/c5625a65f166f266cdf7018874bb516c_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/y/pyramids-of-giza_2.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/a/karnak2_1.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Pyramids – Sakkara",
+                "Egyptian Museum – Old Cairo",
+                "Cairo – Luxor-Cairo"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "Once your flight landing at Cairo airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name."
                 },
-                "is_active": true,
-                "sort_order": 5
-            }
+                {
+                    "time": "Day 2",
+                    "title": "Pyramids – Sakkara",
+                    "icon": "map",
+                    "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, he will escort you by air-conditioned Vehicle to make Memphis tours."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Egyptian Museum – Old Cairo",
+                    "icon": "map",
+                    "description": "Ibis Egypt tours representative will pick you up from your hotel in Cairo, embrace Cairo culture by visiting The Egyptian Museum."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Cairo – Luxor-Cairo",
+                    "icon": "map",
+                    "description": "Breakfast, move to airport to transfer to Luxor by flight."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport plus transfer to the hotel and Sightseeing by.",
+                "Accommodation for 05 Nights in Cairo on Bed & Breakfast.",
+                "Full day tour Cairo: Giza Pyramids – Sakkara – Memphis.",
+                "Full day tour Cairo: Egyptian Museum, Cairo Citadel & Cairo Coptic District."
+            ],
+            "exclusions": [
+                "Egypt tourist visa.",
+                "International Airfare.",
+                "Domestic flight Cairo / Luxor / Cairo.",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian."
+            ]
         },
         {
-            "type": "tour",
-            "id": "test",
-            "attributes": {
-                "slug": "test",
-                "name": "test",
-                "destination": "cairo",
-                "destination_label": null,
-                "description": null,
-                "overview": null,
-                "image": "tours/abu-simbel.jpg",
-                "hero_image": null,
-                "gallery": [],
-                "rating": 0,
-                "review_count": 0,
-                "tour_type": "testt",
-                "tour_type_label": "test",
-                "tour_code": null,
-                "duration": "30 Minutes",
-                "duration_hours": 0,
-                "duration_key": "fullDay",
-                "run": "Everyday",
-                "group_size": null,
-                "best_seller": false,
-                "pickup_time": null,
-                "languages": null,
-                "highlights": null,
-                "itinerary": null,
-                "inclusions": null,
-                "exclusions": null,
-                "cancellation_policy": null,
-                "info_voucher": null,
-                "price": {
-                    "amount": 100,
-                    "currency": "USD"
+            "slug": "7-day-cairo-luxor-hurghada-tour",
+            "name": "7 Days Cairo, Luxor & Hurghada Tour",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Luxor & Hurghada",
+            "description": "Experience the best of Egypt with our 7 Days Egypt Tour Package, combining Cairo, Luxor, and Hurghada in one unforgettable journey with ibis Egypt Tours.",
+            "overview": "Experience the best of Egypt with our 7 Days Egypt Tour Package, combining Cairo, Luxor, and Hurghada in one unforgettable journey with ibis Egypt Tours.",
+            "duration": "7 days / 6 Nights",
+            "duration_hours": 168,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 595,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/d/s/dsc08814-1-683x1024_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0041_2.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0043_4.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0059_3.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0092_1.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Cairo Day Tour",
+                "Arrival Luxor /Karnak and Luxor Temples Tour",
+                "West Bank Tour / Luxor to Hurghada city"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
                 },
-                "is_active": true,
-                "sort_order": 6
-            }
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "After a delicious breakfast to fuel your day, your Ibis Egypt tours representative will pick you up from your hotel."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Arrival Luxor /Karnak and Luxor Temples Tour",
+                    "icon": "map",
+                    "description": "Wake up to the beauty of Luxor as your Ibis Egypt tours representative greets you at the train station."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "West Bank Tour / Luxor to Hurghada city",
+                    "icon": "map",
+                    "description": "Enjoy your breakfast."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport and transfer to hotel by air-conditioned.",
+                "Accommodation for 02 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 01 Night in Luxor on Bed & Breakfast",
+                "Accommodation for 02 Nights in Hurghada on Breakfast – Lunch – Dinner"
+            ],
+            "exclusions": [
+                "Entry Visa to Egypt",
+                "International flight tickets",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
+        },
+        {
+            "slug": "7-days-egypt-tour-package-with-cairo-and-nile-cruise",
+            "name": "7 Days Egypt Tour Package with Cairo & Nile Cruise",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Aswan & Luxor",
+            "description": "Experience the ultimate 7 Days Egypt Tour Package, combining the timeless wonders of Cairo with a luxurious 3-night Nile Cruise from Aswan to Luxor.",
+            "overview": "Experience the ultimate 7 Days Egypt Tour Package, combining the timeless wonders of Cairo with a luxurious 3-night Nile Cruise from Aswan to Luxor.",
+            "duration": "7 days / 6 Nights",
+            "duration_hours": 168,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 845,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/b/q/bqbfziqi32e.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2000x2000-0-70-46e28084d46c270a413975743a2c6bb4_5.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/0/10737795072_img_0693_4.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/caption_22_3.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/-/2-days-luxor-abu-simbel-tour-from-soma-bay-egypt-tours-portal_3.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Cairo Day Tour",
+                "Fly to Aswan / Nile Cruise",
+                "Kom Ombo Temples Tour"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "After a delicious breakfast to fuel your day, your Ibis Egypt tours representative will pick you up from your hotel."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Fly to Aswan / Nile Cruise",
+                    "icon": "map",
+                    "description": "Early check-out after enjoying your breakfast at the hotel in Cairo."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Kom Ombo Temples Tour",
+                    "icon": "map",
+                    "description": "Breakfast on board, enjoy the scenic sailing to Kom Ombo, and explore the Temple dedicated to the two gods Sobek and Horus."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport and transfer to hotel by air-conditioned vehicle",
+                "Accommodation for 03 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 03 Nights on board 05 stars Nile Cruise including breakfast, Lunch.",
+                "One-Day Excursion in Cairo as mentioned at the above itinerary"
+            ],
+            "exclusions": [
+                "Entry Visa to Egypt",
+                "International flight tickets",
+                "Domestic flight Cairo / Aswan – Luxor / Cairo",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian."
+            ]
+        },
+        {
+            "slug": "cairo-aswan-abu-simbel-luxor-tour-package",
+            "name": "Cairo, Luxor, Aswan, and Abu Simbel Tour Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Luxor, Aswan & Abu Simbel",
+            "description": "Hurry up!",
+            "overview": "Hurry up!",
+            "duration": "8 days / 7 Nights",
+            "duration_hours": 192,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 1170,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/f/b/fb_img_1692486748160.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/-/2-days-luxor-abu-simbel-tour-from-soma-bay-egypt-tours-portal.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abo_s_gallery.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/f/ef8db94a2188d767d6a0747ca0295b7c_3.webp"
+            ],
+            "highlights": [
+                "Arrive in Cairo",
+                "Cairo Sightseeing Tour",
+                "Aswan Sightseeing Tour",
+                "Abu Simbel Sightseeing Tour"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive in Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Sightseeing Tour",
+                    "icon": "map",
+                    "description": "Awaken to a new day filled with anticipation and a hearty breakfast to fuel your exploration."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Aswan Sightseeing Tour",
+                    "icon": "map",
+                    "description": "Awake to the gentle sway of the train as it arrives at Aswan train station."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Abu Simbel Sightseeing Tour",
+                    "icon": "map",
+                    "description": "Today, an unforgettable adventure awaits as we embark on a journey to Abu Simbel, a UNESCO World Heritage site that will leave you in awe."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport.",
+                "Transfer from Cairo airport to the hotel in Cairo by air-conditioned Vehicle.",
+                "Accommodation for 02 nights in Cairo on Bed & Breakfast.",
+                "Accommodation for 01 Night in Luxor on Bed & Breakfast."
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
+        },
+        {
+            "slug": "cairo-and-nile-cruise-package-by-air",
+            "name": "8 Days Egypt Travel Package: Cairo, Luxor and Aswan by Air",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Luxor & Aswan",
+            "description": "Relish the wonders of Egypt with the best Egypt Travel Package.",
+            "overview": "Relish the wonders of Egypt with the best Egypt Travel Package.",
+            "duration": "8 days / 7 Nights",
+            "duration_hours": 192,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 1275,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/l/u/luxor_temple_88ii.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/sphinx.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/h/philae_temple_in_aswan.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0043_2.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo, Egypt",
+                "Cairo & Giza sightseeing tours",
+                "Cairo Fly to Luxor",
+                "Valley of the Kings, Hatshepsut Temple -Sailing."
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo, Egypt",
+                    "icon": "map",
+                    "description": "We provide meet & assist services at Cairo airport around the clock."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo & Giza sightseeing tours",
+                    "icon": "map",
+                    "description": "Enjoy a tasty breakfast at the hotel in Cairo."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Cairo Fly to Luxor",
+                    "icon": "map",
+                    "description": "Early check-out after enjoying your breakfast at the hotel in Cairo."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Valley of the Kings, Hatshepsut Temple -Sailing.",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast on board your Nile Cruise in Luxor."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport.",
+                "Accommodation for 03 nights in Cairo on bed & breakfast",
+                "Accommodation for 04 nights at 05 stars Nile Cruise on full board.",
+                "01 Day trip to Pyramids, Egyptian Museum and Old Cairo"
+            ],
+            "exclusions": [
+                "International flight.",
+                "Domestic flight Cairo to Luxor & Aswan to Cairo.",
+                "Visa to Egypt.",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian."
+            ]
+        },
+        {
+            "slug": "cairo-and-nile-cruise-tours-by-train",
+            "name": "8 Days Cairo and Nile Cruise Package by Sleeper Train",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Luxor & Aswan",
+            "description": "Amuse yourself with an 8-Day Cairo and Nile Cruise Package with Ibis Egypt Tours.",
+            "overview": "Amuse yourself with an 8-Day Cairo and Nile Cruise Package with Ibis Egypt Tours.",
+            "duration": "8 days / 7 Nights",
+            "duration_hours": 192,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 1050,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/0/7/07556455ad6b86115b9f57235c15b7d1_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/e/gettyimages-179401783_4.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/145_11.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/asfgsa_a_7.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc00582-1024x683_2.webp"
+            ],
+            "highlights": [
+                "Arrive in Cairo",
+                "Cairo Day Tour",
+                "Nile Cruise",
+                "Temples of Legends"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive in Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "After a delicious breakfast to fuel your day, your Ibis Egypt tour representative will pick you up from your hotel."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Nile Cruise",
+                    "icon": "map",
+                    "description": "Wake up to the beauty of Aswan as your Ibis Egypt tours representative greets you at the train station."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Temples of Legends",
+                    "icon": "map",
+                    "description": "Enjoy your breakfast on board and start sailing to Kom Ombo the double Shared Temple of gods Sobek & Haeroris."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport plus transfer to hotel by air-conditioned vehicle",
+                "Accommodation for 02 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 03 Nights on board 05 stars Nile Cruise including breakfast, Lunch.",
+                "One Day Excursion in Cairo as mentioned at the above itinerary"
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
+        },
+        {
+            "slug": "8-days-egypt-tour-with-cairo-bahariya-oasis-nile-cruise",
+            "name": "8 Days Egypt Tour with Cairo, Bahariya Oasis & Nile Cruise",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Bahariya Oasis, Aswan & Luxor",
+            "description": "Discover the highlights of Egypt on an unforgettable 9-day journey with Ibis Egypt Tours, combining the ancient wonders of Cairo.",
+            "overview": "Discover the highlights of Egypt on an unforgettable 9-day journey with Ibis Egypt Tours, combining the ancient wonders of Cairo.",
+            "duration": "8 days / 7 Nights",
+            "duration_hours": 192,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 0,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/i/m/image-asset_1_.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0092_2.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/9/99_3.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/20180728150836_3.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/r/3rfdsdfsd_4.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Cairo Day Tour",
+                "Bahariya Oasis Tour",
+                "Black and White Desert Tour / Back to Cairo"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "After a delicious breakfast to fuel your day, your Ibis Egypt tours representative will pick you up from your hotel."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Bahariya Oasis Tour",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast at hotel."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Black and White Desert Tour / Back to Cairo",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast at hotel, drive by Jeep 4x4 to the Black Desert, around 160 km, scout the Black Desert, visit the Crystal Mountain."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport and transfer to hotel by air-conditioned vehicle",
+                "Accommodation for 03 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 03 Nights on board 05 stars Nile Cruise including breakfast, Lunch.",
+                "Accommodation for 01 Night in Bahariya Oasis on Half Board Basis.."
+            ],
+            "exclusions": [
+                "Entry Visa to Egypt",
+                "International flight tickets",
+                "Domestic flight Cairo / Aswan – Luxor / Cairo",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian."
+            ]
+        },
+        {
+            "slug": "cairo-alexandria-nile-cruise-egypt-package",
+            "name": "Egypt Tour Itinerary: Cairo, Alexandria & Nile Cruise",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Alexandria & Nile Cruise",
+            "description": "Get ready to be captivated by the allure of Egypt's iconic destinations as you begin your tour in Cairo.",
+            "overview": "Get ready to be captivated by the allure of Egypt's iconic destinations as you begin your tour in Cairo.",
+            "duration": "9 days / 8 Nights",
+            "duration_hours": 216,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 1455,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/a/1/a1e0f54741ae47759c03cdaa57e95ff4.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/camel_pyramids_1.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/u/luxor__lux.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Cairo Tour",
+                "Cairo",
+                "Alexandria"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "Once your flight landing at Cairo airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Tour",
+                    "icon": "map",
+                    "description": "Ibis Egypt tours representative will pick you up from your hotel after enjoying the relish of your breakfast."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Cairo",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast at hotel, Meet By Ibis Egypt tours Representative after Check-Out From Hotel."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Alexandria",
+                    "icon": "map",
+                    "description": "Ibis Egypt tours representative will pick you up from your hotel after enjoying the relish of your breakfast."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport plus transfer to hotel by Private A/C modern.",
+                "Accommodation for 04-Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 01-Night in Alexandria on Bed & Breakfast",
+                "Accommodation for 03 Nights at 5-star Nile Cruise on Full board including breakfast."
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
+        },
+        {
+            "slug": "the-nile-and-lake-nasser-cruise-packages",
+            "name": "Nile and Lake Nasser Cruise Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "aswan",
+            "destination_label": "Nile & Lake Nasser",
+            "description": "Don't miss our Nile and Lake Nasser Cruise Package with Ibis Egypt Tours.",
+            "overview": "Don't miss our Nile and Lake Nasser Cruise Package with Ibis Egypt Tours.",
+            "duration": "10 days / 9 Nights",
+            "duration_hours": 240,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 0,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/n/i/nile_felluca__cairo__egypt_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/o/kom-ombo.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/d/edfucourt.webp"
+            ],
+            "highlights": [
+                "Arrival Luxor",
+                "Luxor Nile Cruise Excursion",
+                "Edfu and Kom Ombo",
+                "Aswan Nile Cruise Tours"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrival Luxor",
+                    "icon": "map",
+                    "description": "Ibis Tours Egypt representative will assist you at Luxor Airport."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Luxor Nile Cruise Excursion",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast on board, Start to embrace the culture, walkthrough Valley of the Kings."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Edfu and Kom Ombo",
+                    "icon": "map",
+                    "description": "Tasty breakfast is waiting for you on board, scout Horus Temple in Edfu, Lunch will be served on board, next sail to Kom Ombo."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Aswan Nile Cruise Tours",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast on board,."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Luxor and Abu Simbel airports",
+                "All transfers by air-conditioned modern Van.",
+                "A Bottle of Mineral Water to each person",
+                "Accommodation of 4 nights on 5* Nile River cruise on full board"
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Optional tours if required",
+                "Tip"
+            ]
+        },
+        {
+            "slug": "abu-simbel-festival-tours",
+            "name": "Egypt Package with Abu Simbel Tour",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "aswan",
+            "destination_label": "Cairo, Luxor, Aswan & Abu Simbel",
+            "description": "Our specially curated Abu Simbel Tour allows you to witness the incredible event of Abu Simbel Festival.",
+            "overview": "Our specially curated Abu Simbel Tour allows you to witness the incredible event of Abu Simbel Festival.",
+            "duration": "10 days / 9 Nights",
+            "duration_hours": 240,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 0,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/e/g/egypt-changed-my-perspective-on-travel-v0-dsxjjr72hyfb1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/_/7_hero.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/_/5.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/_/2.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo (15 October/ February )",
+                "Cairo Tours (16 October / February)",
+                "Karnak and Luxor Tours (17 October / February)",
+                "Valley of the Kings, Hatshepsut Temple (18."
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo (15 October/ February )",
+                    "icon": "map",
+                    "description": "Once your flight landing at Cairo airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Tours (16 October / February)",
+                    "icon": "map",
+                    "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and The Egyptian Museum."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Karnak and Luxor Tours (17 October / February)",
+                    "icon": "map",
+                    "description": "After enjoying your breakfast, Ibis Egypt tours representative will pick you up from your hotel then transfer to Cairo domestic airport."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Valley of the Kings, Hatshepsut Temple (18.",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast on board your Nile Cruise, watch life unfold as you sail the Nile, start your round to visit Valley of the Kings."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport plus transfer to hotel by air-conditioned.",
+                "Accommodation for 03 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 02 Night in Aswan Hotel with breakfast",
+                "Accommodation for 04 Nights at 05 stars Nile Cruise on Full board including breakfast."
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
+        },
+        {
+            "slug": "cairo-nile-cruise-hurghada-package",
+            "name": "10 Days Egypt Trip: Cairo, Nile Cruise and Hurghada",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Nile Cruise & Hurghada",
+            "description": "Begin your Egypt Trip in Cairo, the vibrant capital city that seamlessly combines ancient wonders with modern marvels.",
+            "overview": "Begin your Egypt Trip in Cairo, the vibrant capital city that seamlessly combines ancient wonders with modern marvels.",
+            "duration": "10 days / 9 Nights",
+            "duration_hours": 240,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 1260,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/g/s/gsdfsfc.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/r/brown-and-white-paper-ripped-travel-scrapbook-1.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/0/60552226_886704465014466_1309227155587068606_n.webp"
+            ],
+            "highlights": [
+                "Day 01: Arrive Cairo, Egypt",
+                "Day 02: Cairo Day Tour",
+                "Day 03: Cairo Tour",
+                "Day 04: Nile Cruise"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Day 01: Arrive Cairo, Egypt",
+                    "icon": "map",
+                    "description": "As you step foot in Cairo, the vibrant energy of the city envelops you."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Day 02: Cairo Day Tour",
+                    "icon": "map",
+                    "description": "Enjoy a tasty breakfast at the hotel in Cairo."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Day 03: Cairo Tour",
+                    "icon": "map",
+                    "description": "Enjoy a tasty breakfast at the hotel in Cairo."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Day 04: Nile Cruise",
+                    "icon": "map",
+                    "description": "Wake up to the beauty of Aswan as your Ibis Egypt tours representative greets you at the train station."
+                }
+            ],
+            "inclusions": [
+                "Meet & assist at Cairo International Airport.",
+                "Accommodation for 03 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 03 Nights on board 5-star Nile Cruise on full board.",
+                "Accommodation for 02 Nights in Hurghada on full board."
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
+        },
+        {
+            "slug": "10-days-cairo-nile-cruise-and-sharm-el-sheikh",
+            "name": "10 Days Cairo, Nile Cruise and Sharm El Sheikh Tour Package",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Nile Cruise & Sharm El Sheikh",
+            "description": "Experience the ultimate Best of Egypt Tour!",
+            "overview": "Experience the ultimate Best of Egypt Tour!",
+            "duration": "10 days / 9 Nights",
+            "duration_hours": 240,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 990,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/k/b/kbchqawemay_1.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/145_1__2_1.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/145_5_1.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Cairo Day Tour",
+                "Nile Cruise and Aswan Day Tour",
+                "Kom Ombo Temples Tour"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "Once your flight landing at Cairo Airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and the Egyptian Museum."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Nile Cruise and Aswan Day Tour",
+                    "icon": "map",
+                    "description": "Wake up to the beauty of Aswan as your Ibis Egypt tours representative greets you at the train station."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Kom Ombo Temples Tour",
+                    "icon": "map",
+                    "description": "Breakfast on board, enjoy the scenic sailing to Kom Ombo, and explore the Temple dedicated to the two gods Sobek and Horus."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport plus transfer to hotel by air-conditioned modern.",
+                "Accommodation for 02 Nights in Cairo on Bed & Breakfast",
+                "Accommodation for 03 Nights at 05 stars Nile Cruise including breakfast, Lunch, Dinner.",
+                "Accommodation for 03 Nights in Sharm el-Sheikh on Full Board"
+            ],
+            "exclusions": [
+                "International flight",
+                "Domestic flight Luxor / Sharm - Sharm / Cairo",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian."
+            ]
+        },
+        {
+            "slug": "cairo-nile-cruise-and-desert-egypt-safari",
+            "name": "Cairo, Nile Cruise and Desert Egypt Safari",
+            "category": "egypt-classic-tours",
+            "tour_type": "egypt-classic-tours",
+            "destination": "cairo",
+            "destination_label": "Cairo, Nile Cruise & Desert Safari",
+            "description": "Our carefully Cairo, Nile Cruise and Desert Egypt Safari package is designed to give you a memorable experience.",
+            "overview": "Our carefully Cairo, Nile Cruise and Desert Egypt Safari package is designed to give you a memorable experience.",
+            "duration": "16 days / 15 Nights",
+            "duration_hours": 384,
+            "duration_key": "multiDay",
+            "run": "Daily",
+            "group_size": "Private",
+            "languages": "English",
+            "rating": 0,
+            "review_count": 0,
+            "best_seller": false,
+            "price": {
+                "amount": 0,
+                "currency": "USD"
+            },
+            "image_url": "https://ibisegypttours.com/media/catalog/product/cache/1/image/380x/17f82f742ffe127f42dca9de82fb58b1/4/a/4a5e9da4e729973e3de152cc9889558a_2.webp",
+            "gallery": [
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/f/ef8db94a2188d767d6a0747ca0295b7c.webp",
+                "https://ibisegypttours.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/8/188700_f614f84a.webp"
+            ],
+            "highlights": [
+                "Arrive Cairo",
+                "Cairo Day Tour",
+                "Alexandria Tour",
+                "Siwa Oasis Day Tour"
+            ],
+            "itinerary": [
+                {
+                    "time": "Day 1",
+                    "title": "Arrive Cairo",
+                    "icon": "map",
+                    "description": "Once your flight landing at Cairo Airport, Ibis Egypt Tours representative will be waiting for you, holding a sign with your name."
+                },
+                {
+                    "time": "Day 2",
+                    "title": "Cairo Day Tour",
+                    "icon": "map",
+                    "description": "Enjoy tasty breakfast at your hotel, then Ibis Egypt tours tour guide will escort you to Pyramids of Giza and the Egyptian Museum."
+                },
+                {
+                    "time": "Day 3",
+                    "title": "Alexandria Tour",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast at hotel, Today is different day."
+                },
+                {
+                    "time": "Day 4",
+                    "title": "Siwa Oasis Day Tour",
+                    "icon": "map",
+                    "description": "Enjoy the relish of your breakfast at hotel, today you will discover the hidden secrets of the Egyptian Safari."
+                }
+            ],
+            "inclusions": [
+                "Meet at Cairo International Airport Plus transfer to hotel by air-conditioned van",
+                "Accommodation for 03 nights in Cairo including breakfast & all taxes",
+                "Accommodation for 02 Nights at Siwa Paradise or similar on H/B",
+                "Accommodation for 01 Night at Bahariya International Hot Spring hotel or similar on HB"
+            ],
+            "exclusions": [
+                "International flight",
+                "Visa to Egypt",
+                "Supplement cost for the Grand Egyptian Museum instead of the Old Egyptian.",
+                "Entrance inside any of the pyramids will be with extra fees (Tickets can be."
+            ]
         }
     ]
 }
